@@ -16,7 +16,7 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2012 rok</h2>
-                <h2>Okres 31. marca 2012 - 31. grudnia 2012 r.</h2>
+                <h2>Okres 31.&nbsp;marca - 31.&nbsp;grudnia 2012&nbsp;r.</h2>
 <div class="card">
     <div class="card-header">
         <h3>30. grudnia 2012 r.</h3>

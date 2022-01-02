@@ -16,7 +16,130 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 26.&nbsp;grudnia 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 31.&nbsp;grudnia 2021&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            27.12.2021&nbsp;r. – 31.12.2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">27&nbsp;grudnia, Poniedziałek –
+Święto św.&nbsp;Jana, apostoła i&nbsp;ewangelisty</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę
+    Matki Bożej dla Macieja z&nbsp;racji 18&nbsp;r. urodzin</li>
+    <li>6.30 int. dziękczynna z&nbsp;racji urodzin Moniki
+    z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne łaski,
+    opiekę Matki Bożej</li>
+    <li>6.30 + Henrykę Figas</li>
+    <li>18.00 dziękczynno-błagalna z&nbsp;racji 62&nbsp;r.&nbsp;sakr.
+    małżeństwa Stanisławy i&nbsp;Tadeusza, o&nbsp;Boże
+    błogosławieństwo i&nbsp;potrzebne łaski, opiekę Matki Bożej dla
+    całej rodziny</li>
+    <li>18.00 + Zofię Wnuk</li>
+    <li>18.00 + Anielę Kargul</li>
+</ul>
+
+<p class="intentions_date">28&nbsp;grudnia, Wtorek –
+Święto świętych Młodzianków</p>
+<ul>
+    <li>6.30 + Jana Borkowskiego</li>
+    <li>6.30 + Bronisławę, Józefa, Jana, Tadeusza Wójcików; Karolinę,
+    Jana Mrozków</li>
+    <li>6.30 + Tadeusza Lipczyńskiego</li>
+    <li>18.00 + Zofię, Mariana Krawczyków</li>
+    <li>18.00 + Jacka Strugałę</li>
+    <li>18.00 + Rozalię, Stanisława Oszczudłowskich,
+    zm.&nbsp;z&nbsp;rodz. Nowaków</li>
+</ul>
+
+<p class="intentions_date">29&nbsp;grudnia, Środa</p>
+<ul>
+    <li>6.30 Reginę, Zygmunta, Rafała Stolów, Anielę, Wincentego
+    Bilskich</li>
+    <li>6.30 + Mariannę, Kazimierza, Henryka Lipców; Mariannę,
+    Walentego Grzesików; Jadwigę, Wacława Wieczorków; Mirosława
+    Rzepkę</li>
+    <li>18.00 + Zofię, Stanisława Frańczaków; Genowefę, Annę,
+    Wincentego Różalskich</li>
+    <li>18.00 + Alicję Gilewską</li>
+    <li>18.00 + Krzysztofa i&nbsp;zm.&nbsp;z&nbsp;rodz. Wąsików,
+    Jurków oraz zm.&nbsp;sąsiadów</li>
+</ul>
+
+<p class="intentions_date">30&nbsp;grudnia, Czwartek</p>
+<ul>
+    <li>6.30 + Czesława Biernickiego</li>
+    <li>6.30 + Anielę Kargul</li>
+    <li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+    i&nbsp;eutanazji</li>
+    <li>18.00 + Edmunda w&nbsp;7&nbsp;r.&nbsp;śm., Zofię, Jana
+    Rosieckich</li>
+    <li>18.00 + Mariannę, Stefana Kwietniów; zm.&nbsp;z&nbsp;rodz.
+    Kwietniów, Zybałów, Wiśniewskich, Misiudów</li>
+</ul>
+
+<p class="intentions_date">31&nbsp;grudnia, Piątek</p>
+<ul>
+    <li>6.30 + Edwarda Sieradzana</li>
+    <li>6.30 + Anielę Kargul</li>
+    <li>18.00 + Bogusława Żyłę</li>
+    <li>18.00 + Tadeusza Mądrego w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Witolda, Seweryna, Teresę w&nbsp;r.&nbsp;śm. Rybów</li>
+    <li>18.00 + Adama Grządkowskiego w&nbsp;dniu pogrzebu</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>26.&nbsp;grudnia 2021&nbsp;r.</h3>
+        <h3>Święto Świętej Rodziny, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy za&nbsp;wykonanie dekoracji Bożonarodzeniowej przy
+        ołtarzu, Paniom: Dorocie Sarzyńskiej i&nbsp;Jolancie Maciejewskiej,
+        i&nbsp;Panom: Andrzejowi Anwajlerowi i&nbsp;Wacławowi Miszczakowi.
+        <em>Bóg zapłać</em> wszystkim, którzy w&nbsp;jakikolwiek sposób
+        angażują się w&nbsp;parafialne duszpasterstwo.</p>
+        <p>2. W&nbsp;najbliższy piątek o&nbsp;godz.&nbsp;17.00 Msza&nbsp;św.
+        na&nbsp;zakończenie roku z&nbsp;uroczystym „Te Deum”
+        i&nbsp;błogosławieństwem Najświętszym Sakramentem.</p>
+        <p>3. W&nbsp;sobotę 1&nbsp;stycznia - Uroczystość Świętej Bożej
+        Rodzicielki – Nowy Rok. Porządek Mszy&nbsp;św. jak
+        w&nbsp;Niedzielę.</p>
+        <p>4. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+        <p>5. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św. o&nbsp;godz.&nbsp;11.15 – adoracja Najśw. Sakramentu
+        połączona z&nbsp;modlitwą różańcową, którą poprowadzi Koło Żywego
+        Różańca z&nbsp;naszej parafii i&nbsp;zmiana tajemnic różańcowych.
+        Zapraszamy do&nbsp;udziału w&nbsp;tej modlitwie.</p>
+        <p>6. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
+        „Gość Niedzielny”, dla dzieci „Mały Gość”, dla młodzieży „Miłujcie
+        się”.</p>
+        <p>7. Ks.&nbsp;Biskup ordynariusz udzielił dyspensy od&nbsp;obowiązku
+        powstrzymania się od&nbsp;spożywania pokarmów mięsnych
+        i&nbsp;zachowania pokutnego charakteru piątku 31&nbsp;grudnia
+        2021&nbsp;r. wiernym Diecezji Sandomierskiej oraz wszystkim
+        przebywającym w&nbsp;tym dniu na&nbsp;jej terenie. Jednocześnie
+        zachęca wszystkich wiernych, którzy skorzystają z&nbsp;dyspensy
+        do&nbsp;zadośćuczynienia obowiązkowi pokuty w&nbsp;wybranej formie,
+        np.&nbsp;wypełnienie uczynków miłosierdzia, pobożności, jałmużny.</p>
+        <p>8. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;życzenia Bożonarodzeniowe, za&nbsp;wszelką pomoc, złożone
+        ofiary na&nbsp;rzecz parafii. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 26.&nbsp;grudnia 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
