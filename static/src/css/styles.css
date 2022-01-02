@@ -1,0 +1,133 @@
+@import url('stats_table.css');
+
+* {
+  margin: 0em;
+  padding: 0em;
+}
+a {
+  color: #995500;
+}
+a:hover {
+  color: #663300;
+}
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  background: #FFFFFF;
+  font-size: 1.2em;
+}
+iframe {
+  padding-bottom: 25px;
+}
+.swiatynia {
+  max-width: 100%;
+  border: 1px solid black;
+}
+.card-header {
+  font-weight: bold;
+  background-color: #f1dec7;
+}
+.clear {
+  clear: both;
+}
+.text-indent {
+  text-indent: 25px;
+}
+.text-underline {
+  text-decoration: underline;
+}
+
+/* Header */
+header {
+  padding: 1.5em 2em 1.5em 4em;
+  background: #2E2017 url('../images/a1.jpg') top left repeat-x;
+}
+header h1 {
+  font-size: 2.0em;
+}
+header h1 a, header h1 a:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+header h2 {
+  color: #BBAA77;
+  font-size: 1.2em;
+}
+.first-content-header {
+  margin-top: 10px;
+  background: #2E2017 url('../images/a4.gif') top left repeat-x;
+  color: #FFFFFF;
+  padding: 0.5em 0.5em 0.5em 1.0em;
+}
+
+/* Menu */
+nav {
+  background: #F1DFC9 url('../images/a2.gif') top left repeat-x;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #38271C;
+  font-weight: bold;
+  text-decoration: none;
+  padding-left: 5px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  background: #342117 url('../images/a4.gif') top left repeat-x;
+  color: #FFFFFF;
+}
+.navbar-light .navbar-nav .nav-link.active {
+  color: red;
+}
+.navbar-brand {
+  margin-top: -5px;
+}
+
+div.card div.col li {
+  margin-left: 20px;
+}
+div.card div.col p:first-child,
+div.card div.col h3:first-child,
+div.card div.col h4:first-child {
+  margin-top: 15px;
+}
+
+p.intentions_date{
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.post_image{
+  max-width: 100%;
+}
+
+td.hour {
+    width: 70px;
+}
+
+#logo_dni_mlodych, #program_obchodow_jubileuszu {
+    border: 1px solid black;
+    width: 640px;
+}
+
+/* Right Panel */
+.rightPanel h3 {
+  background: #2E2017 url('../images/a4.gif') top left repeat-x;
+  color: #FFFFFF;
+  padding: 0.5em 0.5em 0.5em 1.0em;
+  position: relative;
+  font-size: 1.0em;
+}
+.rightPanel h3 a, .rightPanel h3 a:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+/* Footer */
+.tiny {
+  font-size: 0.8em;
+}
+footer {
+  padding: 1.5em 2em 1.5em 2em;
+  text-align: center;
+  margin: 0em auto;
+  border-top: solid 1px #efeecc;
+  font-size: 0.9em;
+}
