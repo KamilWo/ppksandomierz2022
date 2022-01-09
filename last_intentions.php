@@ -1,87 +1,82 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            03.01. – 09.01.2022&nbsp;r.
+            10.01. – 16.01.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">03&nbsp;stycznia, Poniedziałek</p>
+<p class="intentions_date">10&nbsp;stycznia, Poniedziałek</p>
 <ul>
-    <li>6.30 + Edwarda Sieradzana</li>
-    <li>6.30 + Idę Małecką - greg.&nbsp;3</li>
-    <li>6.30 + Piotra Cieślaka</li>
-    <li>6.30 + Stanisława, Leokadię, Romana, Marię, Antoninę
-    Majcherów</li>
-    <li>18.00 + Jana Chmiela</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;10</li>
+    <li>6.30 + Lucję Lis</li>
+    <li>6.30 + Zofię, Marię, Tadeusza Pająków</li>
+    <li>18.00 int. dziękczynna w&nbsp;15&nbsp;r. powstania Prezydium
+    Legionu Maryi w&nbsp;naszej Parafii</li>
     <li>18.00 + Halinę Hagdej</li>
 </ul>
 
-<p class="intentions_date">04&nbsp;stycznia, Wtorek</p>
+<p class="intentions_date">11&nbsp;stycznia, Wtorek</p>
 <ul>
-    <li>6.30 int. dziękczynna z&nbsp;prośbą o&nbsp;Boże
-    błogosławieństwo na&nbsp;nowy rok w&nbsp;rodz. Buczków
-    i&nbsp;Maliborskich</li>
-    <li>6.30 + Idę Małecką - greg.&nbsp;4</li>
-    <li>6.30 + Sylwestra Gajka w&nbsp;7&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Bronisławę Borkowską; Kazimierę Jaglewicz; Albinę,
-    Feliksa Borkowskich</li>
+    <li>6.30 + Teodozję w&nbsp;11&nbsp;r.&nbsp;śm. Zdzisława Dudków,
+    zm.&nbsp;z&nbsp;rodz. i&nbsp;dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>6.30 + Halinę Hagdej</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;11</li>
+    <li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+    i&nbsp;eutanazji</li>
 </ul>
 
-<p class="intentions_date">05&nbsp;stycznia, Środa</p>
+<p class="intentions_date">12&nbsp;stycznia, Środa</p>
 <ul>
-    <li>6.30 + Idę Małecką - greg.&nbsp;5</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;12</li>
+    <li>6.30 + Michała Dudę</li>
+    <li>6.30 + Jerzego Malca</li>
+    <li>18.00 + Alicję Gilewską</li>
+</ul>
+
+<p class="intentions_date">13&nbsp;stycznia, Czwartek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej dla Asi z&nbsp;racji
+    urodzin</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;13</li>
+    <li>6.30 + Zygmunta Mazura</li>
+    <li>18.00 int. dziękczynna z&nbsp;racji urodzin Dominiki
+    z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej</li>
+</ul>
+
+<p class="intentions_date">14&nbsp;stycznia, Piątek</p>
+<ul>
+    <li>6.30 + Idę Małecką - greg.&nbsp;14</li>
     <li>6.30 + Barbarę Stradomską</li>
-    <li>6.30 + Marię Kos</li>
-    <li>18.00 + Mariannę Przychodzką</li>
+    <li>6.30 + Tadeusza Śledzia</li>
+    <li>18.00 + Józefę, Zygmunta Paluchów, Mariannę Zbigniewa
+    Teterlingów</li>
 </ul>
 
-<p class="intentions_date">06&nbsp;stycznia, Czwartek –
-Uroczystość Objawienia Pańskiego</p>
+<p class="intentions_date">15&nbsp;stycznia, Sobota</p>
 <ul>
-    <li>7.30 + Helenę, Władysława Sudołów; Wiktorię, Władysława
-    Politów oraz dusze w&nbsp;czyśćcu cierpiące</li>
-    <li>9.30 + Genowefę, Stanisława Rusaków</li>
-    <li>11.15 + Idę Małecką - greg.&nbsp;6</li>
-    <li>12.30 w&nbsp;int. parafian</li>
-    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
-    Ducha Świętego, łaskę nawrócenia, pogłębienia wiary
-    w&nbsp;rodzinie</li>
-</ul>
-
-<p class="intentions_date">07&nbsp;stycznia, Piątek</p>
-<ul>
-    <li>6.30 + Idę Małecką - greg.&nbsp;7</li>
-    <li>6.30 + Teresę Janus w&nbsp;r.&nbsp;śm.</li>
-    <li>6.30 + Stanisława Czajkę i&nbsp;zm.&nbsp;z&nbsp;rodz. Czajków
-    i&nbsp;Gachów</li>
-    <li>18.00 + Tadeusza Szwagierczaka w&nbsp;1&nbsp;r.&nbsp;śm.;
-    + Janinę Kucharską w&nbsp;16&nbsp;r.&nbsp;śm.</li>
-</ul>
-
-<p class="intentions_date">08&nbsp;stycznia, Sobota</p>
-<ul>
-    <li>6.30 w&nbsp;int. Moniki i&nbsp;Łukasza o&nbsp;Boże
-    błogosławieństwo, opiekę Matki Bożej, potrzebne łaski
-    w&nbsp;małżeństwie</li>
-    <li>6.30 + Mariannę Kozakiewicz</li>
-    <li>6.30 + Idę Małecką - greg.&nbsp;8</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;15</li>
+    <li>6.30 + Zdzisława Bernasia w&nbsp;2&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 + Franciszka Muchę, Władysława, Władysławę Grudniów</li>
     <li>18.00 + Leokadię Bryłę</li>
-    <li>18.00 + Henrykę Figas</li>
+    <li>18.00 + Tadeusza Lipczyńskiego</li>
 </ul>
 
-<p class="intentions_date">09&nbsp;stycznia, Niedziela –
+<p class="intentions_date">16&nbsp;stycznia, Niedziela –
     <span style="color: grey">
-        Święto Chrztu Pańskiego
+        II&nbsp;Niedziela zwykła, Rok&nbsp;C
     </span>
 </p>
 <ul>
-    <li>7.30 + Alicję Gilewską; Józefa, Stefanię Janus; Krystynę
-    Polit</li>
-    <li>9.30 + Mariannę Jedlińską</li>
-    <li>11.15 + Kazimierza, Mariannę Kieszkowskich,
-    zm.&nbsp;z&nbsp;rodz. Kieszkowskich, Nidzielskich</li>
-    <li>12.30 w&nbsp;int. parafian</li>
-    <li>18.00 + Idę Małecką - greg.&nbsp;9</li>
+    <li>7.30  w&nbsp;int. Kręgu Domowego Kościoła</li>
+    <li>9.30 + Mieczysława, Helenę, Jana Wnuków; Katarzynę,
+    Stanisława Wyrzykowskich; Tadeusza Judę; Piotrusia
+    Bogdańskiego</li>
+    <li>11.15 w&nbsp;int. parafian</li>
+    <li>12.30 + Idę Małecką - greg.&nbsp;16</li>
+    <li>18.00 + Bolesława Kamińskiego w&nbsp;48&nbsp;r.&nbsp;śm.;
+    Anielę, Józefa Szajów</li>
 </ul>
     </div>
 </div>
