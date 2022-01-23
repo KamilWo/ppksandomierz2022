@@ -1,79 +1,86 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            17.01. – 23.01.2022&nbsp;r.
+            24.01. – 30.01.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">17&nbsp;stycznia, Poniedziałek –
-św.&nbsp;Antoniego</p>
+<p class="intentions_date">24&nbsp;stycznia, Poniedziałek –
+św.&nbsp;Franciszka Salezego</p>
 <ul>
-    <li>6.30 + Idę Małecką - greg.&nbsp;17</li>
-    <li>6.30 + Lucję Lis</li>
-    <li>18.00 + Lucjana Wodza</li>
+    <li>6.30 + Mariannę Kozakiewicz</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;24</li>
+    <li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana,
+    Krystynę, Mariana</li>
+    <li>18.00 +Dorotę Zuba w 16 r. śm.</li>
 </ul>
 
-<p class="intentions_date">18&nbsp;stycznia, Wtorek</p>
+<p class="intentions_date">25&nbsp;stycznia, Wtorek –
+Święto Nawrócenia św.&nbsp;Pawła Apostoła</p>
 <ul>
-    <li>6.30 + Idę Małecką - greg.&nbsp;18</li>
-    <li>6.30 + Mariannę Przychodzką</li>
-    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
-    Ducha Świętego, opiekę Matki Bożej dla Mai Szwagierczak
-    z&nbsp;racji 7&nbsp;urodzin oraz za&nbsp;zm.&nbsp;z&nbsp;rodz.
-    Szwagierczaków</li>
-    <li>18.00 + Henrykę Figas</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;25</li>
+    <li>6.30 + Ryszarda Chrząstowskiego</li>
+    <li>18.00 + Mariannę Kozłowską</li>
+    <li>18.00 + Anielę Gospodarczyk i&nbsp;zm. rodziców
+    i&nbsp;dziadków Wielopolskich</li>
 </ul>
 
-<p class="intentions_date">19&nbsp;stycznia, Środa –
-św.&nbsp;Józefa Sebastiana Pelczara</p>
+<p class="intentions_date">26&nbsp;stycznia, Środa –
+św.&nbsp;biskupów Tymoteusza i&nbsp;Tytusa</p>
+<ul>
+    <li>6.30 + Szczepana w&nbsp;r.&nbsp;śm., Jadwigę Kasprzyckich,
+    zm.&nbsp;z&nbsp;rodz. oraz dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;26</li>
+    <li>18.00 dziękczynno-błagalna z&nbsp;prośbą o&nbsp;Boże
+    miłosierdzie, łaskę wiary, nadziei i&nbsp;miłości, łaskę pokory,
+    nawrócenia, i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
+    <li>18.00 + Eugeniusza, Teresę, zm.&nbsp;z&nbsp;rodz. Paciochów;
+    Zenona Mądrego i&nbsp;zm.&nbsp;rodziców</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;stycznia, Czwartek</p>
 <ul>
     <li>6.30 + Halinę Hagdej</li>
-    <li>6.30 + Idę Małecką - greg.&nbsp;19</li>
-    <li>18.00 + Henryka Semprucha</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;27</li>
+    <li>18.00 + Anielę Kargul</li>
+    <li>18.00 + Adama Nagórnego</li>
 </ul>
 
-<p class="intentions_date">20&nbsp;stycznia, Czwartek</p>
+<p class="intentions_date">28&nbsp;stycznia, Piątek –
+św.&nbsp;Tomasza z&nbsp;Akwinu</p>
 <ul>
-    <li>6.30 + Idę Małecką - greg.&nbsp;20</li>
-    <li>6.30 + Urszulę Obitko</li>
-    <li>18.00 + Henrykę Figas</li>
+    <li>6.30 o&nbsp;łaskę dobrej śmierci</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;28</li>
+    <li>18.00 + Lucję Lis</li>
+    <li>18.00 + Stanisława, Genowefę i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
 </ul>
 
-<p class="intentions_date">21&nbsp;stycznia, Piątek –
-św.&nbsp;Agnieszki</p>
+<p class="intentions_date">29&nbsp;stycznia, Sobota</p>
 <ul>
-    <li>6.30 + Idę Małecką - greg.&nbsp;21</li>
-    <li>6.30 + Marię Włoch</li>
-    <li>18.00 + Zenona Kędziorę w&nbsp;4&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
+    Krystiana z&nbsp;racji urodzin</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;29</li>
+    <li>18.00 dziękczynna z&nbsp;racji urodzin Agnieszki prośbą
+    o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
+    Świętego, opiekę Matki Bożej</li>
+    <li>18.00 + Zofię w&nbsp;2&nbsp;r.&nbsp;śm., Władysława
+    Guściorów</li>
 </ul>
 
-<p class="intentions_date">22&nbsp;stycznia, Sobota</p>
-<ul>
-    <li>6.30 + Zdzisława w&nbsp;r.&nbsp;śm. Teodozję Dudków,
-    zm.&nbsp;z&nbsp;rodz. i&nbsp;dusze w&nbsp;czyśćcu cierpiące</li>
-    <li>6.30 + Idę Małecką - greg.&nbsp;22</li>
-    <li>6.30 + Walentego, Juliannę Bulirów; Wincentego Kołodzieja;
-    Marię Włoch; Irenę, Tadeusza Kołaczów</li>
-    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
-    Ducha Świętego, opiekę Matki Bożej z&nbsp;racji 18&nbsp;urodzin
-    Radosława Brecławskiego</li>
-    <li>18.00 + Henryka Semprucha</li>
-</ul>
-
-<p class="intentions_date">23&nbsp;stycznia, Niedziela –
+<p class="intentions_date">30&nbsp;stycznia, Niedziela –
     <span style="color: grey">
-        III&nbsp;Niedziela zwykła, Rok&nbsp;C
+        IV&nbsp;Niedziela zwykła, Rok&nbsp;C
     </span>
 </p>
 <ul>
-    <li>7.30 + Tadeusza Lipczyńskiego</li>
-    <li>9.30 w&nbsp;int. parafian</li>
-    <li>11.15 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
-    Ducha Świętego, mądrość w&nbsp;podejmowaniu życiowych decyzji,
-    opiekę Matki Bożej z&nbsp;racji 18&nbsp;urodzin Heleny Jońca</li>
-    <li>12.30 + Idę Małecką - greg.&nbsp;23</li>
-    <li>18.00 + Bogusława Sarzyńskiego; Annę, Janusza, Stanisława
-    Rożmiejów; Zofię, Mikołaja, Eugeniusza Kapustów</li>
+    <li>7.30 w&nbsp;int. parafian</li>
+    <li>9.30 + Kazimierza w&nbsp;19&nbsp;r.&nbsp;śm., Stefanię, Jana,
+    Stanisława, Jerzego Sadowników</li>
+    <li>11.15 + Kazimierza Kondeusza w&nbsp;7&nbsp;r.&nbsp;śm.</li>
+    <li>12.30 + Idę Małecką - greg.&nbsp;30</li>
+    <li>18.00 + Jadwigę, Czesława, Dariusza Skroków; Marię, Józefa
+    Dziubów</li>
 </ul>
     </div>
 </div>

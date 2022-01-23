@@ -16,7 +16,132 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 16.&nbsp;stycznia 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 23.&nbsp;stycznia 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            17.01. – 23.01.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">17&nbsp;stycznia, Poniedziałek –
+św.&nbsp;Antoniego</p>
+<ul>
+    <li>6.30 + Idę Małecką - greg.&nbsp;17</li>
+    <li>6.30 + Lucję Lis</li>
+    <li>18.00 + Lucjana Wodza</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;stycznia, Wtorek</p>
+<ul>
+    <li>6.30 + Idę Małecką - greg.&nbsp;18</li>
+    <li>6.30 + Mariannę Przychodzką</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej dla Mai Szwagierczak
+    z&nbsp;racji 7&nbsp;urodzin oraz za&nbsp;zm.&nbsp;z&nbsp;rodz.
+    Szwagierczaków</li>
+    <li>18.00 + Henrykę Figas</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;stycznia, Środa –
+św.&nbsp;Józefa Sebastiana Pelczara</p>
+<ul>
+    <li>6.30 + Halinę Hagdej</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;19</li>
+    <li>18.00 + Henryka Semprucha</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;stycznia, Czwartek</p>
+<ul>
+    <li>6.30 + Idę Małecką - greg.&nbsp;20</li>
+    <li>6.30 + Urszulę Obitko</li>
+    <li>18.00 + Henrykę Figas</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;stycznia, Piątek –
+św.&nbsp;Agnieszki</p>
+<ul>
+    <li>6.30 + Idę Małecką - greg.&nbsp;21</li>
+    <li>6.30 + Marię Włoch</li>
+    <li>18.00 + Zenona Kędziorę w&nbsp;4&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">22&nbsp;stycznia, Sobota</p>
+<ul>
+    <li>6.30 + Zdzisława w&nbsp;r.&nbsp;śm. Teodozję Dudków,
+    zm.&nbsp;z&nbsp;rodz. i&nbsp;dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>6.30 + Idę Małecką - greg.&nbsp;22</li>
+    <li>6.30 + Walentego, Juliannę Bulirów; Wincentego Kołodzieja;
+    Marię Włoch; Irenę, Tadeusza Kołaczów</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej z&nbsp;racji 18&nbsp;urodzin
+    Radosława Brecławskiego</li>
+    <li>18.00 + Henryka Semprucha</li>
+</ul>
+
+<p class="intentions_date">23&nbsp;stycznia, Niedziela –
+    <span style="color: grey">
+        III&nbsp;Niedziela zwykła, Rok&nbsp;C
+    </span>
+</p>
+<ul>
+    <li>7.30 + Tadeusza Lipczyńskiego</li>
+    <li>9.30 w&nbsp;int. parafian</li>
+    <li>11.15 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, mądrość w&nbsp;podejmowaniu życiowych decyzji,
+    opiekę Matki Bożej z&nbsp;racji 18&nbsp;urodzin Heleny Jońca</li>
+    <li>12.30 + Idę Małecką - greg.&nbsp;23</li>
+    <li>18.00 + Bogusława Sarzyńskiego; Annę, Janusza, Stanisława
+    Rożmiejów; Zofię, Mikołaja, Eugeniusza Kapustów</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>16.&nbsp;stycznia 2022&nbsp;r.</h3>
+        <h3>II NIEDZIELA Zwykła, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Za&nbsp;naszym pośrednictwem do&nbsp;parafian, zwracają się
+        rodzice chorej małej Zosi Słapek z&nbsp;parafii Przybysławice,
+        niedaleko Ożarowa, z&nbsp;prośbą o&nbsp;pomoc w&nbsp;leczeniu
+        dziecka. Dziewczynka przyszła na&nbsp;świat z&nbsp;przepukliną
+        oponową-rdzeniowa, ze&nbsp;współistniejącym wodogłowiem,
+        na&nbsp;które przeszła już operacje. Niestety później stwierdzono
+        niedowład kończyn dolnych i&nbsp;także niedowład prawej ręki, inne
+        niesprawności łącznie z&nbsp;autyzmem. Każdy w&nbsp;zasadzie dzień
+        to&nbsp;walka o&nbsp;zdrowie Zosi. W&nbsp;ulotkach informującej
+        o&nbsp;sytuacji Zosi, które są&nbsp;na&nbsp;stoliku w&nbsp;kościele
+        pod chórem czytamy, co&nbsp;piszą jej rodzice: „Bez Państwa pomocy
+        nie jesteśmy w&nbsp;stanie zrobić wystarczająco wiele, aby nasza
+        córeczka mogła skorzystać z&nbsp;fachowej opieki terapeutycznej.
+        Z&nbsp;Państwa pomocą, bariera finansowa przestaje ograniczać nasze
+        starania o&nbsp;lepsze i&nbsp;samodzielne życie naszej córeczki,
+        za&nbsp;co&nbsp;prosto z&nbsp;serc pragniemy podziękować”.
+        W&nbsp;przyszłą niedzielę po&nbsp;Mszach&nbsp;św. w&nbsp;naszej
+        parafii, rodzice chorej dziewczynki i&nbsp;woluntariusze będą zbierać
+        datki na&nbsp;rzecz leczenia Zosi. Wszystkim, którzy pomogą,
+        serdeczne <em>Bóg zapłać</em>.</p>
+        <p>2. W&nbsp;tym tygodniu w&nbsp;Kościele Powszechnym, modlimy się
+        o&nbsp;jedność chrześcijan.</p>
+        <p>3. Jeszcze raz dziękujemy za&nbsp;ofiarowane środki czystości dla
+        dzieci. Zostały przekazane dzieciom z&nbsp;Janowa Lubelskiego.</p>
+        <p>4. Wdzięczni jesteśmy za&nbsp;modlitwę, dobre słowo, składane
+        ofiary na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym
+        tygodniu obchodzą swoje imieniny, urodziny, inne rocznice, składamy
+        najlepsze życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 16.&nbsp;stycznia 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
