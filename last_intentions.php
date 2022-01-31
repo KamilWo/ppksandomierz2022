@@ -1,86 +1,86 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            24.01. – 30.01.2022&nbsp;r.
+            31.01. – 06.01.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">24&nbsp;stycznia, Poniedziałek –
-św.&nbsp;Franciszka Salezego</p>
+<p class="intentions_date">31&nbsp;stycznia, Poniedziałek –
+św.&nbsp;Jana Bosko</p>
 <ul>
-    <li>6.30 + Mariannę Kozakiewicz</li>
-    <li>6.30 + Idę Małecką - greg.&nbsp;24</li>
+    <li>6.30 w&nbsp;int. dzieci i&nbsp;chrześniaków, i&nbsp;ich
+    rodzin</li>
+    <li>6.30 + Marię Kos</li>
+    <li>18.00 + Anielę Kargul</li>
+    <li>18.00 + Weronikę, Mariana Trzosów</li>
+</ul>
+
+<p class="intentions_date">01&nbsp;lutego, Wtorek</p>
+<ul>
+    <li>6.30 + Andrzeja, Genowefę Tosiów; Mariannę Sendrowicz</li>
+    <li>6.30 + Zofię Chmielewską</li>
+    <li>18.00 int. dziękczynna w&nbsp;2&nbsp;r.&nbsp;urodzin Michasia
+    z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, opiekę Matki
+    Bożej</li>
+    <li>18.00 + Halinę Hagdej</li>
+</ul>
+
+<p class="intentions_date">02&nbsp;lutego, Środa –
+Święto Ofiarowania Pańskiego – Matki Bożej Gromnicznej</p>
+<ul>
+    <li>6.30 + Franciszka w&nbsp;5&nbsp;r.&nbsp;śm., Barbarę
+    Misztal</li>
+    <li>9.00 + Lucjana, Zofię, Bolesława Gajewskich; Helenę
+    Resiak</li>
+    <li>18.00 + Mariannę Przychodzką</li>
     <li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana,
     Krystynę, Mariana</li>
-    <li>18.00 +Dorotę Zuba w 16 r. śm.</li>
 </ul>
 
-<p class="intentions_date">25&nbsp;stycznia, Wtorek –
-Święto Nawrócenia św.&nbsp;Pawła Apostoła</p>
+<p class="intentions_date">03&nbsp;lutego, Czwartek</p>
 <ul>
-    <li>6.30 + Idę Małecką - greg.&nbsp;25</li>
-    <li>6.30 + Ryszarda Chrząstowskiego</li>
-    <li>18.00 + Mariannę Kozłowską</li>
-    <li>18.00 + Anielę Gospodarczyk i&nbsp;zm. rodziców
-    i&nbsp;dziadków Wielopolskich</li>
+    <li>6.30 w&nbsp;int. świętości Kapłanów oraz o&nbsp;nowe, liczne
+    i&nbsp;święte powołania kapłańskie</li>
+    <li>6.30 int. dziękczynna z&nbsp;prośbą o&nbsp;Boże
+    błogosławieństwo, potrzebne łaski, opiekę Matki Bożej
+    i&nbsp;św.&nbsp;Józefa dla całej rodziny</li>
+    <li>18.00 + Anielę Kargul</li>
+    <li>18.00 + Barbarę Stradomską</li>
 </ul>
 
-<p class="intentions_date">26&nbsp;stycznia, Środa –
-św.&nbsp;biskupów Tymoteusza i&nbsp;Tytusa</p>
-<ul>
-    <li>6.30 + Szczepana w&nbsp;r.&nbsp;śm., Jadwigę Kasprzyckich,
-    zm.&nbsp;z&nbsp;rodz. oraz dusze w&nbsp;czyśćcu cierpiące</li>
-    <li>6.30 + Idę Małecką - greg.&nbsp;26</li>
-    <li>18.00 dziękczynno-błagalna z&nbsp;prośbą o&nbsp;Boże
-    miłosierdzie, łaskę wiary, nadziei i&nbsp;miłości, łaskę pokory,
-    nawrócenia, i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
-    <li>18.00 + Eugeniusza, Teresę, zm.&nbsp;z&nbsp;rodz. Paciochów;
-    Zenona Mądrego i&nbsp;zm.&nbsp;rodziców</li>
-</ul>
-
-<p class="intentions_date">27&nbsp;stycznia, Czwartek</p>
+<p class="intentions_date">04&nbsp;lutego, Piątek</p>
 <ul>
     <li>6.30 + Halinę Hagdej</li>
-    <li>6.30 + Idę Małecką - greg.&nbsp;27</li>
-    <li>18.00 + Anielę Kargul</li>
-    <li>18.00 + Adama Nagórnego</li>
+    <li>6.30 + Zygmunta Zieję, Daniela Orlika</li>
+    <li>18.00 + Edwarda Sieradzana</li>
+    <li>18.00 + dra Grzegorza Szaginiana
+    w&nbsp;1.&nbsp;r.&nbsp;śm.</li>
 </ul>
 
-<p class="intentions_date">28&nbsp;stycznia, Piątek –
-św.&nbsp;Tomasza z&nbsp;Akwinu</p>
+<p class="intentions_date">05 lutego, Sobota – św. Agaty</p>
 <ul>
-    <li>6.30 o&nbsp;łaskę dobrej śmierci</li>
-    <li>6.30 + Idę Małecką - greg.&nbsp;28</li>
-    <li>18.00 + Lucję Lis</li>
-    <li>18.00 + Stanisława, Genowefę i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
+    <li>6.30 + Mariannę Kozakiewicz</li>
+    <li>6.30 + Jana Chmiela</li>
+    <li>18.00 int. wynagradzająca za&nbsp;grzechy świata przeciwko
+    Niepokalanemu Sercu Maryi – Legion Maryi</li>
+    <li>18.00 + Alicję Gilewską</li>
 </ul>
 
-<p class="intentions_date">29&nbsp;stycznia, Sobota</p>
-<ul>
-    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
-    Krystiana z&nbsp;racji urodzin</li>
-    <li>6.30 + Idę Małecką - greg.&nbsp;29</li>
-    <li>18.00 dziękczynna z&nbsp;racji urodzin Agnieszki prośbą
-    o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
-    Świętego, opiekę Matki Bożej</li>
-    <li>18.00 + Zofię w&nbsp;2&nbsp;r.&nbsp;śm., Władysława
-    Guściorów</li>
-</ul>
-
-<p class="intentions_date">30&nbsp;stycznia, Niedziela –
+<p class="intentions_date">06&nbsp;lutego, Niedziela –
     <span style="color: grey">
-        IV&nbsp;Niedziela zwykła, Rok&nbsp;C
+        V&nbsp;Niedziela zwykła, Rok&nbsp;C
     </span>
 </p>
 <ul>
     <li>7.30 w&nbsp;int. parafian</li>
-    <li>9.30 + Kazimierza w&nbsp;19&nbsp;r.&nbsp;śm., Stefanię, Jana,
-    Stanisława, Jerzego Sadowników</li>
-    <li>11.15 + Kazimierza Kondeusza w&nbsp;7&nbsp;r.&nbsp;śm.</li>
-    <li>12.30 + Idę Małecką - greg.&nbsp;30</li>
-    <li>18.00 + Jadwigę, Czesława, Dariusza Skroków; Marię, Józefa
-    Dziubów</li>
+    <li>7.30 o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej dla
+    Doroty Polit z&nbsp;racji imienin</li>
+    <li>9.30 + Irenę w&nbsp;r.&nbsp;śm., Tadeusza, Krzysztofa,
+    Mirosława Kołaczów</li>
+    <li>11.15 w&nbsp;int. Koła Żywego Różańca – zelatorka Maria
+    Kaczmarska</li>
+    <li>12.30 + Henrykę Figas</li>
+    <li>18.00 + Henryka Kordosa, Stanisława Pliżgę</li>
 </ul>
     </div>
 </div>
