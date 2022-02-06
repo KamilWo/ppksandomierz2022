@@ -22,7 +22,7 @@ include 'head.php';
                     <div class="col-md-6 col-lg-4">
                         <div class="card">
                             <div class="card-header">
-                                1.&nbsp;stycznia - 30.&nbsp;stycznia 2022&nbsp;r.
+                                1.&nbsp;stycznia - 06.&nbsp;lutego 2022&nbsp;r.
                             </div>
                             <div class="col">
                                 <p><a href="archiwum11.php" title="Archiwum 2022 roku"><i class="fa fa-archive"></i> Archiwum 2022 roku</a>.</p>

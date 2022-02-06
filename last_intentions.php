@@ -1,86 +1,86 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            31.01. – 06.01.2022&nbsp;r.
+            07.02. – 13.02.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">31&nbsp;stycznia, Poniedziałek –
-św.&nbsp;Jana Bosko</p>
+<p class="intentions_date">07&nbsp;lutego, Poniedziałek</p>
 <ul>
-    <li>6.30 w&nbsp;int. dzieci i&nbsp;chrześniaków, i&nbsp;ich
-    rodzin</li>
-    <li>6.30 + Marię Kos</li>
-    <li>18.00 + Anielę Kargul</li>
-    <li>18.00 + Weronikę, Mariana Trzosów</li>
+    <li>6.30 + Tadeusza Lipczyńskiego</li>
+    <li>6.30 + Weronikę Pietrusińską</li>
+    <li>18.00 w&nbsp;int. beatyfikacji s.&nbsp;Róży Wandy
+    Niewęgłowskiej</li>
+    <li>18.00 + Jerzego Malca</li>
 </ul>
 
-<p class="intentions_date">01&nbsp;lutego, Wtorek</p>
+<p class="intentions_date">08&nbsp;lutego, Wtorek</p>
 <ul>
-    <li>6.30 + Andrzeja, Genowefę Tosiów; Mariannę Sendrowicz</li>
+    <li>6.30 w&nbsp;int. Moniki i&nbsp;Łukasza o&nbsp;Boże
+    błogosławieństwo, opiekę Matki Bożej i&nbsp;potrzebne łaski
+    w&nbsp;małżeństwie</li>
+    <li>6.30 + Stanisławę w&nbsp;r.&nbsp;śm., Mariana Mądrych,
+    zm.&nbsp;z&nbsp;rodz. oraz dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>18.00 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin,
+    o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
+    i&nbsp;wyzwolenia</li>
+    <li>18.00 + Jerzego Polaka w&nbsp;r.&nbsp;śm., Mariannę, Janinę,
+    Mariana Polaków</li>
+</ul>
+
+<p class="intentions_date">09 lutego, Środa</p>
+<ul>
+    <li>6.30 + Zbigniewa Gądka</li>
     <li>6.30 + Zofię Chmielewską</li>
-    <li>18.00 int. dziękczynna w&nbsp;2&nbsp;r.&nbsp;urodzin Michasia
-    z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, opiekę Matki
-    Bożej</li>
-    <li>18.00 + Halinę Hagdej</li>
-</ul>
-
-<p class="intentions_date">02&nbsp;lutego, Środa –
-Święto Ofiarowania Pańskiego – Matki Bożej Gromnicznej</p>
-<ul>
-    <li>6.30 + Franciszka w&nbsp;5&nbsp;r.&nbsp;śm., Barbarę
-    Misztal</li>
-    <li>9.00 + Lucjana, Zofię, Bolesława Gajewskich; Helenę
-    Resiak</li>
     <li>18.00 + Mariannę Przychodzką</li>
-    <li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana,
-    Krystynę, Mariana</li>
+    <li>18.00 + Lucję Lis</li>
 </ul>
 
-<p class="intentions_date">03&nbsp;lutego, Czwartek</p>
+<p class="intentions_date">10&nbsp;lutego, Czwartek –
+św.&nbsp;Scholastyki</p>
 <ul>
-    <li>6.30 w&nbsp;int. świętości Kapłanów oraz o&nbsp;nowe, liczne
-    i&nbsp;święte powołania kapłańskie</li>
-    <li>6.30 int. dziękczynna z&nbsp;prośbą o&nbsp;Boże
-    błogosławieństwo, potrzebne łaski, opiekę Matki Bożej
-    i&nbsp;św.&nbsp;Józefa dla całej rodziny</li>
-    <li>18.00 + Anielę Kargul</li>
-    <li>18.00 + Barbarę Stradomską</li>
+    <li>6.30 + Zdzisława Kulę; Tadeusza Trześniewskiego</li>
+    <li>6.30 + Teodorę Perłę</li>
+    <li>18.00 int. o&nbsp;nawrócenie męża Piotra i&nbsp;ojca
+    Tadeusza</li>
+    <li>18.00 + Mariannę, Juliana Godwinów</li>
+    <li>18.00 + Kazimierza Makowskiego w&nbsp;1&nbsp;r.&nbsp;śm.</li>
 </ul>
 
-<p class="intentions_date">04&nbsp;lutego, Piątek</p>
+<p class="intentions_date">11&nbsp;lutego, Piątek</p>
 <ul>
-    <li>6.30 + Halinę Hagdej</li>
-    <li>6.30 + Zygmunta Zieję, Daniela Orlika</li>
-    <li>18.00 + Edwarda Sieradzana</li>
-    <li>18.00 + dra Grzegorza Szaginiana
-    w&nbsp;1.&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 + Janinę Wójcik</li>
+    <li>6.30 + Mieczysława Niewiadomskiego i&nbsp;zm. z&nbsp;rodz.
+    Niewiadomskich</li>
+    <li>18.00 w&nbsp;int. wynagradzającej Panu Bogu za&nbsp;grzechy
+    aborcji i&nbsp;eutanazji</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla Rafała z&nbsp;racji
+    urodzin</li>
 </ul>
 
-<p class="intentions_date">05 lutego, Sobota – św. Agaty</p>
+<p class="intentions_date">12&nbsp;lutego, Sobota</p>
 <ul>
-    <li>6.30 + Mariannę Kozakiewicz</li>
-    <li>6.30 + Jana Chmiela</li>
-    <li>18.00 int. wynagradzająca za&nbsp;grzechy świata przeciwko
-    Niepokalanemu Sercu Maryi – Legion Maryi</li>
-    <li>18.00 + Alicję Gilewską</li>
+    <li>6.30 + Barbarę Stradomską</li>
+    <li>6.30 + Ryszarda Fularę</li>
+    <li>18.00 + Jadwigę, Aleksego Kaczmarczyków w&nbsp;r.&nbsp;śm.
+    oraz zm.&nbsp;z&nbsp;rodz.</li>
+    <li>18.00 + Janinę Mrozik</li>
 </ul>
 
-<p class="intentions_date">06&nbsp;lutego, Niedziela –
+<p class="intentions_date">13&nbsp;lutego, Niedziela –
     <span style="color: grey">
-        V&nbsp;Niedziela zwykła, Rok&nbsp;C
+        VI&nbsp;Niedziela zwykła, Rok&nbsp;C
     </span>
 </p>
 <ul>
     <li>7.30 w&nbsp;int. parafian</li>
-    <li>7.30 o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej dla
-    Doroty Polit z&nbsp;racji imienin</li>
-    <li>9.30 + Irenę w&nbsp;r.&nbsp;śm., Tadeusza, Krzysztofa,
-    Mirosława Kołaczów</li>
-    <li>11.15 w&nbsp;int. Koła Żywego Różańca – zelatorka Maria
-    Kaczmarska</li>
-    <li>12.30 + Henrykę Figas</li>
-    <li>18.00 + Henryka Kordosa, Stanisława Pliżgę</li>
+    <li>9.30 + Włodzimierza Kurasia; Henrykę, Henryka Kulińskich</li>
+    <li>11.15 + Halinę Hagdej</li>
+    <li>12.30 + Juliana Bednarskiego w&nbsp;r.&nbsp;śm. i&nbsp;zm.
+    z&nbsp;rodz. Bednarskich, Maciejców i&nbsp;Białogońskich</li>
+    <li>18.00 + Alicję Gilewską; Józefa, Stefanię Janus; Krystynę
+    Polit</li>
 </ul>
     </div>
 </div>

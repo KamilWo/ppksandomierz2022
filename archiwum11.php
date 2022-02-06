@@ -16,7 +16,151 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 30.&nbsp;stycznia 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 06.&nbsp;lutego 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            31.01. – 06.02.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">31&nbsp;stycznia, Poniedziałek –
+św.&nbsp;Jana Bosko</p>
+<ul>
+    <li>6.30 w&nbsp;int. dzieci i&nbsp;chrześniaków, i&nbsp;ich
+    rodzin</li>
+    <li>6.30 + Marię Kos</li>
+    <li>18.00 + Anielę Kargul</li>
+    <li>18.00 + Weronikę, Mariana Trzosów</li>
+</ul>
+
+<p class="intentions_date">01&nbsp;lutego, Wtorek</p>
+<ul>
+    <li>6.30 + Andrzeja, Genowefę Tosiów; Mariannę Sendrowicz</li>
+    <li>6.30 + Zofię Chmielewską</li>
+    <li>18.00 int. dziękczynna w&nbsp;2&nbsp;r.&nbsp;urodzin Michasia
+    z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, opiekę Matki
+    Bożej</li>
+    <li>18.00 + Halinę Hagdej</li>
+</ul>
+
+<p class="intentions_date">02&nbsp;lutego, Środa –
+Święto Ofiarowania Pańskiego – Matki Bożej Gromnicznej</p>
+<ul>
+    <li>6.30 + Franciszka w&nbsp;5&nbsp;r.&nbsp;śm., Barbarę
+    Misztal</li>
+    <li>9.00 + Lucjana, Zofię, Bolesława Gajewskich; Helenę
+    Resiak</li>
+    <li>18.00 + Mariannę Przychodzką</li>
+    <li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana,
+    Krystynę, Mariana</li>
+</ul>
+
+<p class="intentions_date">03&nbsp;lutego, Czwartek</p>
+<ul>
+    <li>6.30 w&nbsp;int. świętości Kapłanów oraz o&nbsp;nowe, liczne
+    i&nbsp;święte powołania kapłańskie</li>
+    <li>6.30 int. dziękczynna z&nbsp;prośbą o&nbsp;Boże
+    błogosławieństwo, potrzebne łaski, opiekę Matki Bożej
+    i&nbsp;św.&nbsp;Józefa dla całej rodziny</li>
+    <li>18.00 + Anielę Kargul</li>
+    <li>18.00 + Barbarę Stradomską</li>
+</ul>
+
+<p class="intentions_date">04&nbsp;lutego, Piątek</p>
+<ul>
+    <li>6.30 + Halinę Hagdej</li>
+    <li>6.30 + Zygmunta Zieję, Daniela Orlika</li>
+    <li>18.00 + Edwarda Sieradzana</li>
+    <li>18.00 + dra Grzegorza Szaginiana
+    w&nbsp;1.&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">05 lutego, Sobota – św. Agaty</p>
+<ul>
+    <li>6.30 + Mariannę Kozakiewicz</li>
+    <li>6.30 + Jana Chmiela</li>
+    <li>18.00 int. wynagradzająca za&nbsp;grzechy świata przeciwko
+    Niepokalanemu Sercu Maryi – Legion Maryi</li>
+    <li>18.00 + Alicję Gilewską</li>
+</ul>
+
+<p class="intentions_date">06&nbsp;lutego, Niedziela –
+    <span style="color: grey">
+        V&nbsp;Niedziela zwykła, Rok&nbsp;C
+    </span>
+</p>
+<ul>
+    <li>7.30 w&nbsp;int. parafian</li>
+    <li>7.30 o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej dla
+    Doroty Polit z&nbsp;racji imienin</li>
+    <li>9.30 + Irenę w&nbsp;r.&nbsp;śm., Tadeusza, Krzysztofa,
+    Mirosława Kołaczów</li>
+    <li>11.15 w&nbsp;int. Koła Żywego Różańca – zelatorka Maria
+    Kaczmarska</li>
+    <li>12.30 + Henrykę Figas</li>
+    <li>18.00 + Henryka Kordosa, Stanisława Pliżgę</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>30.&nbsp;stycznia 2022&nbsp;r.</h3>
+        <h3>IV NIEDZIELA Zwykła, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;najbliższą środę Święto Ofiarowania Pańskiego –
+        w&nbsp;tradycji – Matki Boskiej Gromnicznej. Poświęcenie gromnic
+        w&nbsp;czasie Mszy&nbsp;św. o&nbsp;godz.&nbsp;9.00
+        i&nbsp;o&nbsp;18.00. To&nbsp;także Dzień Życia Konsekrowanego –
+        w&nbsp;modlitwie polecać będziemy osoby konsekrowane. Taca zebrana
+        w&nbsp;tym dniu przeznaczona jest dla Wspólnoty Sióstr Klarysek
+        w&nbsp;Sandomierzu. W&nbsp;tym dniu, w&nbsp;czasie Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;18.00 będzie miało miejsce poświecenie książeczek
+        do&nbsp;nabożeństwa dla pierwszokomunijnych dzieci. Prosimy
+        o&nbsp;obecność wspomnianych dzieci i&nbsp;ich rodziców.</p>
+        <p>2. Informację o&nbsp;spotkaniu z&nbsp;młodzieżą przygotowującą się
+        do&nbsp;przyjęcia Sakramentu Bierzmowania podamy w&nbsp;późniejszym
+        terminie.</p>
+        <p>3. W&nbsp;tym tygodniu Pierwszy czwartek, piątek i&nbsp;Pierwsza
+        sobota miesiąca. W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym
+        dniu od&nbsp;godz.&nbsp;17.00.</p>
+        <p>4. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15 – nabożeństwo
+        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+        <p>5. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św. o&nbsp;godz.&nbsp;11.15 – adoracja Najśw. Sakramentu
+        połączona z&nbsp;modlitwą różańcową, którą poprowadzi Koło Żywego
+        Różańca z&nbsp;naszej parafii i&nbsp;zmiana tajemnic różańcowych.
+        Zapraszamy do&nbsp;udziału w&nbsp;tej modlitwie.</p>
+        <p>6. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
+        „Gość Niedzielny”, dla dzieci „Mały Gość”, dla młodzieży „Miłujcie
+        się”.</p>
+        <p>7. Prosimy parafian o&nbsp;pomoc w&nbsp;demontażu dekoracji
+        bożonarodzeniowej w&nbsp;kościele parafialnym, w&nbsp;najbliższy
+        czwartek na&nbsp;godz.&nbsp;9.00.</p>
+        <p>8. Caritas Diecezji Sandomierskiej jako Organizacja Pożytku
+        Publicznego zwraca się do&nbsp;ludzi dobrej woli wrażliwego serca
+        o&nbsp;przekazanie 1% należnego podatku, na&nbsp;rzecz naszej
+        organizacji przez podanie jej nazwy i&nbsp;numeru KRS. Pozyskane
+        w&nbsp;ten sposób środki finansowe zostaną przekazane na&nbsp;pomoc
+        w&nbsp;leczeniu, rehabilitację i&nbsp;edukację dzieci
+        z&nbsp;niepełnosprawnością. Więcej informacji na&nbsp;plakacie
+        w&nbsp;gablocie i&nbsp;na&nbsp;ulotkach, które
+        są&nbsp;w&nbsp;kościele na&nbsp;stoliku przy gazetach.</p>
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 30.&nbsp;stycznia 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
