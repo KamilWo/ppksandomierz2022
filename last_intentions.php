@@ -1,86 +1,78 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            07.02. – 13.02.2022&nbsp;r.
+            14.02. – 20.02.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">07&nbsp;lutego, Poniedziałek</p>
+<p class="intentions_date">14&nbsp;lutego, Poniedziałek –
+Święto św. Cyryla i Metodego – patronów Europy</p>
 <ul>
-    <li>6.30 + Tadeusza Lipczyńskiego</li>
-    <li>6.30 + Weronikę Pietrusińską</li>
-    <li>18.00 w&nbsp;int. beatyfikacji s.&nbsp;Róży Wandy
-    Niewęgłowskiej</li>
-    <li>18.00 + Jerzego Malca</li>
+    <li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
+    <li>6.30 + Ryszarda Fularę</li>
+    <li>18.00 + Mariannę Kozakiewicz</li>
+    <li>18.00 + Krzysztofa, Wiesława Zwolskich</li>
 </ul>
 
-<p class="intentions_date">08&nbsp;lutego, Wtorek</p>
+<p class="intentions_date">15&nbsp;lutego, Wtorek</p>
 <ul>
-    <li>6.30 w&nbsp;int. Moniki i&nbsp;Łukasza o&nbsp;Boże
-    błogosławieństwo, opiekę Matki Bożej i&nbsp;potrzebne łaski
-    w&nbsp;małżeństwie</li>
-    <li>6.30 + Stanisławę w&nbsp;r.&nbsp;śm., Mariana Mądrych,
-    zm.&nbsp;z&nbsp;rodz. oraz dusze w&nbsp;czyśćcu cierpiące</li>
-    <li>18.00 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin,
-    o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
-    i&nbsp;wyzwolenia</li>
-    <li>18.00 + Jerzego Polaka w&nbsp;r.&nbsp;śm., Mariannę, Janinę,
-    Mariana Polaków</li>
+    <li>6.30 + Barbarę, Bronisława Weberów oraz zm.&nbsp;z&nbsp;rodz.
+    Skubidów</li>
+    <li>6.30 + Adama Nagórnego</li>
+    <li>18.00 + Marię Kos</li>
+    <li>18.00 + Weronikę Wydrę</li>
 </ul>
 
-<p class="intentions_date">09 lutego, Środa</p>
+<p class="intentions_date">16&nbsp;lutego, Środa</p>
 <ul>
-    <li>6.30 + Zbigniewa Gądka</li>
-    <li>6.30 + Zofię Chmielewską</li>
-    <li>18.00 + Mariannę Przychodzką</li>
-    <li>18.00 + Lucję Lis</li>
+    <li>6.30 + Marka Lipca</li>
+    <li>6.30 + Wojciecha Piskóra</li>
+    <li>18.00 + Ryszarda Chrząstowskiego</li>
+    <li>18.00 + Jana Chmiela</li>
 </ul>
 
-<p class="intentions_date">10&nbsp;lutego, Czwartek –
-św.&nbsp;Scholastyki</p>
+<p class="intentions_date">17&nbsp;lutego, Czwartek</p>
 <ul>
-    <li>6.30 + Zdzisława Kulę; Tadeusza Trześniewskiego</li>
-    <li>6.30 + Teodorę Perłę</li>
-    <li>18.00 int. o&nbsp;nawrócenie męża Piotra i&nbsp;ojca
-    Tadeusza</li>
-    <li>18.00 + Mariannę, Juliana Godwinów</li>
-    <li>18.00 + Kazimierza Makowskiego w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, łaskę wiary i&nbsp;zdrowie dla Pawła</li>
+    <li>6.30 + Annę, Stanisława Janiszewskich</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, dary
+    Ducha Świętego, opiekę Matki Bożej dla Magdaleny</li>
+    <li>18.00 + Stanisławę, Stanisława, Krzysztofa Wochniaków,
+    zm.&nbsp;z&nbsp;rodz. Wochniaków, Chojnackich, Niziołków</li>
 </ul>
 
-<p class="intentions_date">11&nbsp;lutego, Piątek</p>
+<p class="intentions_date">18&nbsp;lutego, Piątek</p>
 <ul>
     <li>6.30 + Janinę Wójcik</li>
-    <li>6.30 + Mieczysława Niewiadomskiego i&nbsp;zm. z&nbsp;rodz.
-    Niewiadomskich</li>
-    <li>18.00 w&nbsp;int. wynagradzającej Panu Bogu za&nbsp;grzechy
-    aborcji i&nbsp;eutanazji</li>
-    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    potrzebne łaski, opiekę Matki Bożej dla Rafała z&nbsp;racji
-    urodzin</li>
+    <li>6.30 + Wiktora Nowickiego</li>
+    <li>18.00+ Leokadię Bryłę</li>
+    <li>18.00 + Zofię, Jana Judów; Jadwigę, Jana Kondratów
+    i&nbsp;zm.&nbsp;z&nbsp;ich rodz.</li>
 </ul>
 
-<p class="intentions_date">12&nbsp;lutego, Sobota</p>
+<p class="intentions_date">19&nbsp;lutego, Sobota</p>
 <ul>
-    <li>6.30 + Barbarę Stradomską</li>
-    <li>6.30 + Ryszarda Fularę</li>
-    <li>18.00 + Jadwigę, Aleksego Kaczmarczyków w&nbsp;r.&nbsp;śm.
-    oraz zm.&nbsp;z&nbsp;rodz.</li>
-    <li>18.00 + Janinę Mrozik</li>
+    <li>6.30 + Adolfię, Jana, Teresę Gieleraków</li>
+    <li>6.30 + Marka Lipca</li>
+    <li>18.00 + Helenę, Piotra, Kazimierza, Bolesława
+    Grządkowskich</li>
+    <li>18.00 + Zygmunta Mazura</li>
 </ul>
 
-<p class="intentions_date">13&nbsp;lutego, Niedziela –
+<p class="intentions_date">20&nbsp;lutego, Niedziela –
     <span style="color: grey">
-        VI&nbsp;Niedziela zwykła, Rok&nbsp;C
+        VII&nbsp;Niedziela zwykła, Rok&nbsp;C
     </span>
 </p>
 <ul>
-    <li>7.30 w&nbsp;int. parafian</li>
-    <li>9.30 + Włodzimierza Kurasia; Henrykę, Henryka Kulińskich</li>
-    <li>11.15 + Halinę Hagdej</li>
-    <li>12.30 + Juliana Bednarskiego w&nbsp;r.&nbsp;śm. i&nbsp;zm.
-    z&nbsp;rodz. Bednarskich, Maciejców i&nbsp;Białogońskich</li>
-    <li>18.00 + Alicję Gilewską; Józefa, Stefanię Janus; Krystynę
-    Polit</li>
+    <li>7.30 + Janinę, Józefa, Kazimierza Tutaków</li>
+    <li>9.30 w&nbsp;int. parafian</li>
+    <li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
+    <li>12.30 + Tadeusza Lipczyńskiego</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
+    wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
+    i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
 </ul>
     </div>
 </div>

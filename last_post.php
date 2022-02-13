@@ -1,41 +1,30 @@
 <div class="card">
     <div class="card-header">
-        <h3>06.&nbsp;lutego 2022&nbsp;r.</h3>
-        <h3>V NIEDZIELA Zwykła, Rok C</h3>
+        <h3>13.&nbsp;lutego 2022&nbsp;r.</h3>
+        <h3>VI NIEDZIELA Zwykła, Rok C</h3>
     </div>
     <div class="col">
-        <p>1. Przeżywany w&nbsp;tym roku Światowy Dzień Chorego kieruje
-        <em>naszą&nbsp;uwagę na&nbsp;chorych i&nbsp;na&nbsp;tych, którzy się
-        nimi opiekują, zarówno w&nbsp;miejscach przeznaczonych na&nbsp;ich
-        pielęgnację, jak i&nbsp;na&nbsp;łonie rodziny czy wspólnot.</em>
-        W&nbsp;Diecezji Sandomierskiej tegoroczne obchody 11&nbsp;lutego,
-        o&nbsp;godz.&nbsp;12.00 – Msza Święta w&nbsp;intencji ludzi chorych
-        oraz pracowników służby zdrowia – koncelebrowana pod przewodnictwem
-        bp.&nbsp;Krzysztofa Nitkiewicza; <em>w&nbsp;Kaplicy w&nbsp;Domu
-        Pomocy Społecznej „u&nbsp;Aniołów” w&nbsp;Jeżowem.</em> W&nbsp;naszej
-        parafii Dzień Chorego będziemy przeżywać podczas wielkopostnych
-        rekolekcji.</p>
-        <p>2. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
-        na&nbsp;Fundusz pomocy chorym kapłanom diecezji sandomierskiej.</p>
-        <p>3. Dziękujemy parafianom: Monice Bernaś, Dorocie Polit, Tadeuszowi
-        Wożniakowi, Stanisławowi Serafinowi, Wacławowi Draganowi, Maciejowi
-        Rojkowi; za&nbsp;pracę włożoną w&nbsp;demontaż dekoracji
-        bożonarodzeniowej w&nbsp;kościele parafialnym w&nbsp;zeszłym
-        tygodniu. <em>Bóg zapłać</em> wszystkim.</p>
-        <p>4. Anonimowemu ofiarodawcy wyrażamy słowa wdzięczności
-        za&nbsp;podarowany nowy obrus na&nbsp;główny ołtarz w&nbsp;naszym
-        kościele. To&nbsp;jest ten obrus, który teraz przykrywa ołtarz.</p>
-        <p>5. Wdzięczni jesteśmy: Paniom Dorocie Sarzyńskiej i&nbsp;Jolancie
-        Maciejewskiej, za&nbsp;wykonanie nowej dekoracji przy głównym
-        ołtarzu.</p>
-        <p>6. Polecamy prasę katolicką i&nbsp;zachęcamy do&nbsp;jej
+        <p>1. Dziś po&nbsp;Mszach św. zbiórka do&nbsp;puszek na&nbsp;Fundusz
+        pomocy chorym kapłanom diecezji sandomierskiej.</p>
+        <p>2. Od&nbsp;8&nbsp;lutego do&nbsp;8&nbsp;maja&nbsp;br. w&nbsp;naszej
+        parafii będzie odbywał praktykę duszpasterską diakon Damian Surowiec
+        student szóstego roku w&nbsp;Wyższym Seminarium Duchownym
+        w&nbsp;Sandomierzu, pochodzi z&nbsp;parafii p.w.&nbsp;Ścięcia św.&nbsp;Jana
+        Chrzciciela w&nbsp;Baranowie Sandomierskim. Wspierajmy Go&nbsp;naszymi
+        modlitwami, w&nbsp;tych bezpośrednich przygotowaniach
+        do&nbsp;przyjęcia sakramentu kapłaństwa.</p>
+        <p>3. Polecamy prasę katolicką i&nbsp;zachęcamy do&nbsp;jej
         lektury.</p>
-        <p>7. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        <p>4. Poszukujemy organisty do&nbsp;posługi w&nbsp;naszej parafii.</p>
+        <p>5. Jutro w&nbsp;kościele; Dzień modlitw za&nbsp;narody słowiańskie
+        – wspomnienie św.&nbsp;Cyrla i&nbsp;Metodego, Patronów Europy.
+        Potrzeba modlitwy o&nbsp;pokój w&nbsp;naszej części Europy.</p>
+        <p>6. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
         za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii –
         <em>Bóg zapłać</em>. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św.
         życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 06.&nbsp;lutego 2022&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 13.&nbsp;lutego 2022&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
