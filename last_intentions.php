@@ -1,78 +1,84 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            14.02. – 20.02.2022&nbsp;r.
+            21.02. – 27.02.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">14&nbsp;lutego, Poniedziałek –
-Święto św. Cyryla i Metodego – patronów Europy</p>
+<p class="intentions_date">21&nbsp;lutego, Poniedziałek</p>
 <ul>
-    <li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
-    <li>6.30 + Ryszarda Fularę</li>
+    <li>6.30 w&nbsp;int. dzieci, chrześniaków i&nbsp;ich rodzin
+    o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
+    Bożej, potrzebne łaski</li>
+    <li>6.30 + Józefę Bednarczyk</li>
     <li>18.00 + Mariannę Kozakiewicz</li>
-    <li>18.00 + Krzysztofa, Wiesława Zwolskich</li>
+    <li>18.00 + Mariannę, Eugeniusza Jedlińskich</li>
 </ul>
 
-<p class="intentions_date">15&nbsp;lutego, Wtorek</p>
+<p class="intentions_date">22&nbsp;lutego, Wtorek –
+Święto katedry św.&nbsp;Piotra Apostoła</p>
 <ul>
-    <li>6.30 + Barbarę, Bronisława Weberów oraz zm.&nbsp;z&nbsp;rodz.
-    Skubidów</li>
-    <li>6.30 + Adama Nagórnego</li>
-    <li>18.00 + Marię Kos</li>
+    <li>6.30 + Barbarę Stradomską</li>
+    <li>6.30 + Marka Lipca</li>
+    <li>18.00 dziękczynno-błagalna z&nbsp;racji urodzin Witolda
+    o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
+    Bożej, potrzebne łaski</li>
     <li>18.00 + Weronikę Wydrę</li>
+    <li>18.00 + Ryszarda Chrząstowskiego</li>
 </ul>
 
-<p class="intentions_date">16&nbsp;lutego, Środa</p>
+<p class="intentions_date">23&nbsp;lutego, Środa –
+św.&nbsp;Polikarpa</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej,
+    pogłębienie wiary dla rodziny</li>
+    <li>6.30 + Urszulę Obitko</li>
+    <li>18.00 + Leokadię Bryłę</li>
+    <li>18.00 + Zbigniewa Gądka</li>
+</ul>
+
+<p class="intentions_date">24&nbsp;lutego, Czwartek</p>
 <ul>
     <li>6.30 + Marka Lipca</li>
-    <li>6.30 + Wojciecha Piskóra</li>
-    <li>18.00 + Ryszarda Chrząstowskiego</li>
-    <li>18.00 + Jana Chmiela</li>
+    <li>6.30 + Wiktora Nowickiego</li>
+    <li>18.00 + Jerzego Malca</li>
+    <li>18.00 + Tadeusza Śledzia</li>
 </ul>
 
-<p class="intentions_date">17&nbsp;lutego, Czwartek</p>
+<p class="intentions_date">25&nbsp;lutego, Piątek</p>
 <ul>
     <li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
-    opiekę Matki Bożej, łaskę wiary i&nbsp;zdrowie dla Pawła</li>
-    <li>6.30 + Annę, Stanisława Janiszewskich</li>
-    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, dary
-    Ducha Świętego, opiekę Matki Bożej dla Magdaleny</li>
-    <li>18.00 + Stanisławę, Stanisława, Krzysztofa Wochniaków,
-    zm.&nbsp;z&nbsp;rodz. Wochniaków, Chojnackich, Niziołków</li>
+    opiekę Matki Bożej, o&nbsp;łaskę wiary i&nbsp;zdrowie dla
+    Pawła</li>
+    <li>6.30 + Adama Nagórnego</li>
+    <li>18.00+ Ryszarda Chrząstowskiego</li>
+    <li>18.00 + Władysława Anwajlera</li>
 </ul>
 
-<p class="intentions_date">18&nbsp;lutego, Piątek</p>
+<p class="intentions_date">26&nbsp;lutego, Sobota</p>
 <ul>
-    <li>6.30 + Janinę Wójcik</li>
-    <li>6.30 + Wiktora Nowickiego</li>
-    <li>18.00+ Leokadię Bryłę</li>
-    <li>18.00 + Zofię, Jana Judów; Jadwigę, Jana Kondratów
-    i&nbsp;zm.&nbsp;z&nbsp;ich rodz.</li>
-</ul>
-
-<p class="intentions_date">19&nbsp;lutego, Sobota</p>
-<ul>
-    <li>6.30 + Adolfię, Jana, Teresę Gieleraków</li>
-    <li>6.30 + Marka Lipca</li>
-    <li>18.00 + Helenę, Piotra, Kazimierza, Bolesława
-    Grządkowskich</li>
+    <li>6.30 dziękczynno-błagalna z&nbsp;racji urodzin Kapra
+    o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
+    Bożej, potrzebne łaski</li>
+    <li>6.30 + Barbarę Marzec w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 + Ryszarda Fularę</li>
+    <li>18.00 + Weronikę Wydrę</li>
     <li>18.00 + Zygmunta Mazura</li>
 </ul>
 
-<p class="intentions_date">20&nbsp;lutego, Niedziela –
+<p class="intentions_date">27&nbsp;lutego, Niedziela –
     <span style="color: grey">
-        VII&nbsp;Niedziela zwykła, Rok&nbsp;C
+        VIII&nbsp;Niedziela zwykła, Rok&nbsp;C
     </span>
 </p>
 <ul>
-    <li>7.30 + Janinę, Józefa, Kazimierza Tutaków</li>
-    <li>9.30 w&nbsp;int. parafian</li>
-    <li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
-    <li>12.30 + Tadeusza Lipczyńskiego</li>
-    <li>18.00 dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
-    wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
-    i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
+    <li>7.30 + Bogusławę, Józefa Cukrowskich w&nbsp;r.&nbsp;śm.</li>
+    <li>9.30 + Janinę, Czesława, Krzysztofa Płazów</li>
+    <li>11.15 w&nbsp;int. parafian</li>
+    <li>12.30 + Zofię, Wacława Borcuchów; Michalinę, Franciszka
+    Irków</li>
+    <li>18.00 + Zenona Mądrego w&nbsp;12&nbsp;r.&nbsp;śm.,
+    zm.&nbsp;rodziców Teresę, Eugeniusza Paciochów</li>
 </ul>
     </div>
 </div>
