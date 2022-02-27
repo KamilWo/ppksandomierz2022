@@ -16,7 +16,121 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 20.&nbsp;lutego 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 27.&nbsp;lutego 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            21.02. – 27.02.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">21&nbsp;lutego, Poniedziałek</p>
+<ul>
+    <li>6.30 w&nbsp;int. dzieci, chrześniaków i&nbsp;ich rodzin
+    o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
+    Bożej, potrzebne łaski</li>
+    <li>6.30 + Józefę Bednarczyk</li>
+    <li>18.00 + Mariannę Kozakiewicz</li>
+    <li>18.00 + Mariannę, Eugeniusza Jedlińskich</li>
+</ul>
+
+<p class="intentions_date">22&nbsp;lutego, Wtorek –
+Święto katedry św.&nbsp;Piotra Apostoła</p>
+<ul>
+    <li>6.30 + Barbarę Stradomską</li>
+    <li>6.30 + Marka Lipca</li>
+    <li>18.00 dziękczynno-błagalna z&nbsp;racji urodzin Witolda
+    o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
+    Bożej, potrzebne łaski</li>
+    <li>18.00 + Weronikę Wydrę</li>
+    <li>18.00 + Ryszarda Chrząstowskiego</li>
+</ul>
+
+<p class="intentions_date">23&nbsp;lutego, Środa –
+św.&nbsp;Polikarpa</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej,
+    pogłębienie wiary dla rodziny</li>
+    <li>6.30 + Urszulę Obitko</li>
+    <li>18.00 + Leokadię Bryłę</li>
+    <li>18.00 + Zbigniewa Gądka</li>
+</ul>
+
+<p class="intentions_date">24&nbsp;lutego, Czwartek</p>
+<ul>
+    <li>6.30 + Marka Lipca</li>
+    <li>6.30 + Wiktora Nowickiego</li>
+    <li>18.00 + Jerzego Malca</li>
+    <li>18.00 + Tadeusza Śledzia</li>
+</ul>
+
+<p class="intentions_date">25&nbsp;lutego, Piątek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, o&nbsp;łaskę wiary i&nbsp;zdrowie dla
+    Pawła</li>
+    <li>6.30 + Adama Nagórnego</li>
+    <li>18.00+ Ryszarda Chrząstowskiego</li>
+    <li>18.00 + Władysława Anwajlera</li>
+</ul>
+
+<p class="intentions_date">26&nbsp;lutego, Sobota</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna z&nbsp;racji urodzin Kapra
+    o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
+    Bożej, potrzebne łaski</li>
+    <li>6.30 + Barbarę Marzec w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 + Ryszarda Fularę</li>
+    <li>18.00 + Weronikę Wydrę</li>
+    <li>18.00 + Zygmunta Mazura</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;lutego, Niedziela –
+    <span style="color: grey">
+        VIII&nbsp;Niedziela zwykła, Rok&nbsp;C
+    </span>
+</p>
+<ul>
+    <li>7.30 + Bogusławę, Józefa Cukrowskich w&nbsp;r.&nbsp;śm.</li>
+    <li>9.30 + Janinę, Czesława, Krzysztofa Płazów</li>
+    <li>11.15 w&nbsp;int. parafian</li>
+    <li>12.30 + Zofię, Wacława Borcuchów; Michalinę, Franciszka
+    Irków</li>
+    <li>18.00 + Zenona Mądrego w&nbsp;12&nbsp;r.&nbsp;śm.,
+    zm.&nbsp;rodziców Teresę, Eugeniusza Paciochów</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>20.&nbsp;lutego 2022&nbsp;r.</h3>
+        <h3>VII NIEDZIELA Zwykła, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;Fundusz pomocy
+        chorym kapłanom diecezji sandomierskiej, zostało zebrane 1547&nbsp;zł.
+        <em>Bóg zapłać</em> wszystkim ofiarodawcom.</p>
+        <p>2. Polecamy prasę katolicką i&nbsp;zachęcamy do&nbsp;jej
+        lektury.</p>
+        <p>3. Legion Maryi zaprasza na&nbsp;Modlitwę Różańcową o&nbsp;Pokój
+        w&nbsp;rodzinach, w&nbsp;naszej Ojczyźnie i&nbsp;na&nbsp;świecie dziś
+        po&nbsp;południu w&nbsp;naszym kościele parafialnym
+        od&nbsp;godz.&nbsp;16.00 do&nbsp;18.00.</p>
+        <p>4. <strong>Ogłoszenie o&nbsp;zgłoszeniu o&nbsp;źródłach ciepła.</strong></p>
+        <p>5. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii –
+        <em>Bóg zapłać</em>. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św.
+        życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 20.&nbsp;lutego 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

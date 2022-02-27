@@ -1,14 +1,116 @@
 <div class="card">
     <div class="card-header">
-        <h3>Apel przewodniczącego Konferencji Episkopatu Polski</h3>
+        <h3>APEL PRZEWODNICZĄCEGO KONFERENCJI EPISKOPATU POLSKI
+        W&nbsp;ZWIĄZKU Z&nbsp;INWAZJĄ ROSYJSKĄ NA&nbsp;UKRAINĘ</h3>
     </div>
     <div class="col">
         <p>
-            <a href="static/download/2021_Apel_przewodniczacego_Episkopatu_ws_pomocy_migrantom.pdf">
-                <img class="post_image"
-                     src="static/download/2021_Apel_przewodniczacego_Episkopatu_ws_pomocy_migrantom.png"/>
+            W&nbsp;związku z&nbsp;inwazją rosyjską na&nbsp;Ukrainę,
+            w&nbsp;imieniu Konferencji Episkopatu Polski, stanowczo
+            potępiam działania Rosji i&nbsp;Władimira Putina, uznając
+            je&nbsp;za&nbsp;niedopuszczalny i&nbsp;haniebny akt
+            barbarzyństwa, skierowany wobec suwerenności
+            i&nbsp;niezależności niepodległego państwa.
+        </p>
+        <p>
+            Jednocześnie – wraz z&nbsp;całym Kościołem w&nbsp;Polsce
+            – wyrażam moją solidarność ze&nbsp;wszystkimi Ukraińcami,
+            zarówno w&nbsp;Polsce, jak i&nbsp;na&nbsp;Ukrainie,
+            zapewniając ich o&nbsp;naszej bliskości, modlitwie oraz
+            gotowości do&nbsp;pomocy.
+        </p>
+        <p>
+            W&nbsp;związku z&nbsp;prośbą Ojca Świętego Franciszka,
+            zwracam się do&nbsp;Księży Biskupów oraz wszystkich
+            wiernych, aby Środa Popielcowa była obchodzona
+            w&nbsp;Kościele w&nbsp;Polsce jako dzień postu
+            i&nbsp;modlitwy w&nbsp;intencji pokoju oraz solidarności
+            z&nbsp;Ukrainą. Proszę, aby w&nbsp;każdym kościele
+            i&nbsp;parafii w&nbsp;Polsce zanosić gorące błagania
+            w&nbsp;intencji pokoju, a&nbsp;także w&nbsp;intencji
+            Ukraińców, by Pan pokrzepił ich serca w&nbsp;obecnej
+            dramatycznej sytuacji.
+        </p>
+        <p>
+            Jako Kościół w&nbsp;Polsce pragniemy przyjść naszym
+            Braciom również z&nbsp;materialną pomocą, dlatego
+            apeluję, aby zarówno w&nbsp;najbliższą niedzielę, jak
+            i&nbsp;w&nbsp;Środę Popielcową, po&nbsp;każdej Mszy
+            Świętej zorganizować zbiórkę ofiar do&nbsp;puszek, które
+            – za&nbsp;pośrednictwem Caritas Polska – zostaną
+            przeznaczone na&nbsp;pomoc uchodźcom wojennym
+            z&nbsp;Ukrainy. Pomoc Kościoła katolickiego w&nbsp;Polsce
+            będzie świadczona sukcesywnie i&nbsp;systemowo
+            za&nbsp;pośrednictwem naszych instytucji charytatywnych
+            – parafialnych, diecezjalnych i&nbsp;ogólnopolskich –
+            w&nbsp;tym, przez Zespół Pomocy Kościołowi
+            na&nbsp;Wschodzie przy Konferencji Episkopatu Polski.
+        </p>
+        <p>
+            Ponadto, proszę wszystkich wierzących i&nbsp;ludzi dobrej
+            woli o&nbsp;otwartą postawę wobec potrzebujących
+            schronienia.
+        </p>
+        <p>
+            Królowej Pokoju zawierzam losy Ukrainy i&nbsp;Polski,
+            zapewniając wszystkich o&nbsp;mojej duchowej bliskości
+            i&nbsp;modlitwie.
+        </p>
+        <p>&nbsp;</p>
+        <p>
+            <strong>+ Stanisław Gądecki</strong><br />
+            <em>Arcybiskup Metropolita Poznański – Przewodniczący
+            Konferencji Episkopatu Polski</em>
+        </p>
+        <p>
+            Warszawa, dnia 24&nbsp;lutego 2022 roku
+        </p>
+
+        <p>
+            <a href="static/download/APEL_24-02-2022.docx">
+                Tekst apelu do&nbsp;pobrania
             </a>
         </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
+        <h3>Komunikat biskupów polskich</h3>
+    </div>
+    <div class="col">
+        <p>
+            <a href="static/download/KOMUNIKAT_24-02-2022.docx">
+                Tekst komunikatu do&nbsp;pobrania
+            </a>
+        </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
+        <h3>Informacja o&nbsp;zbiórce w&nbsp;Kościele - Pomoc dla Ukrainy</h3>
+    </div>
+    <div class="col">
+        <p>
+            <a href="static/download/Informacja_o_zbiórce_w_Kościele_-_Pomoc_dla_Ukrainy.pdf">
+                Tekst do pobrania
+            </a>
+        </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
+        <h3>
+            Apel przewodniczącego Konferencji Episkopatu Polski
+            Arcybiskupa Stanisława Gądeckiego ws. pomocy migrantom
+        </h3>
+    </div>
+    <div class="col">
         <p><a href="static/download/2021_Apel_przewodniczacego_Episkopatu_ws_pomocy_migrantom.pdf">Plik do pobrania</a></p>
     </div>
 </div>

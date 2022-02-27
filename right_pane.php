@@ -1,5 +1,28 @@
 <!-- prawy panel -->
 <div class="col-md-4 rightPanel">
+    <h3 class="new_right_panel">
+        Apel przewodniczącego Konferencji Episkopatu Polski
+        w&nbsp;związku z&nbsp;inwazją rosyjską na&nbsp;Ukrainę
+    </h3>
+    <p>
+        <a href="static/download/APEL_24-02-2022.docx"
+           title="Apel przewodniczącego Konferencji Episkopatu Polski
+           w związku z inwazją rosyjską na Ukrainę">Tekst apelu</a>
+    </p>
+    <h3 class="new_right_panel">
+        Komunikat biskupów polskich
+    </h3>
+    <p>
+        <a href="static/download/KOMUNIKAT_24-02-2022.docx"
+           title="Komunikat biskupów polskich">Tekst komunikatu</a>
+    </p>
+    <h3 class="new_right_panel">
+        Informacja o&nbsp;zbiórce w&nbsp;Kościele - Pomoc dla Ukrainy
+    </h3>
+    <p>
+        <a href="static/download/Informacja_o_zbiórce_w_Kościele_-_Pomoc_dla_Ukrainy.pdf"
+           title="Informacja o zbiórce w Kościele - Pomoc dla Ukrainy">Tekst do pobrania</a>
+    </p>
     <h3>
         Apel przewodniczącego Konferencji Episkopatu Polski
     </h3>

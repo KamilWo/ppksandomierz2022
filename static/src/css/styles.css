@@ -115,6 +115,10 @@ td.hour {
   position: relative;
   font-size: 1.0em;
 }
+.rightPanel h3.new_right_panel{
+  background: #4b362a url('../images/a5.gif') top left repeat-x;
+  color: #FF0000;
+}
 .rightPanel h3 a, .rightPanel h3 a:hover {
   color: #FFFFFF;
   text-decoration: none;

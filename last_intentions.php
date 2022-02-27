@@ -1,84 +1,86 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            21.02. – 27.02.2022&nbsp;r.
+            28.02. – 06.03.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">21&nbsp;lutego, Poniedziałek</p>
+<p class="intentions_date">28&nbsp;lutego, Poniedziałek</p>
 <ul>
-    <li>6.30 w&nbsp;int. dzieci, chrześniaków i&nbsp;ich rodzin
-    o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
-    Bożej, potrzebne łaski</li>
-    <li>6.30 + Józefę Bednarczyk</li>
-    <li>18.00 + Mariannę Kozakiewicz</li>
-    <li>18.00 + Mariannę, Eugeniusza Jedlińskich</li>
-</ul>
-
-<p class="intentions_date">22&nbsp;lutego, Wtorek –
-Święto katedry św.&nbsp;Piotra Apostoła</p>
-<ul>
-    <li>6.30 + Barbarę Stradomską</li>
+    <li>6.30 + Marię Woś w&nbsp;24 r.&nbsp;śm.; Stefanię, Franciszka
+    Kowalskich; Wiesławę Wałcerz</li>
     <li>6.30 + Marka Lipca</li>
-    <li>18.00 dziękczynno-błagalna z&nbsp;racji urodzin Witolda
-    o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
-    Bożej, potrzebne łaski</li>
-    <li>18.00 + Weronikę Wydrę</li>
+    <li>18.00 + Anielę Kargul</li>
     <li>18.00 + Ryszarda Chrząstowskiego</li>
 </ul>
 
-<p class="intentions_date">23&nbsp;lutego, Środa –
-św.&nbsp;Polikarpa</p>
+<p class="intentions_date">01&nbsp;marca, Wtorek</p>
 <ul>
-    <li>6.30 o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej,
-    pogłębienie wiary dla rodziny</li>
-    <li>6.30 + Urszulę Obitko</li>
-    <li>18.00 + Leokadię Bryłę</li>
-    <li>18.00 + Zbigniewa Gądka</li>
-</ul>
-
-<p class="intentions_date">24&nbsp;lutego, Czwartek</p>
-<ul>
-    <li>6.30 + Marka Lipca</li>
-    <li>6.30 + Wiktora Nowickiego</li>
-    <li>18.00 + Jerzego Malca</li>
-    <li>18.00 + Tadeusza Śledzia</li>
-</ul>
-
-<p class="intentions_date">25&nbsp;lutego, Piątek</p>
-<ul>
-    <li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
-    opiekę Matki Bożej, o&nbsp;łaskę wiary i&nbsp;zdrowie dla
-    Pawła</li>
     <li>6.30 + Adama Nagórnego</li>
-    <li>18.00+ Ryszarda Chrząstowskiego</li>
-    <li>18.00 + Władysława Anwajlera</li>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, szczęśliwy przebieg
+    operacji, opiekę Matki Bożej dla Jolanty oraz + Helenę, Hannę,
+    Romana, Jerzego Orlików i&nbsp;dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>18.00 + Mariannę Kozakiewicz</li>
+    <li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana,
+    Krystynę, Mariana</li>
+    <li>18.00 + Helenę w&nbsp;2&nbsp;r.&nbsp;śm., Mariana
+    Przyłuckich</li>
 </ul>
 
-<p class="intentions_date">26&nbsp;lutego, Sobota</p>
+<p class="intentions_date">02&nbsp;marca, Środa –
+Środa Popielcowa</p>
 <ul>
-    <li>6.30 dziękczynno-błagalna z&nbsp;racji urodzin Kapra
-    o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki
-    Bożej, potrzebne łaski</li>
-    <li>6.30 + Barbarę Marzec w&nbsp;1&nbsp;r.&nbsp;śm.</li>
-    <li>6.30 + Ryszarda Fularę</li>
-    <li>18.00 + Weronikę Wydrę</li>
-    <li>18.00 + Zygmunta Mazura</li>
+    <li>6.30 + Mariana w&nbsp;r.&nbsp;śm., Stanisławę,
+    zm.&nbsp;z&nbsp;rodz., dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>9.00 + Jana Chmiela</li>
+    <li>18.00 + Anielę Kargul</li>
+    <li>18.00 + Ryszarda Chrząstowskiego</li>
 </ul>
 
-<p class="intentions_date">27&nbsp;lutego, Niedziela –
+<p class="intentions_date">03&nbsp;marca, Czwartek</p>
+<ul>
+    <li>6.30 w&nbsp;int. świętości Kapłanów oraz o&nbsp;nowe, liczne
+    i&nbsp;święte powołania kapłańskie</li>
+    <li>6.30 + Ryszarda Chrząstowskiego</li>
+    <li>18.00 + Barbarę Stradomską</li>
+    <li>18.00 + Bogusławę, Józefa Cukrowskich</li>
+</ul>
+
+<p class="intentions_date">04&nbsp;marca, Piątek –
+Święto św.&nbsp;Kazimierza</p>
+<ul>
+    <li>6.30 int. dziękczynna z&nbsp;prośbą o&nbsp;Boże
+    błogosławieństwo, potrzebne łaski, opiekę Matki Bożej dla Anny
+    z&nbsp;racji urodzin</li>
+    <li>6.30 + Kazimierę Czajkę, Kazimierza Gacha
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Czajków i&nbsp;Gachów</li>
+    <li>18.00+ Kazimierza Kaczmarskiego, Małgorzatę Walczyna</li>
+    <li>18.00 + Leokadię Bryłę</li>
+</ul>
+
+<p class="intentions_date">05&nbsp;marca, Sobota</p>
+<ul>
+    <li>6.30 + Jerzego Malca</li>
+    <li>6.30 + Marka Lipca</li>
+    <li>18.00 int. wynagradzająca za&nbsp;grzechy świata przeciwko
+    Niepokalanemu Sercu Maryi – Legion Maryi</li>
+    <li>18.00 + Weronikę Wydrę</li>
+</ul>
+
+<p class="intentions_date">06&nbsp;marca, Niedziela –
     <span style="color: grey">
-        VIII&nbsp;Niedziela zwykła, Rok&nbsp;C
+        I&nbsp;Niedziela Wielkiego Postu
     </span>
 </p>
 <ul>
-    <li>7.30 + Bogusławę, Józefa Cukrowskich w&nbsp;r.&nbsp;śm.</li>
-    <li>9.30 + Janinę, Czesława, Krzysztofa Płazów</li>
-    <li>11.15 w&nbsp;int. parafian</li>
-    <li>12.30 + Zofię, Wacława Borcuchów; Michalinę, Franciszka
-    Irków</li>
-    <li>18.00 + Zenona Mądrego w&nbsp;12&nbsp;r.&nbsp;śm.,
-    zm.&nbsp;rodziców Teresę, Eugeniusza Paciochów</li>
+    <li>7.30 + Kazimierza, Mariannę Kołodziejów; Zofię, Wincentego
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Bryłów</li>
+    <li>9.30 + Kazimierę, Wacława Wojnów, zm.&nbsp;z&nbsp;rodz.
+    Wojnów, Mielczarków</li>
+    <li>11.15 w&nbsp;int. Koła Żywego Różańca – zelatorka Ewa
+    Łukawska</li>
+    <li>12.30 + Zofię, Władysława Szczudło; Mariana Czerepaka</li>
+    <li>18.00 w int. parafian</li>
 </ul>
     </div>
 </div>
