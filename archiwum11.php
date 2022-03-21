@@ -16,7 +16,288 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 6.&nbsp;marca 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 20.&nbsp;marca 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            14.03. – 20.03.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">14&nbsp;marca, Poniedziałek</p>
+<ul>
+    <li>6.30 + Andrzeja w&nbsp;11&nbsp;r.&nbsp;śm., Józefę, Idziego
+    Dudków</li>
+    <li>6.30 + Barbarę Bryłę</li>
+    <li>18.00 + Mariannę Kozakiewicz</li>
+    <li>18.00 + Janinę Wójcik</li>
+</ul>
+
+<p class="intentions_date">15&nbsp;marca, Wtorek</p>
+<ul>
+    <li>6.30 + Urszule Obitko</li>
+    <li>6.30 + Stanisławę, Władysława Bokwów</li>
+    <li>18.00 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin,
+    o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
+    i&nbsp;wyzwolenia</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, potrzebne łaski szczególnie łaskę zdrowia dla
+    Joanny i&nbsp;Andrzeja Skoczkowskich</li>
+    <li>18.00 + Ryszarda Chrząstowskiego</li>
+</ul>
+
+<p class="intentions_date">16&nbsp;marca, Środa</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, łaskę wiary i&nbsp;zdrowie dla Pawła</li>
+    <li>6.30 + Kazimierza Płazę; Stanisławę, Józefa, Jana zm.
+    z&nbsp;rodz. i&nbsp;dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>18.00 + Zdzisława Romanowskiego w&nbsp;30&nbsp;dz.
+    po&nbsp;śm.</li>
+    <li>18.00 + Marię Włoch</li>
+    <li>18.00 + Zygmunta Mazura</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;marca, Czwartek</p>
+<ul>
+    <li>6.30 + Zbigniewa Gądka</li>
+    <li>6.30 + Halinę Orłowską</li>
+    <li>18.00 + Weronikę Szpatowicz w&nbsp;30&nbsp;dz.
+    po&nbsp;śm.</li>
+    <li>18.00 + Ryszarda Chrząstowskiego</li>
+    <li>18.00 + Tadeusza Śledzia</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;marca, Piątek</p>
+<ul>
+    <li>6.30 w&nbsp;int. dzieci i&nbsp;chrześniaków oraz ich rodzin
+    o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę Matki
+    Bożej</li>
+    <li>6.30 + Jana w&nbsp;7&nbsp;r.&nbsp;śm. oraz jego rodziców</li>
+    <li>18.00 dziękczynno-błagalna w&nbsp;int. mieszkańców bloku
+    ul.&nbsp;Maciejowskiego 11, klatka&nbsp;4</li>
+    <li>18.00+ Józefę, Jana Marców; Ryszarda Pietruszkę</li>
+    <li>18.00 + Jerzego Malca</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;marca, Sobota –
+Uroczystość św.&nbsp;Józefa, Oblubieńca NMP</p>
+<ul>
+    <li>6.30 + Helenę, Jerzego Bażantów</li>
+    <li>6.30 + w&nbsp;int. zmarłych z&nbsp;rodz. Danuty
+    i&nbsp;Ryszarda</li>
+    <li>18.00 w&nbsp;int. Bogusława z&nbsp;racji urodzin
+    i&nbsp;imienin o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej,
+    potrzebne łaski przez wstawiennictwo św.&nbsp;Józefa Opiekuna
+    rodzin</li>
+    <li>18.00 + Henrykę Figas</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;marca, Niedziela –
+    <span style="color: grey">
+        III&nbsp;Niedziela Wielkiego Postu
+    </span>
+</p>
+<ul>
+    <li>7.30 + Barbarę Pyszczyńską w&nbsp;8&nbsp;r.&nbsp;śm.</li>
+    <li>9.30 + Dorotę Kwitek i&nbsp;zm. z&nbsp;rodz. Stefańskich
+    i&nbsp;Wronów</li>
+    <li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
+    <li>12.30 w&nbsp;int. parafian</li>
+    <li>18.00 + Józefa Zubę; Wacława, Mariannę Niziałków</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>13.&nbsp;marca 2022&nbsp;r.</h3>
+        <h3>II Niedziela Wielkiego Postu, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.15 - zapraszamy do&nbsp;udziału.</p>
+        <p>2. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        Święta.</p>
+        <p>3. Dzieci przygotowujące się do&nbsp;Pierwszej Komunii Świętej
+        wraz z&nbsp;rodzicami prosimy na&nbsp;spotkanie formacyjne
+        i&nbsp;Drogę Krzyżową w&nbsp;najbliższy piątek - 18&nbsp;marca,
+        na&nbsp;godz.&nbsp;17:00.</p>
+        <p>4. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety na&nbsp;stoliku pod chórem.</p>
+        <p>5. Dziś po&nbsp;Mszach św. zbiórka do&nbsp;puszek na&nbsp;zakup
+        sprzętu do&nbsp;mieszkania dla uchodźców, tak jak było
+        to&nbsp;zapowiedziane w&nbsp;zeszłą niedzielę. Jedna rodzina
+        z&nbsp;Ukrainy przebywa w&nbsp;domu obok plebanii, czekamy
+        na&nbsp;kolejne.<br />
+        <strong>Organizowany jest konwój humanitarny na&nbsp;Ukrainę</strong>,
+        będzie można złożyć dary na&nbsp;rzecz naszych sióstr i&nbsp;braci
+        na&nbsp;Ukrainie w&nbsp;postaci: </p>
+        <p>- <strong>produktów żywieniowych</strong>: ryż, mąka, kasza, herbata, makaron,
+        puszki itp.</p>
+        <p>- <strong>środki opatrunkowe</strong>: bandaże, opaski uciskowe,
+        plastry, wata opatrunkowa, gaziki, opatrunki, opatrunki
+        na&nbsp;oparzenia itp.</p>
+        <p>- <strong>środki czystości</strong>: pasta do&nbsp;zębów, proszki
+        do&nbsp;prania, mydełka, płyny do&nbsp;mycia naczyń, płyny
+        do&nbsp;kąpieli, szczoteczki do&nbsp;mycia zębów, itp. Można
+        te&nbsp;dary serca składać w&nbsp;przedsionku kościoła przez cały
+        tydzień, będziemy je&nbsp;stamtąd sukcesyjnie zabierali
+        i&nbsp;przekażemy do&nbsp;Caritas Sandomierskiej.</p>
+        <p>6. <strong>Parafialne Rekolekcje Wielkopostne</strong>
+        w&nbsp;naszej parafii rozpoczną się w&nbsp;piątą niedzielę Wielkiego
+        Postu, tj.&nbsp;3&nbsp;kwietnia br., a&nbsp;4, 5, 6&nbsp;kwietnia br.
+        w&nbsp;naszym kościele będą rekolekcje dla dzieci od&nbsp;klasy
+        czwartej do&nbsp;ósmej ze&nbsp;szkoły podstawowej nr&nbsp;4. Więcej
+        informacji na&nbsp;ten temat podamy w&nbsp;późniejszym terminie.</p>
+        <p>7. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+        na&nbsp;potrzeby parafii i&nbsp;nie tylko. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 13.&nbsp;marca 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            07.03. – 13.03.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">07&nbsp;marca, Poniedziałek</p>
+<ul>
+    <li>6.30 + Tadeusza Lipczyńskiego</li>
+    <li>6.30 + Ryszarda Chrząstowskiego</li>
+    <li>18.00 + Andrzejka, Helenę w&nbsp;8&nbsp;r.&nbsp;śm.,
+    Józefa Wąsików</li>
+    <li>18.00 + Zygmunta Mazura</li>
+</ul>
+
+<p class="intentions_date">08&nbsp;marca, Wtorek</p>
+<ul>
+    <li>6.30 w&nbsp;int. Moniki i&nbsp;Łukasza o&nbsp;Boże
+    błogosławieństwo, opiekę Matki Bożej i&nbsp;potrzebne łaski
+    w&nbsp;małżeństwie</li>
+    <li>6.30 + Wiktora Nowickiego</li>
+    <li>18.00 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin,
+    o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
+    i&nbsp;wyzwolenia</li>
+    <li>18.00 + Stanisława Kudelskiego w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">09&nbsp;marca, Środa</p>
+<ul>
+    <li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
+    <li>6.30 + Barbarę Rutkowską w&nbsp;3&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Barbarę Stradomską</li>
+    <li>18.00 + zm.&nbsp;z&nbsp;rodz. Erkolani</li>
+</ul>
+
+<p class="intentions_date">10&nbsp;marca, Czwartek</p>
+<ul>
+    <li>6.30 w&nbsp;int. o&nbsp;łaskę nawrócenia dla męża Piotra
+    i&nbsp;ojca</li>
+    <li>6.30 + Marka Lipca</li>
+    <li>18.00 int. dziękczynna z&nbsp;racji urodzin Tomasza
+    z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne łaski,
+    opiekę Matki Bożej dla niego i&nbsp;całej rodz.</li>
+    <li>18.00 + Feliksa Osmalę w&nbsp;18&nbsp;r.&nbsp;śm., Józefa,
+    Teresę Zimnickich</li>
+</ul>
+
+<p class="intentions_date">11&nbsp;marca, Piątek</p>
+<ul>
+    <li>6.30 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+    i&nbsp;eutanazji</li>
+    <li>6.30 + Lucje Lis</li>
+    <li>18.00 + Krystynę Przewlekły
+    w&nbsp;30&nbsp;dz.&nbsp;po&nbsp;śm.</li>
+    <li>18.00+ Helenę Bodułę w&nbsp;17&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Krystynę, Wojciecha Piskórów</li>
+</ul>
+
+<p class="intentions_date">12&nbsp;marca, Sobota</p>
+<ul>
+    <li>6.30 + Alicję Gilewską</li>
+    <li>6.30 + Władysława, Władysławę Mrówków
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Mrówków i&nbsp;Wodzów</li>
+    <li>18.00 + Anielę Kargul</li>
+    <li>18.00 + Zygmunta Mazura</li>
+    <li>18.00 + Jadwigę Wielgus-Kręcichwost</li>
+</ul>
+
+<p class="intentions_date">13&nbsp;marca, Niedziela –
+    <span style="color: grey">
+        II&nbsp;Niedziela Wielkiego Postu
+    </span>
+</p>
+<ul>
+    <li>7.30 + Anielę, Stefana, Jana Jędrzejewskich</li>
+    <li>9.30 + Krystynę, Genowefę, Władysława Walasek; Bronisława,
+    Wandę Kędziorów</li>
+    <li>11.15 + Leonarda Konopkę w&nbsp;r.&nbsp;śm.</li>
+    <li>12.30 + Kazimierza, Bronisławę Dudów; Ryszarda Czechowskiego,
+    zm.&nbsp;z&nbsp;rodz. Szczęśniaków i&nbsp;Dudów</li>
+    <li>18.00 w int. parafian</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>6.&nbsp;marca 2022&nbsp;r.</h3>
+        <h3>I Niedziela Wielkiego Postu, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Słowa wdzięczności kierujemy do&nbsp;Pań: Doroty Sarzyńskiej
+        i&nbsp;Jolanty Maciejewskiej, za&nbsp;wykonanie wielkopostnej
+        dekoracji w&nbsp;kościele. <em>Bóg zapłać</em>.</p>
+        <p>2. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.15 - zapraszamy do&nbsp;udziału.</p>
+        <p>3. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        Święta.</p>
+        <p>4. Duszpasterstwo Kobiet diecezji Sandomierskiej zaprasza
+        wszystkie Panie na&nbsp;comiesięczne Msze&nbsp;św. w&nbsp;ich
+        intencji oraz do&nbsp;udziału w&nbsp;konferencjach, których tematyka
+        będzie dotyczyć spraw związanych z&nbsp;życiem kobiet i&nbsp;ich
+        powołaniem. Będą specjaliści z&nbsp;różnych dziedzin: psychologii,
+        medycyny, duszpasterstwa rodzin, Biblii, teologii itd. Miejsce:
+        kościół p.w. św.&nbsp;Józefa Sandomierz, w&nbsp;drugi wtorek każdego
+        miesiąca, Msza&nbsp;św. o&nbsp;godz.&nbsp;19.00, a&nbsp;po&nbsp;niej
+        konferencja.</p>
+        <p>5. Przygotowujemy się do&nbsp;przyjęcia uchodźców z&nbsp;Ukrainy
+        (około trzy rodziny) w&nbsp;budynku obok plebanii. Musimy zakupić
+        trochę sprzętu, aby dostosować pomieszczenia do&nbsp;zamieszkania.
+        W&nbsp;przyszłą niedzielę po&nbsp;Mszach św. organizujemy zbiórkę
+        do&nbsp;puszek w&nbsp;tym celu.</p>
+        <p>6. Wzeszłą Niedzielę i&nbsp;w&nbsp;Środę Popielcową dla
+        cierpiących mieszkańców Ukrainy zostało zebrane do&nbsp;14500&nbsp;zł
+        i&nbsp;pieniądze zostały przekazane do&nbsp;Caritas Diecezji
+        Sandomierskiej.</p>
+        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety na&nbsp;stoliku pod chórem.</p>
+        <p>8. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+        na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym tygodniu
+        obchodzą swoje imieniny, urodziny, inne rocznice, składamy najlepsze
+        życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 6.&nbsp;marca 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
