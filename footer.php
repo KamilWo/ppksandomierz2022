@@ -1,6 +1,6 @@
 <!-- stopka -->
 <footer>
-    <p class="text-left tiny">Aktualizacja: 27.&nbsp;marca 2022&nbsp;r.</p>
+    <p class="text-left tiny">Aktualizacja: 3.&nbsp;kwietnia 2022&nbsp;r.</p>
     <p>Parafia Podwyższenia Krzyża Świętego &copy;
        2012-<script>document.write(new Date().getFullYear());</script>
        Wszelkie prawa zastrzeżone.<br />

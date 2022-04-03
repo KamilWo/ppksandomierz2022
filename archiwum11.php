@@ -16,7 +16,131 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 27.&nbsp;marca 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 3.&nbsp;kwietnia 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            28.03. – 03.04.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">28&nbsp;marca, Poniedziałek</p>
+<ul>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, łaskę wiary i&nbsp;zdrowie dla Pawła</li>
+<li>6.30 + Urszulę Obitko</li>
+<li>18.00 + Balbinę, Stanisława Wieczorków; Zofię, Jana Rugałów</li>
+<li>18.00 + Anielę Kargul</li>
+<li>18.00 + Zygmunta Mazura</li>
+</ul>
+
+<p class="intentions_date">29&nbsp;marca, Wtorek</p>
+<ul>
+<li>6.30 + Zofię Lasotę</li>
+<li>6.30 + Halinę Orłowską</li>
+<li>18.00 + Ryszarda Fularę</li>
+<li>18.00 + Ryszarda Fularę</li>
+<li>18.00 + Annę Przybyłek w&nbsp;9&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">30&nbsp;marca, Środa</p>
+<ul>
+<li>6.30 + Alicję Gilewską</li>
+<li>6.30 + Eugeniusza Jedlińskiego</li>
+<li>18.00 + Romualda, Władysławę, Stefana</li>
+<li>18.00 + Ryszarda Chrząstowskiego</li>
+</ul>
+
+<p class="intentions_date">31&nbsp;marca, Czwartek</p>
+<ul>
+<li>6.30 + Zbigniewa Gądka</li>
+<li>6.30 + Stefana, Janinę, Zdzisława, Bogusława Markiewiczów;
+Wacławę Jabłońską</li>
+<li>18.00 + Mariannę, Eugeniusza Jedlińskich, Pawła Mroczka</li>
+<li>18.00 + Bogusława Żyłę w&nbsp;6&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">01&nbsp;kwietnia, Piątek</p>
+<ul>
+<li>6.30 + Mariannę Kwiecień</li>
+<li>6.30 + Helenę, Mieczysława, Tadeusza, Jana Obrębskich</li>
+<li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana, Krystynę,
+Mariana.</li>
+<li>18.00 + Jerzego Malca</li>
+</ul>
+
+<p class="intentions_date">02&nbsp;kwietnia, Sobota</p>
+<ul>
+<li>6.30 + Jana Chmiela</li>
+<li>6.30 + Adama Kwietniewskiego</li>
+<li>18.00 int. wynagradzająca za&nbsp;grzechy świata przeciwko
+Niepokalanemu Sercu Maryi – Legion Maryi</li>
+<li>18.00 + Leokadię Bryłę</li>
+<li>18.00 + Piotra Stupczego w&nbsp;miesiąc po&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">03&nbsp;kwietnia, Niedziela –
+    <span style="color: grey">
+        V&nbsp;Niedziela Wielkiego Postu
+    </span>
+</p>
+<ul>
+<li>7.30 + Mieczysława Bryłę w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+<li>9.30 w&nbsp;int. parafian</li>
+<li>11.15 w&nbsp;int. Koła Żywego Różańca – zelatorka
+p.&nbsp;Andura</li>
+<li>12.30 + Helenę, Jana, Ireneusza, Bożenę Kiliańskich</li>
+<li>18.00 + Piotra, Alicję Bugalskich</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>27.&nbsp;marca 2022&nbsp;r.</h3>
+        <h3>IV Niedziela Wielkiego Postu, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. <strong>Parafialne Rekolekcje Wielkopostne</strong>
+        w&nbsp;naszej parafii rozpoczną się w&nbsp;przyszłą niedzielę,
+        tj.&nbsp;3&nbsp;kwietnia br., a&nbsp;4, 5, 6&nbsp;kwietnia br.
+        w&nbsp;naszym kościele będą rekolekcje dla dzieci od&nbsp;klasy
+        czwartej do&nbsp;ósmej ze&nbsp;szkoły podstawowej nr&nbsp;4.</p>
+        <p>2. Są&nbsp;do&nbsp;nabycia Baranki wielkanocne w&nbsp;cenie
+        8&nbsp;zł.</p>
+        <p>3. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.15 - zapraszamy do&nbsp;udziału.</p>
+        <p>4. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        Święta.</p>
+        <p>5. W&nbsp;tym tygodniu Pierwszy piątek i&nbsp;Pierwsza sobota
+        miesiąca. W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.00.</p>
+        <p>6. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+        <p>7. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św. o&nbsp;godz.&nbsp;11.15 – adoracja Najśw. Sakramentu
+        połączona z&nbsp;modlitwą różańcową, którą poprowadzi Koło Żywego
+        Różańca z&nbsp;naszej parafii i&nbsp;zmiana tajemnic różańcowych.
+        Zapraszamy do&nbsp;udziału w&nbsp;tej modlitwie.</p>
+        <p>8. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”,
+        „Gość Niedzielny”, dla dzieci „Mały Gość”, dla młodzieży „Miłujcie
+        się”.</p>
+        <p>9. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+        na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym tygodniu
+        obchodzą swoje imieniny, urodziny, inne rocznice, składamy najlepsze
+        życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 27.&nbsp;marca 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
