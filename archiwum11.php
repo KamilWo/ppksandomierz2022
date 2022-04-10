@@ -16,7 +16,151 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 3.&nbsp;kwietnia 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 10.&nbsp;kwietnia 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            04.04. – 10.04.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">04&nbsp;kwietnia, Poniedziałek</p>
+<ul>
+<li>6.30 w&nbsp;int. Marii Kamińskiej z&nbsp;racji 85&nbsp;r.&nbsp;ur.
+oraz synów, synowych i&nbsp;wnucząt o&nbsp;Boże błogosławieństwo,
+opiekę Matki Bożej, zdrowie i&nbsp;potrzebne łaski
+w&nbsp;rodzinie</li>
+<li>6.30 + Szczepana w&nbsp;r.&nbsp;śm., Emilię, Zdzisława, Teodozję
+Dudków, zm.&nbsp;z&nbsp;rodz., dusze w&nbsp;czyśćcu cierpiące</li>
+<li>8.00 + Henrykę Frączyk</li>
+<li>18.00 + Tadeusza Lipczyńskiego</li>
+<li>18.00 + Huberta Kołacza; Jana, Władysławę, Zdzisława
+Błachowiczów</li>
+<li>18.00 + Tomasza Burzyńskiego w&nbsp;miesiąc po&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">05&nbsp;kwietnia, Wtorek</p>
+<ul>
+<li>6.30 + Stefana Orłowskiego w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+<li>6.30 + Barbarę Bryłę</li>
+<li>8.00 o&nbsp;Boże błogosławieństwo dla Jolanty, szczęśliwy
+przebieg operacji oraz łaskę wiary dla Kamila</li>
+<li>18.00 + Zygmunta Mazura</li>
+<li>18.00 + Marka Lipca</li>
+</ul>
+
+<p class="intentions_date">06&nbsp;kwietnia, Środa</p>
+<ul>
+<li>6.30 + Alicję Gilewską</li>
+<li>6.30 + Urszulę Obitko</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
+<li>18.00 + Sławomira Drzymalskiego w&nbsp;20&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Genowefę, Tadeusza Szymańskich; Annę Moszczyńską
+i&nbsp;zm. z&nbsp;rodz. Szymańskich, Łukaszków</li>
+</ul>
+
+<p class="intentions_date">07&nbsp;kwietnia, Czwartek</p>
+<ul>
+<li>6.30 w&nbsp;int. świętości Kapłanów oraz o&nbsp;nowe, liczne
+i&nbsp;święte powołania kapłańskie</li>
+<li>6.30 + Wiktora Nowickiego</li>
+<li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+potrzebne łaski, opiekę Matki Bożej, wstawiennictwo św.&nbsp;Patrona
+w&nbsp;dalszym życiu dla Wojciecha Fularskiego</li>
+<li>i całej rodz.</li>
+<li>18.00 + Barbarę Bryłę</li>
+</ul>
+
+<p class="intentions_date">08&nbsp;kwietnia, Piątek</p>
+<ul>
+<li>6.30 w&nbsp;int. Moniki i&nbsp;Łukasza o&nbsp;Boże
+błogosławieństwo, opiekę Matki Bożej, potrzebne łaski
+w&nbsp;małżeństwie</li>
+<li>6.30 + Zygmunta Mazura</li>
+<li>18.00 + Tadeusza Fietko w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Stanisława, Rozalię Oszczudłowskich i&nbsp;zm.
+z&nbsp;ich rodzin</li>
+</ul>
+
+<p class="intentions_date">09&nbsp;kwietnia, Sobota</p>
+<ul>
+<li>6.30 + Anielę Kargul</li>
+<li>6.30 + Mieczysława Gajdę w&nbsp;21&nbsp;r.&nbsp;śm.,
+zm.&nbsp;z&nbsp;rodz. Misiudów i&nbsp;Gajdów</li>
+<li>18.00+ Leokadię Bryłę</li>
+<li>18.00 + Zbigniewa Gądka</li>
+</ul>
+
+<p class="intentions_date">10&nbsp;kwietnia, Niedziela –
+    <span style="color: grey">
+        Niedziela Palmowa, czyli Męki Pańskiej
+    </span>
+</p>
+<ul>
+<li>7.30 w&nbsp;int. parafian</li>
+<li>9.30 + Krystynę, Józefa, Marcina Wronów; Stanisławę, Mariana,
+Kazimierza Kasprowiczów</li>
+<li>11.15 + Henryka Kędziorę w&nbsp;4&nbsp;r.&nbsp;śm.</li>
+<li>12.30 + Alicję Gilewską</li>
+<li>18.00  w&nbsp;int. o&nbsp;nawrócenie męża Piotra i&nbsp;ojca</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>3.&nbsp;kwietnia 2022&nbsp;r.</h3>
+        <h3>V Niedziela Wielkiego Postu, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Zapraszamy do&nbsp;udziału w&nbsp;wielkopostnych nabożeństwach
+        - Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.30, w&nbsp;każdą niedzielę Wielkiego Postu
+        nabożeństwo „Gorzkich Żali” z&nbsp;nauką pasyjną
+        o&nbsp;godz.&nbsp;17.30.</p>
+        <p>2. Najbliższa niedziela to&nbsp;już Niedziela Palmowa. Poświecenie
+        palm na&nbsp;każdej Mszy Świętej. Przed Mszą&nbsp;św.
+        o&nbsp;godz.&nbsp;11.15 procesja z&nbsp;palmami wokół kościoła
+        parafialnego.</p>
+        <p>3. W&nbsp;przyszłą niedziele, tj.&nbsp;10.04 po&nbsp;Mszy świętej
+        o&nbsp;godz.&nbsp;12.30 w&nbsp;sali Domu Parafialnego spotkanie
+        organizacyjne dla rodziców i&nbsp;dzieci Pierwszokomunijnych –
+        obecność obowiązkowa.</p>
+        <p>4. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem. Do&nbsp;nabycia
+        są&nbsp;także „baranki wielkanocne”.</p>
+        <p>5. W&nbsp;Wielką Środę, tj.&nbsp;13&nbsp;kwietnia br.
+        od&nbsp;godz.&nbsp;15.00 księża odwiedzą chorych z&nbsp;posługą
+        sakramentalną. Prosimy, aby zgłosić w&nbsp;zakrystii, tych chorych,
+        którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach św.</p>
+        <p>6. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;15.00 nabożeństwo
+        do&nbsp;Miłosierdzia Bożego, które poprzedzi tzw. Miejską drogę
+        Krzyżową, która rozpocznie się od&nbsp;naszego kościoła parafialnego,
+        a&nbsp;zakończenie w&nbsp;kościele seminaryjnym. Zapraszamy.</p>
+        <p>7. Rekolekcje parafialne dla dorosłych potrwają do&nbsp;wtorku.
+        W&nbsp;poniedziałek i&nbsp;we&nbsp;wtorek, Msze&nbsp;św. z&nbsp;nauką
+        rekolekcyjną o&nbsp;godz.&nbsp;8.00 rano i&nbsp;wieczorem
+        o&nbsp;18.00.<br />
+        Natomiast dzieci i&nbsp;młodzież ze&nbsp;szkoły podstawowej
+        nr&nbsp;4 mają spotkania rekolekcyjne o&nbsp;godz.&nbsp;10.00, druga
+        grupa o&nbsp;godz.&nbsp;11.00, od&nbsp;najbliższego poniedziałku
+        do&nbsp;środy włącznie.</p>
+        <p>8. Spowiedź parafialna w&nbsp;najbliższy wtorek rano
+        od&nbsp;godz.&nbsp;8.30 do&nbsp;9.30, a&nbsp;popołudniu od&nbsp;16.30
+        do&nbsp;18.00.</p>
+        <p>9. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+        na&nbsp;potrzeby parafii. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 3.&nbsp;kwietnia 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
