@@ -1,100 +1,12 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            11.04. – 18.04.2022&nbsp;r.
+            17.04. – 24.04.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">11&nbsp;kwietnia, Poniedziałek
-Wielkiego Tygodnia</p>
-<ul>
-<li>6.30 int. dziękczynna z&nbsp;racji 2&nbsp;r.&nbsp;ur. Ignasia
-z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej</li>
-<li>6.30 + Mariannę Kwiecień</li>
-<li>6.30 + Mirosława Kosa w miesiąc po&nbsp;śm.</li>
-<li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
-i&nbsp;eutanazji</li>
-<li>18.00 + Ryszarda Fularę</li>
-</ul>
-
-<p class="intentions_date">12&nbsp;kwietnia, Wtorek
-Wielkiego Tygodnia</p>
-<ul>
-<li>6.30 + Urszulę Obitko</li>
-<li>6.30 + Eugeniusza Jedlińskiego</li>
-<li>18.00 o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
-i&nbsp;wyzwolenia dla osób uzależnionych i&nbsp;ich rodzin,</li>
-<li>18.00 + Jarosława w&nbsp;r.&nbsp;śm., Stefana, Genowefę Burków;
-Paulinę, Mieczysława Ramusów</li>
-<li>18.00 + Krzysztofa Rogozińskiego</li>
-</ul>
-
-<p class="intentions_date">13&nbsp;kwietnia, Środa
-Wielkiego Tygodnia</p>
-<ul>
-<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
-Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
-<li>6.30 int. dziękczynna z&nbsp;racji urodzin Grzegorza
-z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej</li>
-<li>6.30 + Krystynę Wziątek w&nbsp;1&nbsp;r.&nbsp;śm., Andrzeja
-Wołczyńskiego; zm.&nbsp;z&nbsp;rodz. Chorabiów</li>
-<li>18.00 dziękczynno-błagalna z&nbsp;racji 25&nbsp;r. urodzin
-Wojciecha o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
-Matki Bożej</li>
-<li>18.00 + Zygmunta Mazura</li>
-<li>18.00 + Marka Lipca</li>
-</ul>
-
-<h3>ŚWIĘTE TRIDUUM PASCHALNE</h3>
-
-<p class="intentions_date">14&nbsp;kwietnia, Wielki Czwartek –
-Msza święta Wieczerzy Pańskiej</p>
-<ul>
-<li>18.00 w&nbsp;int. świętości Kapłanów oraz o&nbsp;nowe, liczne
-i&nbsp;święte powołania kapłańskie-DK</li>
-<li>18.00 w&nbsp;int. Kapłanów emerytów, Kapłana z&nbsp;modlitewnej
-adopcji oraz Kapłanów pracujących w&nbsp;naszej Parafii</li>
-<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
-potrzebne łaski, opiekę Matki Bożej dla Kapłanów którzy posługiwali
-i&nbsp;obecnie posługują w&nbsp;naszej Parafii</li>
-</ul>
-
-<p class="intentions_date">15&nbsp;kwietnia,
-Wielki Piątek Męki Pańskiej</p>
-<ul>
-<li>17.15 Droga Krzyżowa</li>
-<li>18.00 Liturgia Męki Pańskiej</li>
-</ul>
-
-<p class="intentions_date">16 kwietnia, Wielka Sobota –
-Wigilia Paschalna</p>
-<ul>
-<li>19.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
-Matki Bożej, łaskę wiary</li>
-<li>i zdrowie dla Julii</li>
-<li>19.00+ Mariannę w&nbsp;r.&nbsp;śm., Jerzego, Janinę, Mariana
-Polaków</li>
-<li>19.00 + Mieczysława Osmalę w&nbsp;2&nbsp;r.&nbsp;śm.</li>
-</ul>
-
-<p class="intentions_date">17&nbsp;kwietnia, Niedziela –
-    <span style="color: grey">
-        Niedziela Zmartwychwstania Pańskiego
-    </span>
-</p>
-<ul>
-<li>6.00 REZUREKCJA w&nbsp;int. parafian</li>
-<li>9.30 dziękczynno-błagalna z&nbsp;racji 21&nbsp;r.&nbsp;sakr.
-małżeństwa Agaty i&nbsp;Daniela o&nbsp;Boże błogosławieństwo, dary
-Ducha Świętego, opiekę Matki Bożej dla małżonków ich synów
-i&nbsp;całej rodziny</li>
-<li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
-<li>12.30 + Jana Mazura</li>
-<li>18.00 + Stanisława Pacholczyka</li>
-</ul>
-
-<p class="intentions_date">18&nbsp;kwietnia,
-Poniedziałek Wielkiego Tygodnia</p>
+<p class="intentions_date">18&nbsp;kwietnia, Poniedziałek
+w&nbsp;oktawie Wielkanocy</p>
 <ul>
 <li>7.30 + Mariannę Pyszczyńską w&nbsp;3&nbsp;r.&nbsp;śm.</li>
 <li>9.30 + Stefanię, Franciszka Kowalskich; Marię Woś; Wiesławę
@@ -103,6 +15,80 @@ Wałcerz; Celinę, Jana Jarosława Gucałów</li>
 Krzysztofa Łukawskich</li>
 <li>12.30 + Władysławę, Józefa, Władysława Gospodarczyków; Annę,
 Dymitra, Ewę Chlebników; Alicję, Aleksandra Grębów</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;kwietnia, Wtorek
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+potrzebne łaski, opiekę Matki Bożej, wstawiennictwo św.&nbsp;Patrona
+w&nbsp;dalszym życiu dla Wojciecha Fularskiego i&nbsp;jego
+rodziny</li>
+<li>18.00 + Sławosza Lupę i&nbsp;jego rodziców</li>
+<li>18.00 + Tadeusza Lipczyńskiego</li>
+<li>18.00 + Leokadię Bryłę</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;kwietnia, Środa
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne siły, szczególnie
+łaskę zdrowia dla Katarzyny i&nbsp;Wojciecha</li>
+<li>6.30 + Wiktora Nowickiego</li>
+<li>6.30 + Mirosława Łukasiewicza</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
+<li>18.00 + Leokadię Bryłę</li>
+<li>18.00 + Izabelę Serebak</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;kwietnia, Czwartek
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>6.30 + Piotra Wnuka</li>
+<li>6.30 + Jana Chmiela</li>
+<li>18.00 + Alicję Gilewską</li>
+<li>18.00 + Marka Lipca</li>
+</ul>
+
+<p class="intentions_date">22&nbsp;kwietnia, Piątek
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
+<li>6.30 + Juliannę, Walentego Bulirów; Wincentego Kołodzieja; Marię
+Włoch; Irenę, Tadeusza Kołaczów; Stanisławę, Stanisława Wosiów</li>
+<li>18.00 + Anielę Kargul</li>
+<li>18.00+ Tadeusza Śledzia</li>
+</ul>
+
+<p class="intentions_date">23&nbsp;kwietnia, Sobota
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>6.30 + Czesława Marię Witków</li>
+<li>6.30 + Weronikę Wydrę</li>
+<li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+potrzebne łaski, opiekę Matki Bożej, z&nbsp;racji rocznicy sakramentu
+małżeństwa</li>
+<li>18.00 + Mieczysława Dyla w&nbsp;12&nbsp;r.&nbsp;śm.; Marię,
+Andrzeja Styczyńskich</li>
+
+</ul>
+
+<p class="intentions_date">24&nbsp;kwietnia, Niedziela –
+    <span style="color: grey">
+        Druga Niedziela Wielkanocna czyli Miłosierdzia Bożego
+    </span>
+</p>
+<ul>
+<li>7.30 + Alicję Gilewską; Józefa, Stefanię Janus; Krystynę
+Polit</li>
+<li>9.30 w&nbsp;int. parafian</li>
+<li>11.15 + Edmunda Niewiadomskiego w&nbsp;6&nbsp;r.&nbsp;śm.</li>
+<li>12.30 + Bogusława Sarzyńskiego; Annę, Janusza, Stanisława
+Rożmiejów; Zofię, Mikołaja, Eugeniusza Kapustów</li>
+<li>18.00 int. dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
+wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
+i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
 </ul>
     </div>
 </div>

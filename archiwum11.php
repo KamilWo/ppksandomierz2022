@@ -16,7 +16,177 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 10.&nbsp;kwietnia 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 18.&nbsp;kwietnia 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            11.04. – 18.04.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">11&nbsp;kwietnia, Poniedziałek
+Wielkiego Tygodnia</p>
+<ul>
+<li>6.30 int. dziękczynna z&nbsp;racji 2&nbsp;r.&nbsp;ur. Ignasia
+z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej</li>
+<li>6.30 + Mariannę Kwiecień</li>
+<li>6.30 + Mirosława Kosa w miesiąc po&nbsp;śm.</li>
+<li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+i&nbsp;eutanazji</li>
+<li>18.00 + Ryszarda Fularę</li>
+</ul>
+
+<p class="intentions_date">12&nbsp;kwietnia, Wtorek
+Wielkiego Tygodnia</p>
+<ul>
+<li>6.30 + Urszulę Obitko</li>
+<li>6.30 + Eugeniusza Jedlińskiego</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
+i&nbsp;wyzwolenia dla osób uzależnionych i&nbsp;ich rodzin,</li>
+<li>18.00 + Jarosława w&nbsp;r.&nbsp;śm., Stefana, Genowefę Burków;
+Paulinę, Mieczysława Ramusów</li>
+<li>18.00 + Krzysztofa Rogozińskiego</li>
+</ul>
+
+<p class="intentions_date">13&nbsp;kwietnia, Środa
+Wielkiego Tygodnia</p>
+<ul>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
+<li>6.30 int. dziękczynna z&nbsp;racji urodzin Grzegorza
+z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej</li>
+<li>6.30 + Krystynę Wziątek w&nbsp;1&nbsp;r.&nbsp;śm., Andrzeja
+Wołczyńskiego; zm.&nbsp;z&nbsp;rodz. Chorabiów</li>
+<li>18.00 dziękczynno-błagalna z&nbsp;racji 25&nbsp;r. urodzin
+Wojciecha o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej</li>
+<li>18.00 + Zygmunta Mazura</li>
+<li>18.00 + Marka Lipca</li>
+</ul>
+
+<h3>ŚWIĘTE TRIDUUM PASCHALNE</h3>
+
+<p class="intentions_date">14&nbsp;kwietnia, Wielki Czwartek –
+Msza święta Wieczerzy Pańskiej</p>
+<ul>
+<li>18.00 w&nbsp;int. świętości Kapłanów oraz o&nbsp;nowe, liczne
+i&nbsp;święte powołania kapłańskie-DK</li>
+<li>18.00 w&nbsp;int. Kapłanów emerytów, Kapłana z&nbsp;modlitewnej
+adopcji oraz Kapłanów pracujących w&nbsp;naszej Parafii</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+potrzebne łaski, opiekę Matki Bożej dla Kapłanów którzy posługiwali
+i&nbsp;obecnie posługują w&nbsp;naszej Parafii</li>
+</ul>
+
+<p class="intentions_date">15&nbsp;kwietnia,
+Wielki Piątek Męki Pańskiej</p>
+<ul>
+<li>17.15 Droga Krzyżowa</li>
+<li>18.00 Liturgia Męki Pańskiej</li>
+</ul>
+
+<p class="intentions_date">16 kwietnia, Wielka Sobota –
+Wigilia Paschalna</p>
+<ul>
+<li>19.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, łaskę wiary</li>
+<li>i zdrowie dla Julii</li>
+<li>19.00+ Mariannę w&nbsp;r.&nbsp;śm., Jerzego, Janinę, Mariana
+Polaków</li>
+<li>19.00 + Mieczysława Osmalę w&nbsp;2&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;kwietnia, Niedziela –
+    <span style="color: grey">
+        Niedziela Zmartwychwstania Pańskiego
+    </span>
+</p>
+<ul>
+<li>6.00 REZUREKCJA w&nbsp;int. parafian</li>
+<li>9.30 dziękczynno-błagalna z&nbsp;racji 21&nbsp;r.&nbsp;sakr.
+małżeństwa Agaty i&nbsp;Daniela o&nbsp;Boże błogosławieństwo, dary
+Ducha Świętego, opiekę Matki Bożej dla małżonków ich synów
+i&nbsp;całej rodziny</li>
+<li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
+<li>12.30 + Jana Mazura</li>
+<li>18.00 + Stanisława Pacholczyka</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;kwietnia,
+Poniedziałek Wielkiego Tygodnia</p>
+<ul>
+<li>7.30 + Mariannę Pyszczyńską w&nbsp;3&nbsp;r.&nbsp;śm.</li>
+<li>9.30 + Stefanię, Franciszka Kowalskich; Marię Woś; Wiesławę
+Wałcerz; Celinę, Jana Jarosława Gucałów</li>
+<li>11.15 + Stanisława, Leokadię, Romana Majcherów; Józefa, Stefanię,
+Krzysztofa Łukawskich</li>
+<li>12.30 + Władysławę, Józefa, Władysława Gospodarczyków; Annę,
+Dymitra, Ewę Chlebników; Alicję, Aleksandra Grębów</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>10.&nbsp;kwietnia 2022&nbsp;r.</h3>
+        <h3>Niedziela Palmowa, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;Wielką Środę od&nbsp;godz.&nbsp;15.00 kapłani odwiedzą
+        chorych z&nbsp;posługą sakramentalną. Prosimy, aby zgłosić
+        w&nbsp;zakrystii, tych chorych, którzy pragną przyjąć Pana Jezusa
+        w&nbsp;sakramentach&nbsp;św.</p>
+        <p>2. W&nbsp;Wielki Czwartek w&nbsp;naszym kościele Msza&nbsp;Św.
+        Wieczerzy Pańskiej o&nbsp;godzinie 18.00. Na&nbsp;zakończenie
+        przeniesiemy Najświętszy Sakrament do&nbsp;przygotowanego ołtarza
+        adoracji – Ciemnicy. Adoracja do&nbsp;godziny 22.00.</p>
+        <p>3. W&nbsp;Wielki Piątek adoracja przy Ciemnicy od&nbsp;godziny
+        8.00. Katolików obowiązuje post ścisły i&nbsp;wstrzemięźliwość
+        od&nbsp;pokarmów mięsnych. O&nbsp;godzinie 17.15 Droga Krzyżowa,
+        a&nbsp;po&nbsp;niej o&nbsp;godzinie 18.00 rozpocznie się Liturgia
+        Wielkiego Piątku. Na&nbsp;zakończenie, po&nbsp;przeniesieniu
+        Najświętszego Sakramentu do&nbsp;przygotowanego Grobu Pańskiego
+        adoracja do&nbsp;godziny 23.00. Ofiary z&nbsp;Wielkiego Piątku
+        na&nbsp;Grób Pański w&nbsp;Jerozolimie.</p>
+        <p>4. W&nbsp;Wielką Sobotę adorujemy Pana Jezusa w&nbsp;Najświętszym
+        Sakramencie, w&nbsp;Grobie Pańskim od&nbsp;godz.&nbsp;8.00.
+        Poświęcenie pokarmów w&nbsp;kościele od&nbsp;godz.&nbsp;9.00
+        do&nbsp;13.00 (co&nbsp;15&nbsp;minut). O&nbsp;godzinie 19.00
+        rozpocznie się Liturgia Wielkiej Soboty od&nbsp;poświęcenia ognia.
+        Przynosimy świece chrzcielne.</p>
+        <p>5. Rezurekcja w&nbsp;Niedzielę Zmartwychwstania o&nbsp;godzinie
+        6.00. Następna Msza Święta będzie sprawowana o&nbsp;godzinie 9.30
+        i&nbsp;dalej porządek, jak w&nbsp;każdą Niedzielę.</p>
+        <p>6. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem. Do&nbsp;nabycia
+        są&nbsp;także „baranki wielkanocne”.</p>
+        <p>7. Duszpasterstwo Kobiet diecezji Sandomierskiej zaprasza
+        wszystkie Panie na&nbsp;Mszę&nbsp;św. w&nbsp;ich intencji
+        w&nbsp;najbliższy wtorek na&nbsp;godz.&nbsp;19.00, do&nbsp;kościoła
+        św.&nbsp;Józefa w&nbsp;Sandomierzu, oraz do&nbsp;udziału
+        w&nbsp;konferencji pt.&nbsp;„Kobieta w&nbsp;Bożym Dziele
+        Stworzenia”.</p>
+        <p>8. Dziękujemy parafianom z&nbsp;Milczan za&nbsp;wykonanie palmy,
+        która zdobi ołtarz. <em>Bóg zapłać</em>.</p>
+        <p>9. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego w&nbsp;naszym
+        kościele parafialnym złożyli: Maria Kaczmarska – 300&nbsp;zł, Ewa
+        Łukawska – 100&nbsp;zł, Barbara Kuźdub – 100&nbsp;zł, zelator Maria
+        Kwiatkowska - 150&nbsp;zł, od&nbsp;Róży Różańcowej – zelator Barbara
+        Juda – 150&nbsp;zł, od&nbsp;Róży Różańcowej z&nbsp;Milczan –
+        290&nbsp;zł i&nbsp;anonimowi ofiarodawcy. <em>Bóg zapłać</em>
+        wszystkim.</p>
+        <p>10. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
+        składane ofiary na&nbsp;potrzeby parafii, przejawy szacunku
+        i&nbsp;sympatii. Wszystkim życzymy błogosławionej Niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 10.&nbsp;kwietnia 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
