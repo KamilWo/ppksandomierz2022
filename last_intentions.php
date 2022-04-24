@@ -1,94 +1,87 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            17.04. – 24.04.2022&nbsp;r.
+            25.04. – 01.05.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">18&nbsp;kwietnia, Poniedziałek
-w&nbsp;oktawie Wielkanocy</p>
+<p class="intentions_date">25&nbsp;kwietnia, Poniedziałek –
+Święto św.&nbsp;Marka, ewangelisty</p>
 <ul>
-<li>7.30 + Mariannę Pyszczyńską w&nbsp;3&nbsp;r.&nbsp;śm.</li>
-<li>9.30 + Stefanię, Franciszka Kowalskich; Marię Woś; Wiesławę
-Wałcerz; Celinę, Jana Jarosława Gucałów</li>
-<li>11.15 + Stanisława, Leokadię, Romana Majcherów; Józefa, Stefanię,
-Krzysztofa Łukawskich</li>
-<li>12.30 + Władysławę, Józefa, Władysława Gospodarczyków; Annę,
-Dymitra, Ewę Chlebników; Alicję, Aleksandra Grębów</li>
-</ul>
-
-<p class="intentions_date">19&nbsp;kwietnia, Wtorek
-w&nbsp;oktawie Wielkanocy</p>
-<ul>
-<li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-potrzebne łaski, opiekę Matki Bożej, wstawiennictwo św.&nbsp;Patrona
-w&nbsp;dalszym życiu dla Wojciecha Fularskiego i&nbsp;jego
-rodziny</li>
-<li>18.00 + Sławosza Lupę i&nbsp;jego rodziców</li>
-<li>18.00 + Tadeusza Lipczyńskiego</li>
+<li>6.30 + Mariannę Kozakiewicz</li>
+<li>6.30 + Eugeniusza Jedlińskiego</li>
 <li>18.00 + Leokadię Bryłę</li>
+<li>18.00 + Marka Lipca</li>
+<li>18.00 + Zbigniewa Patynę</li>
 </ul>
 
-<p class="intentions_date">20&nbsp;kwietnia, Środa
-w&nbsp;oktawie Wielkanocy</p>
+<p class="intentions_date">26&nbsp;kwietnia, Wtorek –
+Uroczystość św.&nbsp;Wojciecha, biskupa i&nbsp;męczennika,
+Głównego Patrona Polski</p>
 <ul>
-<li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne siły, szczególnie
-łaskę zdrowia dla Katarzyny i&nbsp;Wojciecha</li>
-<li>6.30 + Wiktora Nowickiego</li>
-<li>6.30 + Mirosława Łukasiewicza</li>
+<li>6.30 + Lucję Lis</li>
+<li>6.30 + Barbarę Bryłę</li>
+<li>18.00 + Antoninę, Władysława, Mariana, Zygmunta Materkowskich</li>
+<li>18.00 + Adama Nagórnego</li>
+<li>18.00 + Apolonię, Dorotę, Franciszka Romana, Zbigniewa Zubów;
+Franciszka Byczka</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;kwietnia, Środa</p>
+<ul>
+<li>6.30 int. o&nbsp;Boże błogosławieństwo, łaskę zdrowia, potrzebne
+siły i&nbsp;opiekę dla Andrzeja przez wstawiennictwo św.&nbsp;Patrona
+Andrzeja Boboli</li>
+<li>6.30 + Zofię Jungiewicz</li>
 <li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
 Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
-<li>18.00 + Leokadię Bryłę</li>
-<li>18.00 + Izabelę Serebak</li>
-</ul>
-
-<p class="intentions_date">21&nbsp;kwietnia, Czwartek
-w&nbsp;oktawie Wielkanocy</p>
-<ul>
-<li>6.30 + Piotra Wnuka</li>
-<li>6.30 + Jana Chmiela</li>
-<li>18.00 + Alicję Gilewską</li>
+<li>18.00 + Stanisława w&nbsp;r.&nbsp;śm.</li>
 <li>18.00 + Marka Lipca</li>
 </ul>
 
-<p class="intentions_date">22&nbsp;kwietnia, Piątek
-w&nbsp;oktawie Wielkanocy</p>
+<p class="intentions_date">28&nbsp;kwietnia, Czwartek</p>
 <ul>
-<li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
-<li>6.30 + Juliannę, Walentego Bulirów; Wincentego Kołodzieja; Marię
-Włoch; Irenę, Tadeusza Kołaczów; Stanisławę, Stanisława Wosiów</li>
-<li>18.00 + Anielę Kargul</li>
-<li>18.00+ Tadeusza Śledzia</li>
+<li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, potrzebne
+łaski, opiekę Matki Bożej dla dzieci i&nbsp;chrześniaków, i&nbsp;ich
+rodzin</li>
+<li>6.30 + Tadeusza Śledzia</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, o&nbsp;łaskę wiary i&nbsp;zdrowie dla Pawła</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, o&nbsp;łaskę wiary dla syna Wojciecha</li>
 </ul>
 
-<p class="intentions_date">23&nbsp;kwietnia, Sobota
-w&nbsp;oktawie Wielkanocy</p>
+<p class="intentions_date">29&nbsp;kwietnia, Piątek –
+Święto św.&nbsp;Katarzyny ze&nbsp;Sieny, dziewicy i&nbsp;doktora
+Kościoła, patronki Europy</p>
 <ul>
-<li>6.30 + Czesława Marię Witków</li>
-<li>6.30 + Weronikę Wydrę</li>
-<li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-potrzebne łaski, opiekę Matki Bożej, z&nbsp;racji rocznicy sakramentu
-małżeństwa</li>
-<li>18.00 + Mieczysława Dyla w&nbsp;12&nbsp;r.&nbsp;śm.; Marię,
-Andrzeja Styczyńskich</li>
-
+<li>6.30 + Janinę Wójcik</li>
+<li>6.30 + Zofię Jungiewicz</li>
+<li>18.00 + Tadeusza Śledzia</li>
+<li>18.00 + Wojciecha Piskóra</li>
 </ul>
 
-<p class="intentions_date">24&nbsp;kwietnia, Niedziela –
+<p class="intentions_date">30&nbsp;kwietnia, Sobota</p>
+<ul>
+<li>6.30 + Jana Chmiela</li>
+<li>6.30 + Adama Kwietniewskiego</li>
+<li>18.00 + Tadeusza Lipczyńskiego</li>
+<li>18.00 + Waldemara Zbocha</li>
+</ul>
+
+<p class="intentions_date">01&nbsp;maja, Niedziela –
     <span style="color: grey">
-        Druga Niedziela Wielkanocna czyli Miłosierdzia Bożego
+        Trzecia Niedziela Wielkanocna
     </span>
 </p>
 <ul>
-<li>7.30 + Alicję Gilewską; Józefa, Stefanię Janus; Krystynę
-Polit</li>
-<li>9.30 w&nbsp;int. parafian</li>
-<li>11.15 + Edmunda Niewiadomskiego w&nbsp;6&nbsp;r.&nbsp;śm.</li>
-<li>12.30 + Bogusława Sarzyńskiego; Annę, Janusza, Stanisława
-Rożmiejów; Zofię, Mikołaja, Eugeniusza Kapustów</li>
-<li>18.00 int. dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
-wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
-i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
+<li>7.30 w&nbsp;int. parafian</li>
+<li>9.30 + Stanisławę, Jana, Stanisława, Witolda, Mariana, Krystynę,
+Mariana</li>
+<li>11.15 w&nbsp;int. Koła Żywego Różańca – zelatorka Barbara
+Kuźdub</li>
+<li>12.30 + Tadeusza Iwańskiego w&nbsp;13&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Ryszarda Heciaka w&nbsp;18&nbsp;r.&nbsp;śm.</li>
 </ul>
     </div>
 </div>

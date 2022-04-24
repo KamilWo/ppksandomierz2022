@@ -16,7 +16,171 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 18.&nbsp;kwietnia 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 24.&nbsp;kwietnia 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            17.04. – 24.04.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">18&nbsp;kwietnia, Poniedziałek
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>7.30 + Mariannę Pyszczyńską w&nbsp;3&nbsp;r.&nbsp;śm.</li>
+<li>9.30 + Stefanię, Franciszka Kowalskich; Marię Woś; Wiesławę
+Wałcerz; Celinę, Jana Jarosława Gucałów</li>
+<li>11.15 + Stanisława, Leokadię, Romana Majcherów; Józefa, Stefanię,
+Krzysztofa Łukawskich</li>
+<li>12.30 + Władysławę, Józefa, Władysława Gospodarczyków; Annę,
+Dymitra, Ewę Chlebników; Alicję, Aleksandra Grębów</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;kwietnia, Wtorek
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+potrzebne łaski, opiekę Matki Bożej, wstawiennictwo św.&nbsp;Patrona
+w&nbsp;dalszym życiu dla Wojciecha Fularskiego i&nbsp;jego
+rodziny</li>
+<li>18.00 + Sławosza Lupę i&nbsp;jego rodziców</li>
+<li>18.00 + Tadeusza Lipczyńskiego</li>
+<li>18.00 + Leokadię Bryłę</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;kwietnia, Środa
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne siły, szczególnie
+łaskę zdrowia dla Katarzyny i&nbsp;Wojciecha</li>
+<li>6.30 + Wiktora Nowickiego</li>
+<li>6.30 + Mirosława Łukasiewicza</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
+<li>18.00 + Leokadię Bryłę</li>
+<li>18.00 + Izabelę Serebak</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;kwietnia, Czwartek
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>6.30 + Piotra Wnuka</li>
+<li>6.30 + Jana Chmiela</li>
+<li>18.00 + Alicję Gilewską</li>
+<li>18.00 + Marka Lipca</li>
+</ul>
+
+<p class="intentions_date">22&nbsp;kwietnia, Piątek
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
+<li>6.30 + Juliannę, Walentego Bulirów; Wincentego Kołodzieja; Marię
+Włoch; Irenę, Tadeusza Kołaczów; Stanisławę, Stanisława Wosiów</li>
+<li>18.00 + Anielę Kargul</li>
+<li>18.00+ Tadeusza Śledzia</li>
+</ul>
+
+<p class="intentions_date">23&nbsp;kwietnia, Sobota
+w&nbsp;oktawie Wielkanocy</p>
+<ul>
+<li>6.30 + Czesława Marię Witków</li>
+<li>6.30 + Weronikę Wydrę</li>
+<li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+potrzebne łaski, opiekę Matki Bożej, z&nbsp;racji rocznicy sakramentu
+małżeństwa</li>
+<li>18.00 + Mieczysława Dyla w&nbsp;12&nbsp;r.&nbsp;śm.; Marię,
+Andrzeja Styczyńskich</li>
+
+</ul>
+
+<p class="intentions_date">24&nbsp;kwietnia, Niedziela –
+    <span style="color: grey">
+        Druga Niedziela Wielkanocna czyli Miłosierdzia Bożego
+    </span>
+</p>
+<ul>
+<li>7.30 + Alicję Gilewską; Józefa, Stefanię Janus; Krystynę
+Polit</li>
+<li>9.30 w&nbsp;int. parafian</li>
+<li>11.15 + Edmunda Niewiadomskiego w&nbsp;6&nbsp;r.&nbsp;śm.</li>
+<li>12.30 + Bogusława Sarzyńskiego; Annę, Janusza, Stanisława
+Rożmiejów; Zofię, Mikołaja, Eugeniusza Kapustów</li>
+<li>18.00 int. dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
+wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
+i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>17.&nbsp;kwietnia 2022&nbsp;r.</h3>
+        <h3>Poniedziałek Wielkanocny, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Rozpoczęliśmy tzw. „Biały Tydzień” –&nbsp;<strong>Oktawę
+        Wielkanocy</strong>, która jest przedłużeniem świętowania
+        uroczystości Zmartwychwstania.
+        W&nbsp;ten sposób Kościół podkreśla fundamentalne znaczenie
+        Zmartwychwstania Chrystusa dla całego chrześcijaństwa. Druga
+        Niedziela Wielkanocna, to&nbsp;Niedziela Bożego Miłosierdzia,
+        nazywana też Białą Niedzielą, od&nbsp;koloru szat liturgicznych, ale
+        przede wszystkim od&nbsp;koloru szat katechumenów ochrzczonych
+        w&nbsp;Wigilię Paschalną. W&nbsp;białych szatach chodzili oni przez
+        cały tydzień od&nbsp;Wielkiej Nocy i&nbsp;zdejmowali je&nbsp;dopiero
+        na&nbsp;zakończenie oktawy w&nbsp;następną niedzielę po&nbsp;Wielkiej
+        Niedzieli.</p>
+        <p>2. Dziś o&nbsp;godz.&nbsp;18.00 nie będzie sprawowana
+        Msza&nbsp;św. Jutro Msza&nbsp;św. o&nbsp;godz.&nbsp;18.00, rano
+        o&nbsp;6.30, nie będzie Mszy&nbsp;św. w&nbsp;naszym kościele.</p>
+        <p>3. W&nbsp;najbliższy piątek nie obowiązuje wstrzemięźliwość
+        od&nbsp;pokarmów mięsnych z&nbsp;racji Oktawy Wielkanocnej.
+        Te&nbsp;osiem pierwszych dni Okresu Wielkanocnego stanowi oktawę,
+        obchodzi się je&nbsp;jako uroczystości Pańskie.</p>
+        <p>4. Dzisiejsza taca przeznaczona jest na&nbsp;Katolicki Uniwersytet
+        Lubelski.</p>
+        <p>5. W&nbsp;najbliższą środę o&nbsp;godz.&nbsp;17.00 w&nbsp;naszym
+        kościele parafialnym spotkanie młodzieżą z&nbsp;klas ósmych
+        z&nbsp;naszej parafii, przygotowującą się do&nbsp;przyjęcia
+        sakramentu bierzmowania. Obecność obowiązkowa.</p>
+        <p>6. Dziękujemy za&nbsp;ofiary na&nbsp;kwiaty do&nbsp;Grobu
+        Pańskiego. Wdzięczni jesteśmy: Paniom Dorocie Sarzyńskiej
+        i&nbsp;Jolancie Maciejewskiej, Panu Andrzejowi Anwajlerowi
+        za&nbsp;przygotowanie wielkanocnej dekoracji w&nbsp;naszym kościele.
+        <em>Bóg zapłać</em> Księżom wikariuszom, Diakonowi Damianowi,
+        ministrantom za&nbsp;przygotowanie liturgii i&nbsp;wszystkim, którzy
+        wzięli w&nbsp;niej udział. Wszystkim, którzy w&nbsp;jakikolwiek
+        sposób przyczynili się swoim zaangażowaniem, abyśmy jako parafia
+        przeżywali te&nbsp;Uroczystości radośnie i&nbsp;pobożnie. Wyrażamy
+        podziękowanie za&nbsp;wykonanie porządków wokół budynku kościoła
+        parafialnego: Pani Barbarze Sameli i&nbsp;Panu Tadeuszowi Woźniakowi.
+        My&nbsp;księża posługujący w&nbsp;parafii jesteśmy wdzięczni
+        za&nbsp;modlitwę w&nbsp;naszej intencji, za&nbsp;skierowane
+        do&nbsp;nas świąteczne życzenia, za&nbsp;wszelkie dobro. Dziękujemy
+        za&nbsp;ofiarowane cukierki dla dzieci, którym udzielamy
+        błogosławieństwa w&nbsp;czasie niedzielnej Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;12.30. Niech Bóg wszystkim wcześniej wspomnianym
+        hojnie błogosławi.</p>
+        <p>7. Uroczystość św.&nbsp;Wojciecha Patrona Polski przeniesiona
+        z&nbsp;soboty w&nbsp;Oktawie Wielkanocy na&nbsp;26&nbsp;kwietnia –
+        następny wtorek.</p>
+        <p>8. W&nbsp;tym roku Pierwsza Komunia św. dzieci z&nbsp;naszej
+        parafii 22&nbsp;maja o&nbsp;godz.&nbsp;12.30. Rocznica Pierwszej
+        komunii św. 5&nbsp;czerwca o&nbsp;godz.&nbsp;12.30, a&nbsp;Sakrament
+        Bierzmowania naszej młodzieży z&nbsp;parafii, udzieli
+        ks.&nbsp;bp&nbsp;Ordynariusz 16&nbsp;maja o&nbsp;godz.&nbsp;18.00.</p>
+        <p>9. Wszystkim życzymy radosnego Poniedziałku Wielkanocnego
+        i&nbsp;całej Oktawy Wielkanocnej. Chrystus zmartwychwstał -
+        prawdziwie zmartwychwstał. Alleluja.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 17.&nbsp;kwietnia 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
