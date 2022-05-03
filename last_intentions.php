@@ -1,87 +1,95 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            25.04. – 01.05.2022&nbsp;r.
+            02.05. – 08.05.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">25&nbsp;kwietnia, Poniedziałek –
-Święto św.&nbsp;Marka, ewangelisty</p>
+<p class="intentions_date">02&nbsp;maja, Poniedziałek –
+św.&nbsp;Atanazego</p>
 <ul>
+<li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, opiekę
+Matki Bożej dla dzieci i&nbsp;wnuczkę</li>
 <li>6.30 + Mariannę Kozakiewicz</li>
-<li>6.30 + Eugeniusza Jedlińskiego</li>
-<li>18.00 + Leokadię Bryłę</li>
-<li>18.00 + Marka Lipca</li>
-<li>18.00 + Zbigniewa Patynę</li>
+<li>18.00 + Mariannę, Stefana Kwietniów</li>
+<li>18.00 + Jerzego Malca</li>
 </ul>
 
-<p class="intentions_date">26&nbsp;kwietnia, Wtorek –
-Uroczystość św.&nbsp;Wojciecha, biskupa i&nbsp;męczennika,
-Głównego Patrona Polski</p>
+<p class="intentions_date">03&nbsp;maja, Wtorek –
+Uroczystość Najświętszej Maryi Panny, Królowej Polski</p>
 <ul>
-<li>6.30 + Lucję Lis</li>
-<li>6.30 + Barbarę Bryłę</li>
-<li>18.00 + Antoninę, Władysława, Mariana, Zygmunta Materkowskich</li>
-<li>18.00 + Adama Nagórnego</li>
-<li>18.00 + Apolonię, Dorotę, Franciszka Romana, Zbigniewa Zubów;
-Franciszka Byczka</li>
+<li>7.30 + Lucjana Sałka w&nbsp;r.&nbsp;śm.</li>
+<li>9.30 + Alicję Gilewską; Józefa, Stefanię Janus; Krystynę
+Polit</li>
+<li>11.15 + Jana, Józefa, Tadeusza Leona</li>
+<li>12.30 + w&nbsp;int. parafian</li>
+<li>18.00 + Eleonorę, Jana Typków, zm.&nbsp;z&nbsp;rodz. Żurawskich
+i&nbsp;Typków</li>
 </ul>
 
-<p class="intentions_date">27&nbsp;kwietnia, Środa</p>
+<p class="intentions_date">04&nbsp;maja, Środa –
+św.&nbsp;Floriana</p>
 <ul>
-<li>6.30 int. o&nbsp;Boże błogosławieństwo, łaskę zdrowia, potrzebne
-siły i&nbsp;opiekę dla Andrzeja przez wstawiennictwo św.&nbsp;Patrona
-Andrzeja Boboli</li>
-<li>6.30 + Zofię Jungiewicz</li>
-<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
-Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
-<li>18.00 + Stanisława w&nbsp;r.&nbsp;śm.</li>
-<li>18.00 + Marka Lipca</li>
-</ul>
-
-<p class="intentions_date">28&nbsp;kwietnia, Czwartek</p>
-<ul>
-<li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, potrzebne
-łaski, opiekę Matki Bożej dla dzieci i&nbsp;chrześniaków, i&nbsp;ich
-rodzin</li>
-<li>6.30 + Tadeusza Śledzia</li>
-<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
-Matki Bożej, o&nbsp;łaskę wiary i&nbsp;zdrowie dla Pawła</li>
-<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
-Matki Bożej, o&nbsp;łaskę wiary dla syna Wojciecha</li>
-</ul>
-
-<p class="intentions_date">29&nbsp;kwietnia, Piątek –
-Święto św.&nbsp;Katarzyny ze&nbsp;Sieny, dziewicy i&nbsp;doktora
-Kościoła, patronki Europy</p>
-<ul>
-<li>6.30 + Janinę Wójcik</li>
-<li>6.30 + Zofię Jungiewicz</li>
-<li>18.00 + Tadeusza Śledzia</li>
-<li>18.00 + Wojciecha Piskóra</li>
-</ul>
-
-<p class="intentions_date">30&nbsp;kwietnia, Sobota</p>
-<ul>
+<li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, opiekę
+Matki Bożej dla Moniki z&nbsp;racji imienin</li>
 <li>6.30 + Jana Chmiela</li>
-<li>6.30 + Adama Kwietniewskiego</li>
-<li>18.00 + Tadeusza Lipczyńskiego</li>
-<li>18.00 + Waldemara Zbocha</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej Nieustającej Pomocy, potrzebne łaski, szczególnie łaskę
+wiary dla Oliwii</li>
+<li>18.00 + Zygmunta Mazura</li>
+<li>18.00 + Leokadię, Jadwigę, Józefa Bryłów</li>
 </ul>
 
-<p class="intentions_date">01&nbsp;maja, Niedziela –
+<p class="intentions_date">05&nbsp;maja, Czwartek</p>
+<ul>
+<li>6.30 w&nbsp;int. świętości Kapłanów oraz o&nbsp;nowe, liczne
+i&nbsp;święte powołania kapłańskie</li>
+<li>6.30 + Adama Nagórnego</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej Nieustającej Pomocy, potrzebne łaski dla Moniki Bernaś
+z&nbsp;racji imienin</li>
+<li>18.00 + zm.&nbsp;z&nbsp;rodz. Kicińskich, Kupków</li>
+<li>18.00 + Anielę Kargul</li>
+</ul>
+
+<p class="intentions_date">06&nbsp;maja, Piątek –
+Święto świętych Apostołów Filipa i&nbsp;Jakuba</p>
+<ul>
+<li>6.30 + Tadeusza Śledzia</li>
+<li>6.30 + Zbigniewa Gądka</li>
+<li>18.00 + Alicję Gilewską</li>
+<li>18.00 + Leokadię Bryłę</li>
+</ul>
+
+<p class="intentions_date">07&nbsp;maja, Sobota</p>
+<ul>
+<li>6.30 dziękczynno-błagalna za&nbsp;10&nbsp;lat posługi Koła Radia
+Maryja w&nbsp;naszej Parafii, o&nbsp;Boże błogosławieństwo, opiekę
+Matki Bożej na&nbsp;dalsze lata</li>
+<li>6.30 + Tadeusza Lipczyńskiego</li>
+<li>6.30 + Stanisława, Stanisławę Niezgodów</li>
+<li>18.00 int. wynagradzająca za&nbsp;grzechy świata przeciwko
+Niepokalanemu Sercu Maryi – Legion Maryi</li>
+<li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, opiekę
+Matki Bożej z&nbsp;racji</li>
+<li>18 urodzin Emilii i&nbsp;Gabrieli</li>
+<li>18.00 + Stanisława, Leokadię Majcherów; Stanisława, Jadwigę,
+Karasińskich; Zofię Woźniak</li>
+</ul>
+
+<p class="intentions_date">08&nbsp;maja, Niedziela –
     <span style="color: grey">
-        Trzecia Niedziela Wielkanocna
+        IV&nbsp;Niedziela Wielkanocna
     </span>
 </p>
 <ul>
-<li>7.30 w&nbsp;int. parafian</li>
-<li>9.30 + Stanisławę, Jana, Stanisława, Witolda, Mariana, Krystynę,
-Mariana</li>
-<li>11.15 w&nbsp;int. Koła Żywego Różańca – zelatorka Barbara
-Kuźdub</li>
-<li>12.30 + Tadeusza Iwańskiego w&nbsp;13&nbsp;r.&nbsp;śm.</li>
-<li>18.00 + Ryszarda Heciaka w&nbsp;18&nbsp;r.&nbsp;śm.</li>
+<li>7.30 + Stanisława Pliżgę</li>
+<li>9.30 + Genowefę, Stanisława Rusaków</li>
+<li>11.15 w&nbsp;int. parafian</li>
+<li>12.30 dziękczynno-błagalna z&nbsp;racji 1&nbsp;r.&nbsp;sakr.
+małżeństwa Moniki i&nbsp;Łukasza, o&nbsp;Boże błogosławieństwo,
+opiekę Matki Bożej, potrzebne łaski w&nbsp;małżeństwie</li>
+<li>18.00 + Stanisława Kabzę</li>
 </ul>
     </div>
 </div>
