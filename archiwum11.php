@@ -16,7 +16,173 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 1.&nbsp;maja 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 8.&nbsp;maja 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            02.05. – 08.05.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">02&nbsp;maja, Poniedziałek –
+św.&nbsp;Atanazego</p>
+<ul>
+<li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, opiekę
+Matki Bożej dla dzieci i&nbsp;wnuczkę</li>
+<li>6.30 + Mariannę Kozakiewicz</li>
+<li>18.00 + Mariannę, Stefana Kwietniów</li>
+<li>18.00 + Jerzego Malca</li>
+</ul>
+
+<p class="intentions_date">03&nbsp;maja, Wtorek –
+Uroczystość Najświętszej Maryi Panny, Królowej Polski</p>
+<ul>
+<li>7.30 + Lucjana Sałka w&nbsp;r.&nbsp;śm.</li>
+<li>9.30 + Alicję Gilewską; Józefa, Stefanię Janus; Krystynę
+Polit</li>
+<li>11.15 + Jana, Józefa, Tadeusza Leona</li>
+<li>12.30 + w&nbsp;int. parafian</li>
+<li>18.00 + Eleonorę, Jana Typków, zm.&nbsp;z&nbsp;rodz. Żurawskich
+i&nbsp;Typków</li>
+</ul>
+
+<p class="intentions_date">04&nbsp;maja, Środa –
+św.&nbsp;Floriana</p>
+<ul>
+<li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, opiekę
+Matki Bożej dla Moniki z&nbsp;racji imienin</li>
+<li>6.30 + Jana Chmiela</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej Nieustającej Pomocy, potrzebne łaski, szczególnie łaskę
+wiary dla Oliwii</li>
+<li>18.00 + Zygmunta Mazura</li>
+<li>18.00 + Leokadię, Jadwigę, Józefa Bryłów</li>
+</ul>
+
+<p class="intentions_date">05&nbsp;maja, Czwartek</p>
+<ul>
+<li>6.30 w&nbsp;int. świętości Kapłanów oraz o&nbsp;nowe, liczne
+i&nbsp;święte powołania kapłańskie</li>
+<li>6.30 + Adama Nagórnego</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej Nieustającej Pomocy, potrzebne łaski dla Moniki Bernaś
+z&nbsp;racji imienin</li>
+<li>18.00 + zm.&nbsp;z&nbsp;rodz. Kicińskich, Kupków</li>
+<li>18.00 + Anielę Kargul</li>
+</ul>
+
+<p class="intentions_date">06&nbsp;maja, Piątek –
+Święto świętych Apostołów Filipa i&nbsp;Jakuba</p>
+<ul>
+<li>6.30 + Tadeusza Śledzia</li>
+<li>6.30 + Zbigniewa Gądka</li>
+<li>18.00 + Alicję Gilewską</li>
+<li>18.00 + Leokadię Bryłę</li>
+</ul>
+
+<p class="intentions_date">07&nbsp;maja, Sobota</p>
+<ul>
+<li>6.30 dziękczynno-błagalna za&nbsp;10&nbsp;lat posługi Koła Radia
+Maryja w&nbsp;naszej Parafii, o&nbsp;Boże błogosławieństwo, opiekę
+Matki Bożej na&nbsp;dalsze lata</li>
+<li>6.30 + Tadeusza Lipczyńskiego</li>
+<li>6.30 + Stanisława, Stanisławę Niezgodów</li>
+<li>18.00 int. wynagradzająca za&nbsp;grzechy świata przeciwko
+Niepokalanemu Sercu Maryi – Legion Maryi</li>
+<li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, opiekę
+Matki Bożej z&nbsp;racji</li>
+<li>18 urodzin Emilii i&nbsp;Gabrieli</li>
+<li>18.00 + Stanisława, Leokadię Majcherów; Stanisława, Jadwigę,
+Karasińskich; Zofię Woźniak</li>
+</ul>
+
+<p class="intentions_date">08&nbsp;maja, Niedziela –
+    <span style="color: grey">
+        IV&nbsp;Niedziela Wielkanocna
+    </span>
+</p>
+<ul>
+<li>7.30 + Stanisława Pliżgę</li>
+<li>9.30 + Genowefę, Stanisława Rusaków</li>
+<li>11.15 w&nbsp;int. parafian</li>
+<li>12.30 dziękczynno-błagalna z&nbsp;racji 1&nbsp;r.&nbsp;sakr.
+małżeństwa Moniki i&nbsp;Łukasza, o&nbsp;Boże błogosławieństwo,
+opiekę Matki Bożej, potrzebne łaski w&nbsp;małżeństwie</li>
+<li>18.00 + Stanisława Kabzę</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>1.&nbsp;maja 2022&nbsp;r.</h3>
+        <h3>III Niedziela Wielkanocna, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Nabożeństwa majowe w&nbsp;niedziele, święta i&nbsp;dni
+        powszednie o&nbsp;godz.&nbsp;17.30.</p>
+        <p>2. Przed nami XIV Tydzień Biblijny. (1-7&nbsp;maja&nbsp;2022).
+        W&nbsp;tym roku będziemy przeżywać go&nbsp;pod hasłem „Posłani
+        z&nbsp;darem pokoju Jezusa zmartwychwstałego”. W&nbsp;tym szczególnym
+        czasie sięgajmy swoich rodzinach po&nbsp;Pismo Św. i&nbsp;rozważajmy
+        słowo kierowane do&nbsp;nas przez Pana Boga. Niedziela, 1.&nbsp;maja
+        będzie Szóstym Narodowym Czytaniem Pisma Świętego.</p>
+        <p>3. We&nbsp;wtorek 3&nbsp;maja br. Uroczystość NMP Królowej Polski
+        – niedzielny porządek Mszy&nbsp;św. w&nbsp;naszym kościele.</p>
+        <p>4. Caritas Diecezji Sandomierskiej organizuje akcję pt. „Paczka
+        dla Ukrainy”. Polega ona na&nbsp;pomocy rodziny lub rodzin
+        z&nbsp;Polski rodzinie na&nbsp;Ukrainie. Wszelkie informacje
+        w&nbsp;tej kwestii i&nbsp;instrukcja przygotowania tej paczki
+        są&nbsp;zawarte w&nbsp;papierowych rulonikach, które znajdują się
+        na&nbsp;stoliku obok gazet. Kto chce włączyć się w&nbsp;tę akcje,
+        prosimy zabrać sobą te&nbsp;wydruki i&nbsp;zapoznać się z&nbsp;nimi.
+        Te&nbsp;paczki Caritas chce dostarczyć na&nbsp;Ukrainę na&nbsp;Dzień
+        Matki – 26&nbsp;maja.</p>
+        <p>5. W&nbsp;tym tygodniu Pierwszy czwartek, piątek i&nbsp;Pierwsza
+        sobota miesiąca.</p>
+        <p>6. W&nbsp;czwartek, 5&nbsp;maja o&nbsp;godz.&nbsp;16.30 spotkanie
+        dla dzieci przygotowujących się do&nbsp;Pierwszej Komunii
+        Świętej.</p>
+        <p>7. W&nbsp;Pierwszy Piątek miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.00.</p>
+        <p>8. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+        <p>9. Dziś po&nbsp;Mszach świętych zbiórka do&nbsp;puszek
+        na&nbsp;Caritas.</p>
+        <p>10. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+        <p>11. <strong>5 maja</strong> (czwartek) zapraszamy na&nbsp;wykład
+        otwarty ks.&nbsp;prof. Mirosława Wróbla, biblisty z&nbsp;KUL, który
+        w&nbsp;sposób niezwykle przystępny przybliży nam znaczenie
+        pozabiblijnych pism targumicznych oraz ich związek z&nbsp;Nowym
+        Testamentem. Konferencja pt.&nbsp;„Targumy w&nbsp;nauczaniu Jezusa
+        i&nbsp;pierwotnego Kościoła” będzie miała miejsce w&nbsp;budynku
+        Wyższego Seminarium Duchownego, a&nbsp;rozpocznie się
+        o&nbsp;godz.&nbsp;16:30.</p>
+        <p>12. Tego samego dnia w&nbsp;kościele seminaryjnym św.&nbsp;Michała
+        Archanioła będziemy modlić się w&nbsp;intencji nowych i&nbsp;świętych
+        powołań kapłańskich. Adorację pierwszoczwartkową poprowadzą nasi
+        seminarzyści. Rozpoczęcie o&nbsp;godz.&nbsp;20. Proponujemy
+        transmisję on-line.</p>
+        <p>13. W&nbsp;sobotę <strong>7 maja</strong> zapraszamy
+        do&nbsp;naszego seminarium wszystkich chłopców ze&nbsp;szkół średnich
+        oraz studentów. Proponujemy duchowe odczytanie tekstu
+        z&nbsp;Ewangelii wg&nbsp;św.&nbsp;Jana, w&nbsp;którym Jezus
+        zmartwychwstały ukazuje się swoim uczniom. To&nbsp;„Spotkanie
+        ze&nbsp;Zmartwychwstałym” rozpoczniemy o&nbsp;godz.&nbsp;14.</p>
+        <p>14. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
+        składane ofiary na&nbsp;potrzeby parafii, przejawy szacunku
+        i&nbsp;sympatii. Wszystkim życzymy błogosławionej Niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 1.&nbsp;maja 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
