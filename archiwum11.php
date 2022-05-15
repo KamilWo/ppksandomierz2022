@@ -16,7 +16,164 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 8.&nbsp;maja 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 15.&nbsp;maja 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            09.05. – 15.05.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">09&nbsp;maja, Poniedziałek –
+uroczystość św.&nbsp;Stanisława, biskupa i&nbsp;męczennika, Głównego
+Patrona Polski</p>
+<ul>
+<li>6.30 + Mariannę Kozakiewicz</li>
+<li>6.30 + Urszulę Obitko</li>
+<li>18.00 + Ryszarda Kaczora</li>
+<li>18.00 + Lucję Lis</li>
+<li>18.00 + Stanisława, Stanisławę</li>
+</ul>
+
+<p class="intentions_date">10&nbsp;maja, Wtorek</p>
+<ul>
+<li>6.30 o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
+i&nbsp;wyzwolenia dla osób uzależnionych, i&nbsp;ich rodzin</li>
+<li>6.30 + Zofię Jungiewicz</li>
+<li>6.30 + Barbarę Nowacką</li>
+<li>18.00 o&nbsp;łaskę nawrócenia dla męża Piotra i&nbsp;ojca</li>
+<li>18.00 + Janinę, Czesława Klimont i&nbsp;zm.&nbsp;z&nbsp;rodz.
+Klimontów</li>
+<li>18.00 + Bonifacego Marca w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">11&nbsp;maja, Środa</p>
+<ul>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
+<li>6.30 + Helenę, Antoniego Wrzosków, Andrzeja Sado</li>
+<li>6.30 + Adama Kwietniewskiego</li>
+<li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+i&nbsp;eutanazji</li>
+<li>18.00 + Zygmunta Mazura</li>
+<li>18.00 + Mariannę Chorąży</li>
+</ul>
+
+<p class="intentions_date">12&nbsp;maja, Czwartek</p>
+<ul>
+<li>6.30 dziękczynno-błagalna z&nbsp;racji 9&nbsp;r.&nbsp;sakramentu
+małżeństwa Karoliny i&nbsp;Piotra, o&nbsp;Boże błogosławieństwo,
+opiekę Matki Bożej, potrzebne łaski w&nbsp;dalszym życiu dla całej
+rodziny</li>
+<li>6.30 + Kazimierza Bakalarskiego</li>
+<li>18.00 + Dorotę Budzińską</li>
+<li>18.00 + Kazimierza Kaczmarskiego w&nbsp;5&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Ryszarda w&nbsp;4&nbsp;r.&nbsp;śm. Genowefę, Michała
+Wieczorków</li>
+</ul>
+
+<p class="intentions_date">13&nbsp;maja, Piątek –
+Najświętszej Maryi Panny Fatimskiej</p>
+<ul>
+<li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
+<li>6.30 + Mariannę, Stanisława Czajków; zm.&nbsp;z&nbsp;rodz.
+Gachów, Czajków</li>
+<li>18.00 dziękczynno-błagalna z&nbsp;racji 14&nbsp;urodzin Martyny,
+o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej, potrzebne łaski
+na&nbsp;dalsze lata życia</li>
+<li>18.00 + Tadeusza Śledzia</li>
+<li>18.00 + Marię, Stanisława Kosów, zm.&nbsp;rodziców z&nbsp;obydwu
+stron</li>
+<li>18.00 + Stanisława Oszczudłowskiego, Zofię Gospodarczyk,
+Stanisława Dumę i&nbsp;zm.&nbsp;z&nbsp;ich rodzin</li>
+</ul>
+
+<p class="intentions_date">14&nbsp;maja, Sobota –
+święto św.&nbsp;Macieja Apostoła</p>
+<ul>
+<li>6.30 + Zofię Siewierską; Janinę Lasek</li>
+<li>6.30 + Andrzeja, Kazimierę, Józefa Maciągów</li>
+<li>18.00+ Zofię Strzębską</li>
+<li>18.00 + Zofię, Stanisława, Wacława, Lucjana Wodzów</li>
+</ul>
+
+<p class="intentions_date">15&nbsp;maja, Niedziela –
+    <span style="color: grey">
+        V&nbsp;Niedziela Wielkanocna
+    </span>
+</p>
+<ul>
+<li>7.30 + Zofię Lipiec; Zofię Bryłę; Marię Głodzik</li>
+<li>9.30 + Bogusława Sarzyńskiego; Annę, Janusza, Stanisława
+Rożmiejów; Zofię, Mikołaja, Eugeniusza Kapustów</li>
+<li>11.15 w&nbsp;int. parafian</li>
+<li>12.30 + Irenę, Edwarda Gachów</li>
+<li>18.00 w&nbsp;int. Kręgu Domowego Kościoła</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>8.&nbsp;maja 2022&nbsp;r.</h3>
+        <h3>IV Niedziela Wielkanocna, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziś w&nbsp;Kościele obchodzimy Niedzielę Dobrego Pasterza
+        i&nbsp;59&nbsp;Światowy Dzień Modlitw o&nbsp;Powołania. Niedziela
+        Dobrego Pasterza rozpoczyna Tydzień Modlitw o&nbsp;Powołania
+        Kapłańskie, Zakonne i&nbsp;Misyjne, który potrwa do&nbsp;15&nbsp;maja.
+        W&nbsp;naszej osobistej modlitwie powierzajmy Bogu te sprawy Kościoła.</p>
+        <p>2. Mając na&nbsp;uwadze potrzeby duszpasterskie, Ks.&nbsp;Biskup
+        Ordynariusz zamianował Ks.&nbsp;Krystiana Kałużę wikariuszem parafii
+        pw.&nbsp;Podwyższenia Krzyża Świętego w&nbsp;Sandomierzu. Życzymy
+        nowemu Ks.&nbsp;Wikariuszowi wszystkie dobrego w&nbsp;posługiwaniu
+        w&nbsp;naszej parafii.</p>
+        <p>3. W&nbsp;zeszłą niedzielę po&nbsp;Mszach świętych zebrano
+        1030&nbsp;zł do&nbsp;puszek na&nbsp;Caritas. <em>Bóg
+        zapłać</em>.</p>
+        <p>4. Przypominamy o&nbsp;obowiązku chrześcijanina - <em>Przynajmniej
+        raz w&nbsp;roku przystąpić do&nbsp;sakramentu pokuty. Przynajmniej
+        raz w&nbsp;roku, w&nbsp;okresie wielkanocnym, przyjąć Komunię
+        świętą.</em> Dlatego zadbajmy o&nbsp;nasze życie duchowe
+        w&nbsp;jedności z&nbsp;Panem Bogiem. SPOWIEDŹ ŚWIĘTA CODZIENNIE PRZED
+        MSZĄ ŚWIĘTĄ PORANNĄ ORAZ WIECZORNĄ OD&nbsp;GODZ.&nbsp;17.30 –
+        17.50.</p>
+        <p>5. Spotkanie z&nbsp;kandydatami do&nbsp;przyjęcia Sakramentu
+        Bierzmowania w&nbsp;najbliższą środę o&nbsp;godz.&nbsp;17.30,
+        spowiedź św.&nbsp;dla tej młodzieży i&nbsp;jej rodziców oraz
+        świadków; w&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.00.</p>
+        <p>6. Zachęcamy do nabywania i&nbsp;czytania prasy katolickiej.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+        <p>7. W&nbsp;zakrystii są&nbsp;do&nbsp;odebrania pudełka
+        z&nbsp;Caritas, dla tych którzy chcą przygotowują tzw. „Paczkę dla
+        Ukrainy”, w&nbsp;zeszłą niedzielę było ogłoszenie dotyczące tej
+        charytatywnej akcji.</p>
+        <p>8. W&nbsp;sobotę 14&nbsp;maja br.&nbsp;o&nbsp;godz.&nbsp;18.00
+        odbędzie się tradycyjna "Majówka na&nbsp;statku", pod patronatem
+        ks.&nbsp;Bpa Krzysztofa Nitkiewicza, na&nbsp;którą bardzo serdecznie
+        zapraszamy. Ze&nbsp;względu na&nbsp;ograniczoną liczbę miejsc,
+        prosimy o&nbsp;zapisy w&nbsp;zakrystii.</p>
+        <p>9. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+        na&nbsp;Instytut Teologiczny w&nbsp;Sandomierzu.</p>
+        <p>10. Duszpasterstwo Kobiet diecezji Sandomierskiej zaprasza
+        wszystkie Panie na&nbsp;Mszę&nbsp;św. w&nbsp;ich intencji
+        w&nbsp;najbliższy wtorek na&nbsp;godz.&nbsp;19.00, do&nbsp;kościoła
+        św.&nbsp;Józefa w&nbsp;Sandomierzu, oraz do&nbsp;udziału
+        w&nbsp;konferencji pt.&nbsp;„Kobieta Zmartwychwstałego”.</p>
+        <p>11. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
+        składane ofiary: Anna i&nbsp;Wiktor Bugalikowie - 150&nbsp;zł,
+        Genowefa Zimnicka - 100&nbsp;zł; na&nbsp;potrzeby parafii.
+        Wszystkim życzymy błogosławionej Niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 8.&nbsp;maja 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
