@@ -1,59 +1,58 @@
 <div class="card">
     <div class="card-header">
-        <h3>22.&nbsp;maja 2022&nbsp;r.</h3>
-        <h3>VI Niedziela Wielkanocna, Rok C</h3>
+        <h3>29.&nbsp;maja 2022&nbsp;r.</h3>
+        <h3>VII Niedziela Wielkanocna – Uroczystość Wniebowstąpienia Pańskiego, Rok C</h3>
     </div>
     <div class="col">
-        <p>1. Do&nbsp;puszek w&nbsp;zeszłą niedzielę, w&nbsp;ramach wsparcia
-        finansowego projektu „Sanktuarium Sulisławice – miejsce pasjonujące”,
-        zostało zebrane 4376&nbsp;zł. Kustosz Sanktuarium
-        w&nbsp;Sulisławicach za&nbsp;naszym pośrednictwem, dziękuje wszystkim
-        ofiarodawcom. <em>Bóg zapłać</em>.</p>
-        <p>2. Zapraszamy na&nbsp;trzeci z&nbsp;serii Wykładów Otwartych
-        z&nbsp;Filozofii. Temat: „Dlaczego ateizm staje się modny?”.
-        Spotkanie odbędzie się 28&nbsp;maja o&nbsp;godz.&nbsp;16.00
-        w&nbsp;Sali Papieskiej Instytutu Teologicznego w&nbsp;Sandomierzu
-        ul.&nbsp;Mariacka&nbsp;9. Wykład wygłosi ks.&nbsp;dr&nbsp;Grzegorz
-        Martyna.</p>
-        <p>3. Dziękujemy rodzicom tegorocznych dzieci pierwszokomunijnym
-        za&nbsp;posprzątanie kościoła, wykonanie kwiatowej dekoracji
-        na&nbsp;dzisiejsze uroczystości oraz za&nbsp;złożoną ofiarę
-        na&nbsp;potrzeby parafii w&nbsp;wysokości dwóch tysięcy zł.<br>
-        Dzieci, które dziś po&nbsp;raz pierwszy przyjęły Komunię&nbsp;św.
-        przez kolejne 6&nbsp;dni wieczorem uczestniczą we&nbsp;Mszy&nbsp;św.
-        Będą przeżywać tzw. „Biały Tydzień”, w&nbsp;czasie którego
-        w&nbsp;swoich modlitwach polecać będą Panu Bogu swoje rodziny
-        i&nbsp;inne intencje.</p>
-        <p>4. Wdzięczność wyrażamy także wobec rodziców bierzmowanej
-        młodzieży za&nbsp;złożoną ofiarę na&nbsp;rzecz parafii
-        w&nbsp;wysokości trzech tysięcy złotych.</p>
-        <p>5. Ks.&nbsp;Biskup Ordynariusz Krzysztof Nitkiewicz wraz
-        z&nbsp;księżmi odpowiedzialnymi za&nbsp;duszpasterstwo dzieci
-        i&nbsp;młodzieży oraz moderatorami oazy w&nbsp;diecezji
-        sandomierskiej pragną zaprosić na&nbsp;Spotkanie Młodych, które
-        w&nbsp;tym roku odbędzie się 11&nbsp;czerwca w&nbsp;Radomyślu nad
-        Sanem, aby tam dzielić się swoją radością, dziękczynieniem
-        i&nbsp;młodzieńczym entuzjazmem. Hasłem tegorocznego spotkania
-        są&nbsp;słowa: „Co zrobiłby Jezus?”, które wpisują się w&nbsp;serce
-        każdego człowieka stawiającego sobie ważne pytania – szczególnie
-        te, które dotyczą realizacji życiowego powołania.<br />
-        Szczegóły wydarzenia są&nbsp;zamieszczone na&nbsp;plakacie oraz
-        karcie uczestnika, którą należy pobrać, uzupełnić i&nbsp;przywieźć
-        ze&nbsp;sobą. Z&nbsp;Panem Bogiem i&nbsp;do&nbsp;zobaczenia!</p>
-        <p>6. Święto Wniebowstąpienia Pańskiego, przypadające
-        w&nbsp;czterdziesty dzień po&nbsp;Zmartwychwstaniu Pańskim
-        przeniesione na&nbsp;stale na&nbsp;VII niedziele wielkanocną. Czyli
-        za&nbsp;tydzień.</p>
-        <p>7. W&nbsp;najbliższy piątek rozpoczęcie nowenny przed
-        uroczystością Zesłania Ducha Świętego.</p>
-        <p>8. W&nbsp;najbliższy czwartek, tj.&nbsp;26&nbsp;maja – Dzień
-        Matki, okazja do&nbsp;wyrażenia wdzięczności naszym Mamom, poprzez
-        modlitwę w&nbsp;ich intencji i&nbsp;życzenia oraz upominki.</p>
-        <p>9. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
-        ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
-        Niedzieli.</p>
+        <p>1. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+        <p>2. W&nbsp;przyszłą niedzielę Uroczystość Zesłania Ducha&nbsp;Św.
+        – zakończenie okresu wielkanocnego.</p>
+        <p>3. Nabożeństwo czerwcowe bezpośrednio po&nbsp;Mszy&nbsp;św.
+        wieczornej przez wszystkie dni miesiąca czerwca.</p>
+        <p>4. Spotkanie z&nbsp;dziećmi, które były w&nbsp;zeszłym roku
+        u&nbsp;Pierwszej Komunii&nbsp;św. i&nbsp;z&nbsp;ich rodzicami;
+        w&nbsp;naszym kościele w&nbsp;najbliższy poniedziałek
+        o&nbsp;godz.&nbsp;16.30. Spowiedź&nbsp;św. dzieci rocznicowych
+        i&nbsp;ich rodziców w&nbsp;najbliższy piątek
+        o&nbsp;godz.&nbsp;17.00.</p>
+        <p>5. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+        na&nbsp;Świątynie Opatrzności Bożej w&nbsp;ramach Dnia
+        Dziękczynienia.</p>
+        <p>6. Parafia Chrystusa Króla Jedynego Zbawiciela Świata
+        w&nbsp;Sandomierzu (OO.&nbsp;Pallotyni) zaprasza na&nbsp;Mszę&nbsp;św.
+        i&nbsp;konferencję ks.&nbsp;Marcello Stanzione pt.&nbsp;„Święty
+        Michał Archanioł – misja końca czasów” we&nbsp;wtorek 31&nbsp;maja
+        br. o&nbsp;godz.&nbsp;18.00. Szczegóły na&nbsp;plakacie.</p>
+        <p>7. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej
+        i&nbsp;siódmej z&nbsp;naszej parafii ma&nbsp;spotkanie
+        w&nbsp;parafialnym kościele w&nbsp;najbliższy wtorek
+        o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim spowiedź&nbsp;św.</p>
+        <p>8. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota miesiąca.
+        W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.00.</p>
+        <p>9. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+        <p>10. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>11. Uroczystość Najświętszego Ciała i&nbsp;Krwi Pańskiej.
+        Rozpoczęcie tradycyjnie Mszą Świętą o&nbsp;godzinie 9.30
+        w&nbsp;naszym kościele parafialnym pod przewodnictwem Pasterza
+        diecezji biskupa Krzysztofa Nitkiewicza, z&nbsp;udziałem kapłanów
+        z&nbsp;miasta Sandomierza. Następnie procesja Eucharystyczna
+        ul.&nbsp;Mickiewicza do&nbsp;4&nbsp;ołtarzy. Zakończenie
+        i&nbsp;rozwiązanie procesji przy Wyższym Seminarium Duchownym. Więcej
+        szczegółów w&nbsp;przyszłą niedzielę w&nbsp;ogłoszeniach
+        parafialnych.</p>
+        <p>12. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
+        składane ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy
+        błogosławionej Niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 22.&nbsp;maja 2022&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 29.&nbsp;maja 2022&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>

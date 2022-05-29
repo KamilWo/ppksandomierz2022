@@ -16,7 +16,161 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 22.&nbsp;maja 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 29.&nbsp;maja 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            23.05. – 29.05.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">23&nbsp;maja, Poniedziałek</p>
+<ul>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, łaskę wiary i&nbsp;zdrowie dla Pawła</li>
+<li>6.30 + Krystynę Przewlekły</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej dla Julii z&nbsp;racji 10&nbsp;r. urodzin</li>
+<li>18.00 + Stanisława Kozłowskiego</li>
+<li>18.00 + Ryszarda Fularę</li>
+</ul>
+
+<p class="intentions_date">24&nbsp;maja, Wtorek –
+Najświętszej Maryi Panny, Wspomożycielki Wiernych</p>
+<ul>
+<li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, potrzebne
+łaski, opiekę Matki Bożej dla dzieci i&nbsp;chrześniaków, i&nbsp;ich
+rodzin</li>
+<li>6.30 + Krystynę Przewlekły</li>
+<li>18.00 w&nbsp;int. Kapłanów posługujących w&nbsp;naszej
+Parafii</li>
+<li>18.00 + Kazimierza Grządkowskiego w&nbsp;9&nbsp;r.&nbsp;śm. oraz
+ks.&nbsp;Kazimierza Jarochę w&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Elżbietę w&nbsp;22&nbsp;r.&nbsp;śm., Sebastiana
+w&nbsp;25&nbsp;r.&nbsp;śm. Stefanków</li>
+</ul>
+
+<p class="intentions_date">25&nbsp;maja, Środa</p>
+<ul>
+<li>6.30 + Dorotę, Stanisława Budzińskich</li>
+<li>6.30 + Andrzeja, Stanisława, Zofię Skoczkowskich; Wincentego
+Zofię Gajewskich</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
+<li>18.00 + Zygmunta Mazura</li>
+<li>18.00 + Pawła Grzesiaka w&nbsp;2&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Stanisława Komorowskiego w&nbsp;23&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">26&nbsp;maja, Czwartek –
+św.&nbsp;Filipa Nereusza</p>
+<ul>
+<li>6.30 w&nbsp;int. ks.&nbsp;Damiana Dziuby z&nbsp;racji święceń
+kapłańskich, o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+opiekę Matki Bożej</li>
+<li>6.30 + Mariannę, Eugeniusza Jedlińskich</li>
+<li>18.00 + Filipa Walickiego w&nbsp;miesiąc po&nbsp;śm.</li>
+<li>18.00 + Marię Włoch</li>
+<li>18.00 + Czesława Krysę w&nbsp;19&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;maja, Piątek</p>
+<ul>
+<li>6.30 + Reginę, Edwarda Stępniów</li>
+<li>6.30 + Weronikę Szpatowicz</li>
+<li>18.00 + Dorotę Budzińską</li>
+<li>18.00 + Adama Nagórnego</li>
+<li>18.00 + Wandę Długosz w&nbsp;4&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">28&nbsp;maja, Sobota</p>
+<ul>
+<li>6.30 + Adama Kwietniewskiego</li>
+<li>6.30 + Urszulę Obitko</li>
+<li>18.00 + Mariannę Chorąży w&nbsp;miesiąc po&nbsp;śm.</li>
+<li>18.00 + Ryszarda Kubickiego w&nbsp;14&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Tomasza Szyprowskiego</li>
+</ul>
+
+<p class="intentions_date">29&nbsp;maja, Niedziela –
+    <span style="color: grey">
+        Uroczystość Wniebowstąpienia Pańskiego
+    </span>
+</p>
+<ul>
+<li>7.30 + Zofię Krasudę w&nbsp;18&nbsp;r.&nbsp;śm.</li>
+<li>9.30 + Anielę, Romualda, Pamelę, Aleksandra Kapisów</li>
+<li>11.15 + Mariannę Brzyszcz</li>
+<li>12.30 w&nbsp;int. parafian</li>
+<li>18.00 int. o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej dla
+Mariana, Agnieszki, Ilony, Emilii</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>22.&nbsp;maja 2022&nbsp;r.</h3>
+        <h3>VI Niedziela Wielkanocna, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Do&nbsp;puszek w&nbsp;zeszłą niedzielę, w&nbsp;ramach wsparcia
+        finansowego projektu „Sanktuarium Sulisławice – miejsce pasjonujące”,
+        zostało zebrane 4376&nbsp;zł. Kustosz Sanktuarium
+        w&nbsp;Sulisławicach za&nbsp;naszym pośrednictwem, dziękuje wszystkim
+        ofiarodawcom. <em>Bóg zapłać</em>.</p>
+        <p>2. Zapraszamy na&nbsp;trzeci z&nbsp;serii Wykładów Otwartych
+        z&nbsp;Filozofii. Temat: „Dlaczego ateizm staje się modny?”.
+        Spotkanie odbędzie się 28&nbsp;maja o&nbsp;godz.&nbsp;16.00
+        w&nbsp;Sali Papieskiej Instytutu Teologicznego w&nbsp;Sandomierzu
+        ul.&nbsp;Mariacka&nbsp;9. Wykład wygłosi ks.&nbsp;dr&nbsp;Grzegorz
+        Martyna.</p>
+        <p>3. Dziękujemy rodzicom tegorocznych dzieci pierwszokomunijnym
+        za&nbsp;posprzątanie kościoła, wykonanie kwiatowej dekoracji
+        na&nbsp;dzisiejsze uroczystości oraz za&nbsp;złożoną ofiarę
+        na&nbsp;potrzeby parafii w&nbsp;wysokości dwóch tysięcy zł.<br>
+        Dzieci, które dziś po&nbsp;raz pierwszy przyjęły Komunię&nbsp;św.
+        przez kolejne 6&nbsp;dni wieczorem uczestniczą we&nbsp;Mszy&nbsp;św.
+        Będą przeżywać tzw. „Biały Tydzień”, w&nbsp;czasie którego
+        w&nbsp;swoich modlitwach polecać będą Panu Bogu swoje rodziny
+        i&nbsp;inne intencje.</p>
+        <p>4. Wdzięczność wyrażamy także wobec rodziców bierzmowanej
+        młodzieży za&nbsp;złożoną ofiarę na&nbsp;rzecz parafii
+        w&nbsp;wysokości trzech tysięcy złotych.</p>
+        <p>5. Ks.&nbsp;Biskup Ordynariusz Krzysztof Nitkiewicz wraz
+        z&nbsp;księżmi odpowiedzialnymi za&nbsp;duszpasterstwo dzieci
+        i&nbsp;młodzieży oraz moderatorami oazy w&nbsp;diecezji
+        sandomierskiej pragną zaprosić na&nbsp;Spotkanie Młodych, które
+        w&nbsp;tym roku odbędzie się 11&nbsp;czerwca w&nbsp;Radomyślu nad
+        Sanem, aby tam dzielić się swoją radością, dziękczynieniem
+        i&nbsp;młodzieńczym entuzjazmem. Hasłem tegorocznego spotkania
+        są&nbsp;słowa: „Co zrobiłby Jezus?”, które wpisują się w&nbsp;serce
+        każdego człowieka stawiającego sobie ważne pytania – szczególnie
+        te, które dotyczą realizacji życiowego powołania.<br />
+        Szczegóły wydarzenia są&nbsp;zamieszczone na&nbsp;plakacie oraz
+        karcie uczestnika, którą należy pobrać, uzupełnić i&nbsp;przywieźć
+        ze&nbsp;sobą. Z&nbsp;Panem Bogiem i&nbsp;do&nbsp;zobaczenia!</p>
+        <p>6. Święto Wniebowstąpienia Pańskiego, przypadające
+        w&nbsp;czterdziesty dzień po&nbsp;Zmartwychwstaniu Pańskim
+        przeniesione na&nbsp;stale na&nbsp;VII niedziele wielkanocną. Czyli
+        za&nbsp;tydzień.</p>
+        <p>7. W&nbsp;najbliższy piątek rozpoczęcie nowenny przed
+        uroczystością Zesłania Ducha Świętego.</p>
+        <p>8. W&nbsp;najbliższy czwartek, tj.&nbsp;26&nbsp;maja – Dzień
+        Matki, okazja do&nbsp;wyrażenia wdzięczności naszym Mamom, poprzez
+        modlitwę w&nbsp;ich intencji i&nbsp;życzenia oraz upominki.</p>
+        <p>9. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+        ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
+        Niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 22.&nbsp;maja 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
