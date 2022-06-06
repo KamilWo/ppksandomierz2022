@@ -1,90 +1,79 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            30.05. – 05.06.2022&nbsp;r.
+            06.06. – 12.06.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">30&nbsp;maja, Poniedziałek</p>
+<p class="intentions_date">06&nbsp;czerwca, Poniedziałek –
+Święto Najświętszej Maryi Panny Matki Kościoła</p>
 <ul>
-<li>6.30 + Zofię Jungiewicz</li>
+<li>6.30 + Alfredy, Franciszka Kawiorskich</li>
 <li>6.30 + Kazimierza Bakalarskiego</li>
-<li>18.00 + Barbarę Nowacką w&nbsp;miesiąc po&nbsp;śm.</li>
-<li>18.00 + Zofię, zm.&nbsp;z&nbsp;rodz. Żubrynowiczów, Gradzińskich,
-Chałupczaków</li>
-<li>18.00 + Wojciecha Piskóra</li>
-</ul>
-
-<p class="intentions_date">31&nbsp;maja, Wtorek –
-Święto Nawiedzenia Najświętszej Maryi Panny</p>
-<ul>
-<li>6.30 + Krystynę Przewlekły</li>
-<li>6.30 + Zdzisława Romanowskiego</li>
-<li>18.00 + Huberta Dąbrowskiego</li>
-<li>18.00 + Halinę Hagdej</li>
-<li>18.00 + Barbarę Bryłę</li>
-</ul>
-
-<p class="intentions_date">01&nbsp;czerwca, Środa –
-św.&nbsp;Justyna</p>
-<ul>
-<li>6.30 + Otylię Nagórną – gregoriańska 1</li>
-<li>6.30 + Zofię Jungiewicz</li>
 <li>6.30 + Krzysztofa Bajdę</li>
-<li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana, Krystynę,
-Mariana</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;6</li>
 <li>18.00 + Marka Lipca</li>
 </ul>
 
-<p class="intentions_date">02&nbsp;czerwca, Czwartek</p>
+<p class="intentions_date">07&nbsp;czerwca, Wtorek</p>
 <ul>
-<li>6.30 w&nbsp;int. Kapłanów o&nbsp;świętość ich życia oraz
-o&nbsp;nowe, liczne i&nbsp;święte powołania kapłańskie,
-i&nbsp;zakonne</li>
-<li>6.30 + Zbigniewa Kamińskiego w&nbsp;7&nbsp;r.&nbsp;śm.</li>
+<li>6.30 + Leokadię Bryłę</li>
+<li>6.30 + Edwarda Wąsa</li>
+<li>18.00 + Barbarę Nowacką</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;7</li>
+<li>18.00 + Tomasza w&nbsp;24&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">08&nbsp;czerwca, Środa –
+św.&nbsp;Jadwigi Królowej</p>
+<ul>
+<li>6.30 + Barbarę Bryłę</li>
+<li>6.30 + Stanisława, Dorotę Budzińskich</li>
+<li>18.00 int. dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo dla Helenki</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;8</li>
+<li>18.00 + Mariana w&nbsp;12&nbsp;r.&nbsp;śm. Helenę Przyłuckich</li>
+</ul>
+
+<p class="intentions_date">09&nbsp;czerwca, Czwartek –
+Święto Jezusa Chrystusa Najwyższego i&nbsp;Wiecznego Kapłana</p>
+<ul>
+<li>6.30 + Krystynę Przewlekły</li>
+<li>6.30 + Stanisława Bidzińskiego</li>
 <li>6.30 + Filipa Walickiego</li>
-<li>18.00 dziękczynno-błagalna z&nbsp;racji 15&nbsp;r.&nbsp;sakr.
-małżeństwa Joanny i&nbsp;Damiana Mazurów<br />
-o&nbsp;Boże błogosławieństwo, potrzebne łaski w&nbsp;rodzinie, opiekę
-Matki Bożej nad dziećmi Tosią i&nbsp;Bartkiem</li>
-<li>18.00 + Otylię Nagórną – greg.&nbsp;2</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki Bożej, łaskę wiary i&nbsp;zdrowie dla Pawła</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;9</li>
 </ul>
 
-<p class="intentions_date">03&nbsp;czerwca, Piątek –
-św.&nbsp;Karola Lwangi i&nbsp;Towarzyszy</p>
+<p class="intentions_date">10&nbsp;czerwca, Piątek</p>
 <ul>
-<li>6.30 + Otylię Nagórną – greg.&nbsp;3</li>
-<li>6.30 + Zdzisława Śledzia w&nbsp;14&nbsp;r.&nbsp;śm.</li>
-<li>6.30 + Dorotę Budzińską</li>
-<li>18.00 + Ludwikę Szczębarę i&nbsp;zm.&nbsp;z&nbsp;rodz.
-Szczębarów, Golców, Królów, Ostrowskich oraz dusze w&nbsp;czyśćcu
-cierpiące</li>
-<li>18.00 + Adama Nagórnego</li>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, potrzebne łaski i&nbsp;opiekę Matki Bożej dla dzieci, chrześniaków oraz ich rodzin</li>
+<li>6.30 o&nbsp;łaskę nawrócenia dla męża Piotra i&nbsp;ojca</li>
+<li>18.00 + Helenę, Ludwika Wabiów w&nbsp;r.&nbsp;śm. i&nbsp;zm. z&nbsp;rodz.</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;10</li>
+<li>18.00 + Gustawa Sadłochę w&nbsp;12&nbsp;r.&nbsp;śm. oraz zm.&nbsp;z&nbsp;rodz. Sojdów i&nbsp;Sadłochów</li>
 </ul>
 
-<p class="intentions_date">04&nbsp;czerwca, Sobota</p>
+<p class="intentions_date">11&nbsp;czerwca, Sobota –
+św.&nbsp;Barnaby Apostoła</p>
 <ul>
-<li>6.30 + Otylię Nagórną – greg.&nbsp;4</li>
-<li>6.30 + Urszulę Obitko</li>
-<li>18.00 int. wynagradzająca za&nbsp;grzechy świata przeciwko
-Niepokalanemu Sercu Maryi – Legion Maryi</li>
-<li>18.00 + Zygmunta Mazura</li>
+<li>6.30 + Krystynę Przewlekły</li>
+<li>6.30 + Weronikę Szpatowicz</li>
+<li>6.30 + Filipa Walickiego</li>
+<li>18.00+ int. wynagradzająca Panu Bogu za grzechy aborcji i&nbsp;eutanazji</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;11</li>
 </ul>
 
-<p class="intentions_date">05&nbsp;czerwca, Niedziela –
+<p class="intentions_date">12&nbsp;czerwca, Niedziela –
     <span style="color: grey">
-        Niedziela Zesłania Ducha Świętego
+        Uroczystość Najświętszej Trójcy
     </span>
 </p>
 <ul>
-<li>7.30 + Zofię, Wawrzyńca Kwietniów, zm.&nbsp;z&nbsp;rodz.
-Kondeuszów i&nbsp;Kwietniów</li>
-<li>9.30 w&nbsp;int. parafian</li>
-<li>11.15 w&nbsp;int. Koła Żywego Różańca – zelatorka
-p.&nbsp;Halina</li>
-<li>12.30 + Mariannę, Kazimierza Kieszkowskich; zm.&nbsp;z&nbsp;rodz.
-Nizielskich, Kieszkowskich</li>
-<li>18.00 + Otylię Nagórną – greg.&nbsp;5</li>
+<li>7.30 w&nbsp;int. parafian</li>
+<li>9.30 + Mieczysława, Helenę, Jana Wnuków; Katarzynę, Stanisława Wyrzykowskich; Tadeusza Judę; Piotra Bogdańskiego</li>
+<li>11.15 dziękczynno-błagalna z&nbsp;racji 14&nbsp;r. urodzin Hani, o&nbsp;Boże błogosławieństwo, dary Ducha Świętego i&nbsp;opiekę Matki Bożej</li>
+<li>12.30 + Stanisławę w&nbsp;30&nbsp;r.&nbsp;śm., Mariana Podsiadłych, oraz zm.&nbsp;z&nbsp;rodz. Podsiadłych, Zwierzyków</li>
+<li>18.00 + Otylię Nagórną – greg. 12</li>
 </ul>
     </div>
 </div>

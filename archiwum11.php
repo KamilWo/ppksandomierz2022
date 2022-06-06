@@ -16,7 +16,160 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 29.&nbsp;maja 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 5.&nbsp;czerwca 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            30.05. – 05.06.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">30&nbsp;maja, Poniedziałek</p>
+<ul>
+<li>6.30 + Zofię Jungiewicz</li>
+<li>6.30 + Kazimierza Bakalarskiego</li>
+<li>18.00 + Barbarę Nowacką w&nbsp;miesiąc po&nbsp;śm.</li>
+<li>18.00 + Zofię, zm.&nbsp;z&nbsp;rodz. Żubrynowiczów, Gradzińskich,
+Chałupczaków</li>
+<li>18.00 + Wojciecha Piskóra</li>
+</ul>
+
+<p class="intentions_date">31&nbsp;maja, Wtorek –
+Święto Nawiedzenia Najświętszej Maryi Panny</p>
+<ul>
+<li>6.30 + Krystynę Przewlekły</li>
+<li>6.30 + Zdzisława Romanowskiego</li>
+<li>18.00 + Huberta Dąbrowskiego</li>
+<li>18.00 + Halinę Hagdej</li>
+<li>18.00 + Barbarę Bryłę</li>
+</ul>
+
+<p class="intentions_date">01&nbsp;czerwca, Środa –
+św.&nbsp;Justyna</p>
+<ul>
+<li>6.30 + Otylię Nagórną – gregoriańska 1</li>
+<li>6.30 + Zofię Jungiewicz</li>
+<li>6.30 + Krzysztofa Bajdę</li>
+<li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana, Krystynę,
+Mariana</li>
+<li>18.00 + Marka Lipca</li>
+</ul>
+
+<p class="intentions_date">02&nbsp;czerwca, Czwartek</p>
+<ul>
+<li>6.30 w&nbsp;int. Kapłanów o&nbsp;świętość ich życia oraz
+o&nbsp;nowe, liczne i&nbsp;święte powołania kapłańskie,
+i&nbsp;zakonne</li>
+<li>6.30 + Zbigniewa Kamińskiego w&nbsp;7&nbsp;r.&nbsp;śm.</li>
+<li>6.30 + Filipa Walickiego</li>
+<li>18.00 dziękczynno-błagalna z&nbsp;racji 15&nbsp;r.&nbsp;sakr.
+małżeństwa Joanny i&nbsp;Damiana Mazurów<br />
+o&nbsp;Boże błogosławieństwo, potrzebne łaski w&nbsp;rodzinie, opiekę
+Matki Bożej nad dziećmi Tosią i&nbsp;Bartkiem</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;2</li>
+</ul>
+
+<p class="intentions_date">03&nbsp;czerwca, Piątek –
+św.&nbsp;Karola Lwangi i&nbsp;Towarzyszy</p>
+<ul>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;3</li>
+<li>6.30 + Zdzisława Śledzia w&nbsp;14&nbsp;r.&nbsp;śm.</li>
+<li>6.30 + Dorotę Budzińską</li>
+<li>18.00 + Ludwikę Szczębarę i&nbsp;zm.&nbsp;z&nbsp;rodz.
+Szczębarów, Golców, Królów, Ostrowskich oraz dusze w&nbsp;czyśćcu
+cierpiące</li>
+<li>18.00 + Adama Nagórnego</li>
+</ul>
+
+<p class="intentions_date">04&nbsp;czerwca, Sobota</p>
+<ul>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;4</li>
+<li>6.30 + Urszulę Obitko</li>
+<li>18.00 int. wynagradzająca za&nbsp;grzechy świata przeciwko
+Niepokalanemu Sercu Maryi – Legion Maryi</li>
+<li>18.00 + Zygmunta Mazura</li>
+</ul>
+
+<p class="intentions_date">05&nbsp;czerwca, Niedziela –
+    <span style="color: grey">
+        Niedziela Zesłania Ducha Świętego
+    </span>
+</p>
+<ul>
+<li>7.30 + Zofię, Wawrzyńca Kwietniów, zm.&nbsp;z&nbsp;rodz.
+Kondeuszów i&nbsp;Kwietniów</li>
+<li>9.30 w&nbsp;int. parafian</li>
+<li>11.15 w&nbsp;int. Koła Żywego Różańca – zelatorka
+p.&nbsp;Halina</li>
+<li>12.30 + Mariannę, Kazimierza Kieszkowskich; zm.&nbsp;z&nbsp;rodz.
+Nizielskich, Kieszkowskich</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;5</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>29.&nbsp;maja 2022&nbsp;r.</h3>
+        <h3>VII Niedziela Wielkanocna – Uroczystość Wniebowstąpienia Pańskiego, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+        <p>2. W&nbsp;przyszłą niedzielę Uroczystość Zesłania Ducha&nbsp;Św.
+        – zakończenie okresu wielkanocnego.</p>
+        <p>3. Nabożeństwo czerwcowe bezpośrednio po&nbsp;Mszy&nbsp;św.
+        wieczornej przez wszystkie dni miesiąca czerwca.</p>
+        <p>4. Spotkanie z&nbsp;dziećmi, które były w&nbsp;zeszłym roku
+        u&nbsp;Pierwszej Komunii&nbsp;św. i&nbsp;z&nbsp;ich rodzicami;
+        w&nbsp;naszym kościele w&nbsp;najbliższy poniedziałek
+        o&nbsp;godz.&nbsp;16.30. Spowiedź&nbsp;św. dzieci rocznicowych
+        i&nbsp;ich rodziców w&nbsp;najbliższy piątek
+        o&nbsp;godz.&nbsp;17.00.</p>
+        <p>5. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+        na&nbsp;Świątynie Opatrzności Bożej w&nbsp;ramach Dnia
+        Dziękczynienia.</p>
+        <p>6. Parafia Chrystusa Króla Jedynego Zbawiciela Świata
+        w&nbsp;Sandomierzu (OO.&nbsp;Pallotyni) zaprasza na&nbsp;Mszę&nbsp;św.
+        i&nbsp;konferencję ks.&nbsp;Marcello Stanzione pt.&nbsp;„Święty
+        Michał Archanioł – misja końca czasów” we&nbsp;wtorek 31&nbsp;maja
+        br. o&nbsp;godz.&nbsp;18.00. Szczegóły na&nbsp;plakacie.</p>
+        <p>7. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej
+        i&nbsp;siódmej z&nbsp;naszej parafii ma&nbsp;spotkanie
+        w&nbsp;parafialnym kościele w&nbsp;najbliższy wtorek
+        o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim spowiedź&nbsp;św.</p>
+        <p>8. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota miesiąca.
+        W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.00.</p>
+        <p>9. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+        <p>10. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>11. Uroczystość Najświętszego Ciała i&nbsp;Krwi Pańskiej.
+        Rozpoczęcie tradycyjnie Mszą Świętą o&nbsp;godzinie 9.30
+        w&nbsp;naszym kościele parafialnym pod przewodnictwem Pasterza
+        diecezji biskupa Krzysztofa Nitkiewicza, z&nbsp;udziałem kapłanów
+        z&nbsp;miasta Sandomierza. Następnie procesja Eucharystyczna
+        ul.&nbsp;Mickiewicza do&nbsp;4&nbsp;ołtarzy. Zakończenie
+        i&nbsp;rozwiązanie procesji przy Wyższym Seminarium Duchownym. Więcej
+        szczegółów w&nbsp;przyszłą niedzielę w&nbsp;ogłoszeniach
+        parafialnych.</p>
+        <p>12. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
+        składane ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy
+        błogosławionej Niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 29.&nbsp;maja 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
