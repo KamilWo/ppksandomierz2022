@@ -1,79 +1,98 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            06.06. – 12.06.2022&nbsp;r.
+            13.06. – 19.06.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">06&nbsp;czerwca, Poniedziałek –
-Święto Najświętszej Maryi Panny Matki Kościoła</p>
+<p class="intentions_date">13&nbsp;czerwca, Poniedziałek –
+św.&nbsp;Antoniego z&nbsp;Padwy</p>
 <ul>
-<li>6.30 + Alfredy, Franciszka Kawiorskich</li>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;13</li>
+<li>6.30 + Urszulę Obitko</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+potrzebne łaski i&nbsp;opiekę Matki Bożej dla Jolanty z&nbsp;racji
+urodzin</li>
+<li>18.00 + Anielę Gospodrczyk w&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Zygmunta Mazura</li>
+</ul>
+
+<p class="intentions_date">14&nbsp;czerwca, Wtorek –
+bł.&nbsp;Michała Kozala</p>
+<ul>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;14</li>
 <li>6.30 + Kazimierza Bakalarskiego</li>
-<li>6.30 + Krzysztofa Bajdę</li>
-<li>18.00 + Otylię Nagórną – greg.&nbsp;6</li>
+<li>6.30 + Dorotę Budzińską</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
+i&nbsp;wyzwolenia dla osób uzależnionych, i&nbsp;ich rodzin</li>
+<li>18.00 + Marię Kowalską</li>
 <li>18.00 + Marka Lipca</li>
 </ul>
 
-<p class="intentions_date">07&nbsp;czerwca, Wtorek</p>
+<p class="intentions_date">15&nbsp;czerwca, Środa</p>
 <ul>
-<li>6.30 + Leokadię Bryłę</li>
-<li>6.30 + Edwarda Wąsa</li>
-<li>18.00 + Barbarę Nowacką</li>
-<li>18.00 + Otylię Nagórną – greg.&nbsp;7</li>
-<li>18.00 + Tomasza w&nbsp;24&nbsp;r.&nbsp;śm.</li>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, potrzebne
+łaski i&nbsp;opiekę Matki Bożej dla Jolanty</li>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;15</li>
+<li>18.00 int. dziękczynna z&nbsp;prośbą o&nbsp;Boże
+błogosławieństwo, opiekę Matki Bożej dla Wojciecha Fularskiego
+i&nbsp;całej rodziny</li>
+<li>18.00 + Barbarę, Stanisława Stańków; Andrzeja Stolińskiego
+w&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Zofię, Tadeusza Baranów</li>
 </ul>
 
-<p class="intentions_date">08&nbsp;czerwca, Środa –
-św.&nbsp;Jadwigi Królowej</p>
+<p class="intentions_date">16&nbsp;czerwca, Czwartek –
+Uroczystość Najświętszego Ciała i&nbsp;Krwi Chrystusa</p>
 <ul>
-<li>6.30 + Barbarę Bryłę</li>
-<li>6.30 + Stanisława, Dorotę Budzińskich</li>
-<li>18.00 int. dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo dla Helenki</li>
-<li>18.00 + Otylię Nagórną – greg.&nbsp;8</li>
-<li>18.00 + Mariana w&nbsp;12&nbsp;r.&nbsp;śm. Helenę Przyłuckich</li>
+<li>7.30 + Otylię Nagórną – greg.&nbsp;16</li>
+<li>9.30 w&nbsp;int. parafian</li>
+<li>9.30 + Bogusława Sarzyńskiego; Annę, Janusza, Stanisława
+Rożmiejów; Zofię, Mikołaja, Eugeniusza Kapustów</li>
+<li>9.30 + Krzysztofa Bajdę w&nbsp;miesiąc po&nbsp;śm.</li>
+<li>18.00 dziękczynno-błagalna, o&nbsp;Boże błogosławieństwo, opiekę
+Matki Bożej, potrzebne łaski na&nbsp;dalsze lata życia dla
+Patrycji</li>
 </ul>
 
-<p class="intentions_date">09&nbsp;czerwca, Czwartek –
-Święto Jezusa Chrystusa Najwyższego i&nbsp;Wiecznego Kapłana</p>
+<p class="intentions_date">17&nbsp;czerwca, Piątek –
+ODPUST PARAFIALNY – św.&nbsp;brata Alberta Chmielowskiego</p>
 <ul>
-<li>6.30 + Krystynę Przewlekły</li>
-<li>6.30 + Stanisława Bidzińskiego</li>
-<li>6.30 + Filipa Walickiego</li>
-<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę Matki Bożej, łaskę wiary i&nbsp;zdrowie dla Pawła</li>
-<li>18.00 + Otylię Nagórną – greg.&nbsp;9</li>
+<li>6.30 w int. o&nbsp;łaskę dobrej śmierci</li>
+<li>9.00 + Otylię Nagórną – greg.&nbsp;17</li>
+<li>18.00 w&nbsp;int. parafian</li>
+<li>18.00 + Alicję Przyłucką; Annę, Zygmunta Stylskich</li>
+<li>18.00 + Mariannę, Franciszka, Henryka Banasiewiczów; Stanisławę
+Asik</li>
 </ul>
 
-<p class="intentions_date">10&nbsp;czerwca, Piątek</p>
+<p class="intentions_date">18&nbsp;czerwca, Sobota</p>
 <ul>
-<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, potrzebne łaski i&nbsp;opiekę Matki Bożej dla dzieci, chrześniaków oraz ich rodzin</li>
-<li>6.30 o&nbsp;łaskę nawrócenia dla męża Piotra i&nbsp;ojca</li>
-<li>18.00 + Helenę, Ludwika Wabiów w&nbsp;r.&nbsp;śm. i&nbsp;zm. z&nbsp;rodz.</li>
-<li>18.00 + Otylię Nagórną – greg.&nbsp;10</li>
-<li>18.00 + Gustawa Sadłochę w&nbsp;12&nbsp;r.&nbsp;śm. oraz zm.&nbsp;z&nbsp;rodz. Sojdów i&nbsp;Sadłochów</li>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;18</li>
+<li>6.30 + Marka Stefaniaka</li>
+<li>18.00 dziękczynno-błagalna z&nbsp;racji 29&nbsp;r.&nbsp;sakramentu
+małżeństwa Joanny i&nbsp;Jarosława, o&nbsp;Boże błogosławieństwo,
+opiekę Matki Bożej, potrzebne łaski w&nbsp;dalszym życiu dla całej
+rodziny</li>
+<li>18.00 + Ewę Marciniak w&nbsp;miesiąc po&nbsp;śm.</li>
+<li>18.00 + Michalinę, Józefa Strawczyńskich i&nbsp;zm.
+z&nbsp;rodz.</li>
 </ul>
 
-<p class="intentions_date">11&nbsp;czerwca, Sobota –
-św.&nbsp;Barnaby Apostoła</p>
-<ul>
-<li>6.30 + Krystynę Przewlekły</li>
-<li>6.30 + Weronikę Szpatowicz</li>
-<li>6.30 + Filipa Walickiego</li>
-<li>18.00+ int. wynagradzająca Panu Bogu za grzechy aborcji i&nbsp;eutanazji</li>
-<li>18.00 + Otylię Nagórną – greg.&nbsp;11</li>
-</ul>
-
-<p class="intentions_date">12&nbsp;czerwca, Niedziela –
+<p class="intentions_date">19&nbsp;czerwca, Niedziela –
     <span style="color: grey">
-        Uroczystość Najświętszej Trójcy
+        Dwunasta Niedziela zwykła
     </span>
 </p>
 <ul>
-<li>7.30 w&nbsp;int. parafian</li>
-<li>9.30 + Mieczysława, Helenę, Jana Wnuków; Katarzynę, Stanisława Wyrzykowskich; Tadeusza Judę; Piotra Bogdańskiego</li>
-<li>11.15 dziękczynno-błagalna z&nbsp;racji 14&nbsp;r. urodzin Hani, o&nbsp;Boże błogosławieństwo, dary Ducha Świętego i&nbsp;opiekę Matki Bożej</li>
-<li>12.30 + Stanisławę w&nbsp;30&nbsp;r.&nbsp;śm., Mariana Podsiadłych, oraz zm.&nbsp;z&nbsp;rodz. Podsiadłych, Zwierzyków</li>
-<li>18.00 + Otylię Nagórną – greg. 12</li>
+<li>7.30 w int. parafian</li>
+<li>9.30 + Otylię Nagórną – greg.&nbsp;19</li>
+<li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
+<li>12.30 + Alicję Gilewską; Józefa, Stefanię Janus; Krystynę
+Polit</li>
+<li>18.00 + Witolda, Ryszarda Heciaków</li>
 </ul>
     </div>
 </div>
