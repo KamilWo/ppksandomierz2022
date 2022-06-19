@@ -16,7 +16,199 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 12.&nbsp;czerwca 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 19.&nbsp;czerwca 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            13.06. – 19.06.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">13&nbsp;czerwca, Poniedziałek –
+św.&nbsp;Antoniego z&nbsp;Padwy</p>
+<ul>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;13</li>
+<li>6.30 + Urszulę Obitko</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+potrzebne łaski i&nbsp;opiekę Matki Bożej dla Jolanty z&nbsp;racji
+urodzin</li>
+<li>18.00 + Anielę Gospodrczyk w&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Zygmunta Mazura</li>
+</ul>
+
+<p class="intentions_date">14&nbsp;czerwca, Wtorek –
+bł.&nbsp;Michała Kozala</p>
+<ul>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;14</li>
+<li>6.30 + Kazimierza Bakalarskiego</li>
+<li>6.30 + Dorotę Budzińską</li>
+<li>18.00 o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
+i&nbsp;wyzwolenia dla osób uzależnionych, i&nbsp;ich rodzin</li>
+<li>18.00 + Marię Kowalską</li>
+<li>18.00 + Marka Lipca</li>
+</ul>
+
+<p class="intentions_date">15&nbsp;czerwca, Środa</p>
+<ul>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, potrzebne
+łaski i&nbsp;opiekę Matki Bożej dla Jolanty</li>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;15</li>
+<li>18.00 int. dziękczynna z&nbsp;prośbą o&nbsp;Boże
+błogosławieństwo, opiekę Matki Bożej dla Wojciecha Fularskiego
+i&nbsp;całej rodziny</li>
+<li>18.00 + Barbarę, Stanisława Stańków; Andrzeja Stolińskiego
+w&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Zofię, Tadeusza Baranów</li>
+</ul>
+
+<p class="intentions_date">16&nbsp;czerwca, Czwartek –
+Uroczystość Najświętszego Ciała i&nbsp;Krwi Chrystusa</p>
+<ul>
+<li>7.30 + Otylię Nagórną – greg.&nbsp;16</li>
+<li>9.30 w&nbsp;int. parafian</li>
+<li>9.30 + Bogusława Sarzyńskiego; Annę, Janusza, Stanisława
+Rożmiejów; Zofię, Mikołaja, Eugeniusza Kapustów</li>
+<li>9.30 + Krzysztofa Bajdę w&nbsp;miesiąc po&nbsp;śm.</li>
+<li>18.00 dziękczynno-błagalna, o&nbsp;Boże błogosławieństwo, opiekę
+Matki Bożej, potrzebne łaski na&nbsp;dalsze lata życia dla
+Patrycji</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;czerwca, Piątek –
+ODPUST PARAFIALNY – św.&nbsp;brata Alberta Chmielowskiego</p>
+<ul>
+<li>6.30 w int. o&nbsp;łaskę dobrej śmierci</li>
+<li>9.00 + Otylię Nagórną – greg.&nbsp;17</li>
+<li>18.00 w&nbsp;int. parafian</li>
+<li>18.00 + Alicję Przyłucką; Annę, Zygmunta Stylskich</li>
+<li>18.00 + Mariannę, Franciszka, Henryka Banasiewiczów; Stanisławę
+Asik</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;czerwca, Sobota</p>
+<ul>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;18</li>
+<li>6.30 + Marka Stefaniaka</li>
+<li>18.00 dziękczynno-błagalna z&nbsp;racji 29&nbsp;r.&nbsp;sakramentu
+małżeństwa Joanny i&nbsp;Jarosława, o&nbsp;Boże błogosławieństwo,
+opiekę Matki Bożej, potrzebne łaski w&nbsp;dalszym życiu dla całej
+rodziny</li>
+<li>18.00 + Ewę Marciniak w&nbsp;miesiąc po&nbsp;śm.</li>
+<li>18.00 + Michalinę, Józefa Strawczyńskich i&nbsp;zm.
+z&nbsp;rodz.</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;czerwca, Niedziela –
+    <span style="color: grey">
+        Dwunasta Niedziela zwykła
+    </span>
+</p>
+<ul>
+<li>7.30 w int. parafian</li>
+<li>9.30 + Otylię Nagórną – greg.&nbsp;19</li>
+<li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
+<li>12.30 + Alicję Gilewską; Józefa, Stefanię Janus; Krystynę
+Polit</li>
+<li>18.00 + Witolda, Ryszarda Heciaków</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>12.&nbsp;czerwca 2022&nbsp;r.</h3>
+        <h3>Uroczystość Trójcy Świętej, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. Nabożeństwo czerwcowe bezpośrednio po&nbsp;Mszy&nbsp;św.
+        wieczornej przez wszystkie dni miesiąca czerwca.</p>
+        <p>2. W&nbsp;najbliższy poniedziałek, tj.&nbsp;13&nbsp;czerwca
+        br. trzynasta rocznica nominacji ks.&nbsp;dr Krzysztofa Nitkiewicza
+        na&nbsp;biskupa Diecezji Sandomierskiej, a&nbsp;w&nbsp;najbliższą
+        niedzielę trzydziesta siódma rocznica święceń kapłańskich.
+        W&nbsp;owe dni naszej modlitwie liturgicznej i&nbsp;osobistej
+        powierzajmy Bogu Czcigodnego Jubilata.</p>
+        <p>3. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej
+        - „Niedziela”, „Gość Niedzielny”, dla dzieci nowy numer „Małego
+        Gościa”.</p>
+        <p>4. Uroczystość Najświętszego Ciała i&nbsp;Krwi Pańskiej
+        16&nbsp;czerwca.&nbsp;Rozpoczęcie tradycyjnie Mszą Świętą
+        o&nbsp;godzinie 9.30 w&nbsp;naszym kościele parafialnym, pod
+        przewodnictwem Pasterza diecezji biskupa Krzysztofa Nitkiewicza,
+        z&nbsp;udziałem kapłanów z&nbsp;miasta Sandomierza. Następnie
+        procesja Eucharystyczna ul.&nbsp;Mickiewicza do&nbsp;4&nbsp;ołtarzy.
+        Zakończenie i&nbsp;rozwiązanie procesji przy Wyższym Seminarium
+        Duchownym. Nasza parafia przygotowuje pierwszy ołtarz na&nbsp;trasie
+        procesji. Zapraszamy katolickie organizacje i&nbsp;wspólnoty,
+        wszystkich do&nbsp;wspólnej modlitwy. Dzieci w&nbsp;białych strojach
+        zapraszamy do&nbsp;sypania kwiatów. <strong>W&nbsp;tym dniu nie
+        ma&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;11.15
+        i&nbsp;12.30.</strong></p>
+        <p>5. IV&nbsp;Diecezjalny Kongres Eucharystyczny Diecezji
+        Sandomierskiej będzie miał miejsce <strong>w&nbsp;dniach
+        od&nbsp;20 do&nbsp;26&nbsp;CZERWCA 2022&nbsp;R.</strong></p>
+
+        <p><strong>20&nbsp;czerwca 2022&nbsp;r. (poniedziałek) – Konkatedra
+        M.B.&nbsp;Królowej Polski w&nbsp;Stalowej Woli:</strong><br />
+        Stacja kongresowa z&nbsp;udziałem Ludzi Pracy</p>
+        <p><strong>21&nbsp;czerwca 2022&nbsp;r. (wtorek) Sanktuarium Matki Bożej Łaskawej
+        w&nbsp;Janowie Lubelskim:</strong><br />
+        Stacja kongresowa z&nbsp;udziałem dzieci komunijnych z&nbsp;całej
+        diecezji.</p>
+        <p><strong>22&nbsp;czerwca 2022&nbsp;r. (środa) kościół Matki Bożej Nieustającej
+        Pomocy Tarnobrzeg – Serbinów:</strong><br />
+        Stacja kongresowa z&nbsp;udziałem Starszych i&nbsp;Chorych.</p>
+        <p><strong>23&nbsp;czerwca 2022&nbsp;r. (czwartek) – Stacja kongresowa
+        w&nbsp;parafiach.</strong><br />
+        We&nbsp;wszystkich parafiach diecezji całodzienna Adoracja
+        Najświętszego Sakramentu – przebłaganie za&nbsp;grzechy przeciwko
+        Eucharystii. Zakończenie oktawy Bożego Ciała.</p>
+        <p><strong>24&nbsp;czerwca 2022&nbsp;r. (piątek) Sanktuarium Relikwii Drzewa
+        Krzyża Świętego Święty Krzyż:</strong><br />
+        Stacja kongresowa z&nbsp;udziałem duchowieństwa oraz osób życia
+        konsekrowanego.</p>
+        <p><strong>25&nbsp;czerwca 2022&nbsp;r. (sobota) Sanktuarium Matki Bożej
+        Bolesnej w&nbsp;Sulisławicach:</strong><br />
+        Stacja kongresowa z&nbsp;udziałem Rodzin.</p>
+        <p><strong>26&nbsp;czerwca 2022&nbsp;r. Niedziela – Katedra Sandomierz:</strong><br />
+        Stacja kongresowa z&nbsp;udziałem wspólnot, ruchów
+        i&nbsp;stowarzyszeń kościelnych.<br />
+        Godz.&nbsp;10.00 – Wystawienie Najświętszego Sakramentu (kościół
+        św.&nbsp;Michała), modlitwa oraz procesja do&nbsp;Bazyliki
+        Katedralnej.<br />
+        Godz.&nbsp;11.00 – Msza&nbsp;św. pod przewodnictwem kard. Gerharda
+        Müllera. <strong>Verte!</strong></p>
+        <p>Zachęcamy parafian do&nbsp;wzięcia udziału w&nbsp;tych poszczególnych
+        stacjach kongresowych. Prowadzimy zapisy, aby zorganizować wspólny
+        przejazd do&nbsp;poszczególnych miejsc, w&nbsp;których będą odbywały
+        się te&nbsp;uroczystości. Myślimy tu&nbsp;przede wszystkim
+        o&nbsp;dzieciach pierwszokomunijnych i&nbsp;rocznicowych (stacja
+        kongresowa we&nbsp;wtorek 21&nbsp;czerwca) oraz rodzinach (spotkanie
+        w&nbsp;Sulisławicach w&nbsp;sobotę 25&nbsp;czerwca). Szczegółowy plan
+        spotkań wywieszony jest w&nbsp;gablocie przy wyjściu z&nbsp;kościoła.
+        Zapisy do&nbsp;najbliższej środy włącznie.</p>
+
+        <p>6. Uroczysta Msza&nbsp;św. odpustowa ku&nbsp;czci&nbsp;św. Brata
+        Alberta Chmielowskiego w&nbsp;najbliższy piątek
+        o&nbsp;godz.&nbsp;18.00.</p>
+        <p>7. Duszpasterstwo Kobiet diecezji Sandomierskiej zaprasza
+        wszystkie Panie na&nbsp;Mszę&nbsp;św. w&nbsp;ich intencji
+        w&nbsp;najbliższy wtorek na&nbsp;godz.&nbsp;19.00, do&nbsp;kościoła
+        św.&nbsp;Józefa w&nbsp;Sandomierzu, oraz do&nbsp;udziału
+        w&nbsp;konferencji pt.&nbsp;„Stworzeni do&nbsp;relacji”</p>
+        <p>8. Życzymy Błogosławionej Niedzieli. Przyjmijcie Boże
+        Błogosławieństwo.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 12.&nbsp;czerwca 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
