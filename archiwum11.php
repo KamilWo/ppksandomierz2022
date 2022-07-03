@@ -16,7 +16,151 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 26.&nbsp;czerwca 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 7.&nbsp;lipca 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            27.06. – 03.07.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">27&nbsp;czerwca, Poniedziałek</p>
+<ul>
+<li>6.30 + Zofię Jungiewicz</li>
+<li>6.30 + Weronikę w&nbsp;12&nbsp;r.&nbsp;śm, Krzysztofa
+w&nbsp;1&nbsp;r.&nbsp;śm. Paluchów</li>
+<li>6.30 + Huberta Dąbrowskiego</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;27</li>
+<li>18.00 + Jana Radzimowskiego</li>
+</ul>
+
+<p class="intentions_date">28&nbsp;czerwca, Wtorek –
+św.&nbsp;Ireneusza</p>
+<ul>
+<li>6.30 + Zygmunta Mazura</li>
+<li>6.30 + Krystynę Przewlekły</li>
+<li>6.30 + Krzysztofa Bajdę</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;28</li>
+<li>18.00 + Jana Makowskiego w&nbsp;4&nbsp;r.&nbsp;śm.; Ryszarda,
+Jana, Klarę Chrząstowskich</li>
+</ul>
+
+<p class="intentions_date">29&nbsp;czerwca, Środa –
+Uroczystość świętych Apostołów Piotra i&nbsp;Pawła</p>
+<ul>
+<li>6.30 dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo dla
+Kasi</li>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
+<li>9.00 w&nbsp;int. ks.&nbsp;Piotrów posługujących w&nbsp;naszej
+Parafii, o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, wstawiennictwo św.&nbsp;Patrona – Legion Maryi</li>
+<li>18.00 w&nbsp;int. ks.&nbsp;Piotrów posługujących w&nbsp;naszej
+Parafii, o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, wstawiennictwo św.&nbsp;Patrona – Domowy Kościół</li>
+<li>18.00 w&nbsp;int. ks.&nbsp;Piotrów posługujących w&nbsp;naszej
+Parafii, o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, wstawiennictwo św.&nbsp;Patrona – Dzieci
+Pierwszokomunijne wraz z&nbsp;rodzicami</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;29</li>
+<li>18.00 + Henryka Króla, zm.&nbsp;z&nbsp;rodz. Królów, Ostrowskich,
+Szczębarów, Golców oraz dusze w&nbsp;czyśćcu cierpiące</li>
+</ul>
+
+<p class="intentions_date">30&nbsp;czerwca, Czwartek –
+św.&nbsp;Pierwszych Męczenników Kościoła Rzymskiego</p>
+<ul>
+<li>6.30 + Mariannę, Mieczysława, Józefa i&nbsp;zm. z&nbsp;rodz.</li>
+<li>6.30 + Zdzisława Romanowskiego</li>
+<li>6.30 + Filipa Walickiego</li>
+<li>18.00 + Zofię Smolińską w&nbsp;6&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Jana Ozdobę</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;30</li>
+</ul>
+
+<p class="intentions_date">01&nbsp;lipca, Piątek</p>
+<ul>
+<li>6.30 + Urszulę Obitko</li>
+<li>6.30 + Weronikę Szpatowicz</li>
+<li>6.30 + Huberta Dąbrowskiego</li>
+<li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana, Krystynę,
+Mariana</li>
+<li>18.00 + Czesława Szymańskiego; Krystynę Pycior</li>
+</ul>
+
+<p class="intentions_date">02&nbsp;lipca, Sobota</p>
+<ul>
+<li>6.30 + Zygmunta Mazura</li>
+<li>6.30 + Edwarda Wąsa</li>
+<li>18.00 int. wynagradzająca za&nbsp;grzechy świata przeciwko
+Niepokalanemu Sercu Maryi – Legion Maryi</li>
+<li>18.00 + Ewę Marciniak</li>
+<li>18.00 + Mariannę, Eugeniusza Jedlińskich</li>
+</ul>
+
+<p class="intentions_date">03&nbsp;lipca, Niedziela –
+    <span style="color: grey">
+        Czternasta Niedziela zwykła
+    </span>
+</p>
+<ul>
+<li>7.30 w&nbsp;int. parafian</li>
+<li>9.30 + Michała w&nbsp;8&nbsp;r.&nbsp;śm., Władysławę, Józefa
+Kędziorów; Jana, Zofię Łukawskich i&nbsp;zm. z&nbsp;rodz.</li>
+<li>11.15 w&nbsp;int. Koła Żywego Różańca – zelatorka p.&nbsp;Teodora
+Kwiecień</li>
+<li>12.30 + Sylwię Pawłowską w&nbsp;4&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Alicje Gilewską; Józefa, Stefanię Janus; Krystynę
+Polit</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>26.&nbsp;czerwca 2022&nbsp;r.</h3>
+        <h3>XIII Niedziela Zwykła, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;najbliższą Środę Uroczystość Świętych Apostołów Piotra
+        i&nbsp;Pawła. Msze&nbsp;św. o&nbsp;godz.&nbsp;6.30, 9.00
+        i&nbsp;o&nbsp;18.00 – „Dzień Papieski” taca tego dnia przeznaczona
+        jest na&nbsp;Stolicę Apostolską.</p>
+        <p>2. Wszystkim tym parafianom, którzy wzięli udział
+        w&nbsp;poszczególnych stacjach Kongresu Eucharystycznego Diecezji
+        Sandomierskiej, bardzo dziękujemy.</p>
+        <p>3. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>4. W&nbsp;tym tygodniu Pierwszy piątek, sobota miesiąca.
+        W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.00.</p>
+        <p>5. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+        <p>6. Przed nami czas wakacji, przypominamy wszystkim katolikom
+        o&nbsp;trwaniu w&nbsp;wierności wobec Boga i&nbsp;Jego przykazań,
+        i&nbsp;zachowaniu szacunku do&nbsp;Kościoła św. i&nbsp;przestrzegania
+        Jego zasad, choćby systematyczne uczestnictwo w&nbsp;niedzielnej
+        Mszy&nbsp;św., codzienna modlitwa, korzystanie
+        z&nbsp;sakramentów&nbsp;św., godny strój i&nbsp;szlachetne zachowanie
+        w&nbsp;miejscach św.</p>
+        <p>7. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
+        <p>8. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 26.&nbsp;czerwca 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
