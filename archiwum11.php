@@ -16,7 +16,183 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 19.&nbsp;czerwca 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 26.&nbsp;czerwca 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            20.06. – 26.06.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">20&nbsp;czerwca, Poniedziałek</p>
+<ul>
+<li>6.30 + Urszulę Obitko</li>
+<li>6.30 + Zofię Jungiewicz</li>
+<li>18.00 + Barbarę Nowacką</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;20</li>
+<li>18.00 + Mieczysława Chmiela w&nbsp;2&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;czerwca, Wtorek –
+św.&nbsp;Alojzego Gonzagi</p>
+<ul>
+<li>6.30 + Zygmunta, Urszulę i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
+<li>6.30 + Mieczysława Bieńka</li>
+<li>18.00 + Huberta Dąbrowskiego</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;21</li>
+<li>18.00 + Zygmunta Mazura</li>
+</ul>
+
+<p class="intentions_date">22&nbsp;czerwca, Środa</p>
+<ul>
+<li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego, opiekę
+Matki Bożej, potrzebne łaski, szczególnie łaskę wiary dla Oliwii</li>
+<li>6.30 + Barbarę Bryłę</li>
+<li>6.30 + Kazimierza Bakalarskiego</li>
+<li>18.00 + Dorotę Budzińską</li>
+<li>18.00 + Otylię Nagórną – greg.&nbsp;22</li>
+<li>18.00 + Jana Rogowskiego; Jana, Bronisławę Zająców</li>
+</ul>
+
+<p class="intentions_date">23&nbsp;czerwca, Czwartek –
+Uroczystość narodzenia św.&nbsp;Jana Chrzciciela</p>
+<ul>
+<li>6.30 + Zdzisława Słomkę w&nbsp;1&nbsp;r.&nbsp;śm. oraz dusze
+w&nbsp;czyśćcu cierpiące</li>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;23</li>
+<li>18.00 dziękczynno-błagalna z&nbsp;racji 18&nbsp;r.&nbsp;urodzin
+Aleksandry, o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej,
+potrzebne łaski na&nbsp;dalsze lata życia</li>
+<li>18.00 + Bronisława Sochę w&nbsp;miesiąc po&nbsp;śm.</li>
+<li>18.00 + Henryka Semprucha</li>
+<li>18.00 + Tomasza Płatosa</li>
+</ul>
+
+<p class="intentions_date">24&nbsp;czerwca, Piątek –
+Uroczystość Najświętszego Serca Pana Jezusa</p>
+<ul>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;24</li>
+<li>6.30 + Urszulę Obitko</li>
+<li>8.00 + Jana</li>
+<li>18.00 + Filipa Walickiego</li>
+<li>18.00 + Henryka Semprucha w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Jana Chmiela</li>
+</ul>
+
+<p class="intentions_date">25&nbsp;czerwca, Sobota –
+Niepokalanego Serca Najświętszej Maryi Panny</p>
+<ul>
+<li>6.30 + Otylię Nagórną – greg.&nbsp;25</li>
+<li>6.30 + Mariana Lesiaka</li>
+<li>18.00 + Zbigniewa Gądka</li>
+<li>18.00 + Wojciecha Piskóra</li>
+</ul>
+
+<p class="intentions_date">26&nbsp;czerwca, Niedziela –
+    <span style="color: grey">
+        Trzynasta Niedziela zwykła
+    </span>
+</p>
+<ul>
+<li>7.30 + Henryka Stefańskiego w&nbsp;r.&nbsp;śm.</li>
+<li>9.30 w&nbsp;int. parafian</li>
+<li>11.15 + Ewę Wrzosek w&nbsp;23&nbsp;r.&nbsp;śm. Bartłomieja, Jana,
+Teresę, Janinę</li>
+<li>12.30 + Otylię Nagórną – greg.&nbsp;26</li>
+<li>18.00 int. dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
+wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
+i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>19.&nbsp;czerwca 2022&nbsp;r.</h3>
+        <h3>XII Niedziela Zwykła, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;najbliższy piątek Uroczystość Najświętszego Serca Pana
+        Jezusa – Dzień Modlitw o&nbsp;Świętość Kapłanów (nie obowiązuje
+        wstrzemięźliwość od&nbsp;pokarmów mięsnych).</p>
+        <p>2. Prasa katolicka do&nbsp;nabycia na&nbsp;stoliku pod chórem.
+        Polecamy.</p>
+        <p>3. Jesteśmy wdzięczni parafianom za&nbsp;przygotowanie pięknego
+        ołtarza na&nbsp;Uroczystość Bożego Ciała, za&nbsp;udekorowanie
+        kwiatami ołtarza w&nbsp;kościele, dzieciom sypiącym kwiatki, scholi,
+        ministrantom, niosącym chorągwie. Wyrażamy podziękowanie wszystkim,
+        którzy w&nbsp;jakikolwiek sposób przyczynili się do&nbsp;tego,
+        że&nbsp;mogliśmy przeżyć to&nbsp;święto godnie i&nbsp;pobożnie.
+        <em>Bóg zapłać</em>. Także wszystkim parafianom, którzy wzięli udział
+        w&nbsp;Uroczystości odpustowej ku&nbsp;czci św.&nbsp;Brata Alberta
+        Chmielowskiego patrona naszej parafii bardzo dziękujemy.</p>
+        <p>4. IV&nbsp;Diecezjalny Kongres Eucharystyczny Diecezji
+        Sandomierskiej będzie miał miejsce w&nbsp;dniach <strong>od&nbsp;20
+        do&nbsp;26&nbsp;CZERWCA 2022&nbsp;R</strong>.</p>
+
+        <p><strong>20&nbsp;czerwca 2022&nbsp;r. (poniedziałek) – Konkatedra
+        M.B.&nbsp;Królowej Polski w&nbsp;Stalowej Woli</strong>: Stacja
+        kongresowa z&nbsp;udziałem Ludzi Pracy.</p>
+
+        <p><strong>21&nbsp;czerwca 2022&nbsp;r. (wtorek) Sanktuarium Matki
+        Bożej Łaskawej w&nbsp;Janowie Lubelskim</strong>: Stacja kongresowa
+        z&nbsp;udziałem dzieci komunijnych z&nbsp;całej diecezji.
+        Z&nbsp;naszej parafii do&nbsp;Janowa wyjeżdża jeden autokar dzieci
+        i&nbsp;rodziców z&nbsp;ks.&nbsp;Piotrem.</p>
+
+        <p><strong>22&nbsp;czerwca 2022&nbsp;r. (środa) kościół Matki Bożej
+        Nieustającej Pomocy Tarnobrzeg – Serbinów</strong>. Stacja kongresowa
+        z&nbsp;udziałem Starszych i&nbsp;Chorych.</p>
+
+        <p><strong>1&nbsp;czerwca 2022&nbsp;r. (czwartek) – Stacja kongresowa
+        w&nbsp;parafiach</strong>.</p>
+
+        <p>We&nbsp;wszystkich parafiach diecezji całodzienna Adoracja
+        Najświętszego Sakramentu – przebłaganie za&nbsp;grzechy przeciwko
+        Eucharystii. W&nbsp;naszym kościele adoracja od&nbsp;godz.&nbsp;7.00
+        do&nbsp;18.00 następnie procesja eucharystyczna wokół świątyni
+        i&nbsp;na&nbsp;zakończenie oktawy Bożego Ciała Msza&nbsp;św.
+        z&nbsp;poświęceniem wianków z&nbsp;ziół i&nbsp;kwiatów.</p>
+
+        <p><strong>2&nbsp;czerwca 2022&nbsp;r. (piątek) Sanktuarium Relikwii
+        Drzewa Krzyża Świętego – Święty Krzyż</strong>: Stacja kongresowa
+        z&nbsp;udziałem duchowieństwa oraz osób życia konsekrowanego.</p>
+
+        <p><strong>3&nbsp;czerwca 2022&nbsp;r. (sobota) Sanktuarium Matki
+        Bożej Bolesnej w&nbsp;Sulisławicach</strong>: Stacja kongresowa
+        z&nbsp;udziałem Rodzin.</p>
+
+        <p><strong>4&nbsp;czerwca 2022&nbsp;r. Niedziela – Katedra
+        Sandomierz</strong> Stacja kongresowa z&nbsp;udziałem wspólnot, ruchów
+        i&nbsp;stowarzyszeń kościelnych.</p>
+
+        <p>Godz.&nbsp;10.00 – Wystawienie Najświętszego Sakramentu (kościół
+        św.&nbsp;Michała), modlitwa oraz procesja do&nbsp;Bazyliki
+        Katedralnej. <strong>Verte!</strong></p>
+        <p>Godz.&nbsp;11.00 – Msza&nbsp;św. pod przewodnictwem kard. Gerharda
+        Müllera. Zachęcamy parafian do&nbsp;wzięcia udziału w&nbsp;tych
+        poszczególnych stacjach kongresowych. Szczegółowy plan spotkań
+        wywieszony jest w&nbsp;gablocie przy wyjściu z&nbsp;kościoła.</p>
+
+        <p>5. W&nbsp;piątek o&nbsp;godz.&nbsp;8.00, na&nbsp;zakończenie roku
+        szkolnego, odprawimy Mszę Świętą dziękczynną za&nbsp;otrzymane łaski
+        w&nbsp;ciągu całego roku. Zapraszamy dzieci, młodzież, rodziców,
+        nauczycieli do&nbsp;udziału we&nbsp;Mszy Świętej. Okazja
+        do&nbsp;spowiedzi codziennie wieczorem przed Mszą Świętą.</p>
+        <p>6. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą
+        swoje imieniny, urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 19.&nbsp;czerwca 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
