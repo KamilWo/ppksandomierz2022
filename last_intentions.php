@@ -1,72 +1,90 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            04.07. – 11.07.2022&nbsp;r.
+            11.07. – 17.07.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">04&nbsp;lipca, Poniedziałek</p>
+<p class="intentions_date">11&nbsp;lipca, Poniedziałek –
+Święto św.&nbsp;Benedykta</p>
 <ul>
-<li>6.30 + Weronikę Szpatowicz</li>
-<li>6.30 + Józefa, Helenę, Danutę, Kazimierza, Zygmunta Ziejów oraz
-dusze w&nbsp;czyśćcu cierpiące</li>
-<li>18.00 + Zygmunta Mazura</li>
+<li>6.30 + Franciszka w&nbsp;34&nbsp;r.&nbsp;śm., Stefanię Kowalskich;
+Marię Woś, Wiesławę Wałcerz</li>
+<li>6.30 + Annę Olborską</li>
+<li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+i&nbsp;eutanazji</li>
+<li>18.00 + Wiesławę</li>
+</ul>
+
+<p class="intentions_date">12&nbsp;lipca, Wtorek –
+św.&nbsp;Brunona Bonifacego z&nbsp;Kwerfurtu</p>
+<ul>
+<li>6.30 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin,
+o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
+i&nbsp;wyzwolenia</li>
+<li>6.30 + Mariannę w&nbsp;r.&nbsp;śm., Władysława, Jana Lipców; Jana
+Wnuka; Annę Tomaszewską</li>
+<li>18.00 + Krystynę w&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Jana Ozdobę w&nbsp;miesiąc po&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">13&nbsp;lipca, Środa –
+św.&nbsp;Andrzeja Świerada i&nbsp;Benedykta</p>
+<ul>
+<li>6.30 + Tadeusza Nowaka w&nbsp;r.&nbsp;śm., zm.&nbsp;z&nbsp;rodz.
+oraz dusze w&nbsp;czyśćcu cierpiące</li>
+<li>6.30 + Wiesławę</li>
+<li>18.00 dziękczynno-błagalna z&nbsp;racji 18&nbsp;r.&nbsp;ur.
+Katarzyny, o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
+Świętego, opiekę Matki Bożej na&nbsp;dalsze lata życia</li>
+<li>18.00 + Andrzeja Skoczylasa</li>
+</ul>
+
+<p class="intentions_date">14&nbsp;lipca, Czwartek</p>
+<ul>
+<li>6.30 + Henryka Świądra w&nbsp;r.&nbsp;śm. oraz dusze
+w&nbsp;czyśćcu cierpiące</li>
+<li>6.30 + Wiesławę</li>
+<li>18.00 + Marię, Władysława Budzińskich</li>
+<li>18.00 + Mieczysława, Genowefę Chałupczaków</li>
+</ul>
+
+<p class="intentions_date">15&nbsp;lipca, Piątek –
+św.&nbsp;Bonawentury</p>
+<ul>
+<li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
+<li>6.30 + Wiesławę</li>
+<li>18.00 + Adama Kwietniewskiego</li>
+<li>18.00 + Jana Ozdobę</li>
+</ul>
+
+<p class="intentions_date">16&nbsp;lipca, Sobota –
+Najświętszej Maryi Panny z&nbsp;Góry Karmel</p>
+<ul>
+<li>6.30 w&nbsp;int. dzieci i&nbsp;chrześniaków oraz ich rodzin,
+o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej, potrzebne łaski</li>
+<li>18.00 + Helenę, Antoniego, Stanisława, Jana Kucharczaków;
+Grzegorza Snocha</li>
 <li>18.00 + Bronisława Sochę</li>
 </ul>
 
-<p class="intentions_date">05&nbsp;lipca, Wtorek</p>
-<ul>
-<li>6.30 + Urszulę Obitko</li>
-<li>18.00 + Barbarę Bryłę</li>
-<li>18.00 + Genowefę, Tadeusza, Marię, Józefa Tokarskich;
-zm.&nbsp;z&nbsp;rodz. Dydo oraz dusze w&nbsp;czyśćcu cierpiące</li>
-</ul>
-
-<p class="intentions_date">06&nbsp;lipca, Środa –
-bł.&nbsp;Marii Teresy Ledóchowskiej</p>
-<ul>
-<li>6.30 + Leokadię Wnuk w&nbsp;11&nbsp;r.&nbsp;śm.</li>
-<li>18.00 + Wiktora Nowickiego</li>
-<li>18.00 + Zofię, Henryka w&nbsp;2&nbsp;r.&nbsp;śm. Krystiana
-Kucwajów;</li>
-</ul>
-
-<p class="intentions_date">07&nbsp;lipca, Czwartek</p>
-<ul>
-<li>6.30 w&nbsp;int. o&nbsp;świętość Kapłanów oraz nowe liczne
-powołania kapłańskie</li>
-<li>18.00 + Wiktora Nowickiego</li>
-<li>18.00 + Małgorzatę Piotrowską-Pająk w&nbsp;7&nbsp;r.&nbsp;śm.</li>
-</ul>
-
-<p class="intentions_date">08&nbsp;lipca, Piątek –
-św.&nbsp;Jana z&nbsp;Dukli</p>
-<ul>
-<li>6.30 + Andrzeja, Genowefę Tosiów; Mariannę Sendrowicz</li>
-<li>18.00 + Józefę, Jana Marców; Ryszarda Pietruszkę</li>
-<li>18.00 + Bronisława Sochę</li>
-</ul>
-
-<p class="intentions_date">09&nbsp;lipca, Sobota</p>
-<ul>
-<li>6.30 + Salomeę, Weronikę, Rafała Pawelców</li>
-<li>18.00 + Barbarę Bryłę</li>
-<li>18.00 + Zygmunta w&nbsp;r.&nbsp;śm., Reginę, Rafała Stolów;
-Anielę, Wincentego Bilskich</li>
-</ul>
-
-<p class="intentions_date">10&nbsp;lipca, Niedziela –
+<p class="intentions_date">17&nbsp;lipca, Niedziela –
     <span style="color: grey">
-        Piętnasta Niedziela zwykła
+        Szesnasta Niedziela zwykła
     </span>
 </p>
 <ul>
-<li>7.30 + Zygmunta, Józefa, Annę Szcześniaków; Jana, Agnieszkę
-Wieczorków</li>
-<li>9.30 w&nbsp;int. parafian</li>
-<li>11.15 + Janinę, Czesława, Krzysztofa Płazów</li>
-<li>12.30 + Józefa Liśkiewicza i&nbsp;zm. z&nbsp;rodz.</li>
-<li>18.00 w&nbsp;int. o&nbsp;nawrócenie męża Piotra i&nbsp;ojca</li>
+<li>7.30 + Stanisława, Janinę Kulów, zm.&nbsp;z&nbsp;rodz. Kulów
+i&nbsp;Czujów</li>
+<li>9.30 + Sylwestra, Kazimierza Wojnów; Mariannę, Leszka Krawczyków</li>
+<li>11.15 dziękczynno-błagalna z&nbsp;racji 40&nbsp;r.&nbsp;sakr.
+małżeństwa Anny i&nbsp;Stanisława, o&nbsp;Boże błogosławieństwo,
+opiekę Matki Bożej, potrzebne łaski dla całej rodziny</li>
+<li>11.15 w&nbsp;int. parafian</li>
+<li>12.30 w&nbsp;int. Kręgu Domowego Kościoła</li>
+<li>18.00 int. dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
+wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
+i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
 </ul>
     </div>
 </div>
