@@ -1,90 +1,67 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            11.07. – 17.07.2022&nbsp;r.
+            18.07. – 24.07.2022&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">11&nbsp;lipca, Poniedziałek –
-Święto św.&nbsp;Benedykta</p>
+<p class="intentions_date">18&nbsp;lipca, Poniedziałek</p>
 <ul>
-<li>6.30 + Franciszka w&nbsp;34&nbsp;r.&nbsp;śm., Stefanię Kowalskich;
-Marię Woś, Wiesławę Wałcerz</li>
-<li>6.30 + Annę Olborską</li>
-<li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
-i&nbsp;eutanazji</li>
-<li>18.00 + Wiesławę</li>
+<li>6.30 + Urszulę Obitko</li>
+<li>18.00 + Kazimierza, Mariannę, Henryka Lipców; Mariannę, Walentego
+Grzesików</li>
 </ul>
 
-<p class="intentions_date">12&nbsp;lipca, Wtorek –
-św.&nbsp;Brunona Bonifacego z&nbsp;Kwerfurtu</p>
+<p class="intentions_date">19&nbsp;lipca, Wtorek</p>
 <ul>
-<li>6.30 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin,
-o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
-i&nbsp;wyzwolenia</li>
-<li>6.30 + Mariannę w&nbsp;r.&nbsp;śm., Władysława, Jana Lipców; Jana
-Wnuka; Annę Tomaszewską</li>
-<li>18.00 + Krystynę w&nbsp;r.&nbsp;śm.</li>
-<li>18.00 + Jana Ozdobę w&nbsp;miesiąc po&nbsp;śm.</li>
+<li>6.30 + Krystynę Przewlekły</li>
+<li>18.00 + Stanisława, Reginę, Marka Zakrzewskich</li>
 </ul>
 
-<p class="intentions_date">13&nbsp;lipca, Środa –
-św.&nbsp;Andrzeja Świerada i&nbsp;Benedykta</p>
+<p class="intentions_date">20&nbsp;lipca, Środa</p>
 <ul>
-<li>6.30 + Tadeusza Nowaka w&nbsp;r.&nbsp;śm., zm.&nbsp;z&nbsp;rodz.
-oraz dusze w&nbsp;czyśćcu cierpiące</li>
-<li>6.30 + Wiesławę</li>
-<li>18.00 dziękczynno-błagalna z&nbsp;racji 18&nbsp;r.&nbsp;ur.
-Katarzyny, o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
-Świętego, opiekę Matki Bożej na&nbsp;dalsze lata życia</li>
-<li>18.00 + Andrzeja Skoczylasa</li>
+<li>6.30 + Zofię Jungiewicz</li>
+<li>18.00 + Zofię, Czesława Chlebnych w&nbsp;r.&nbsp;śm.</li>
 </ul>
 
-<p class="intentions_date">14&nbsp;lipca, Czwartek</p>
+<p class="intentions_date">21&nbsp;lipca, Czwartek</p>
 <ul>
-<li>6.30 + Henryka Świądra w&nbsp;r.&nbsp;śm. oraz dusze
-w&nbsp;czyśćcu cierpiące</li>
-<li>6.30 + Wiesławę</li>
-<li>18.00 + Marię, Władysława Budzińskich</li>
-<li>18.00 + Mieczysława, Genowefę Chałupczaków</li>
+<li>6.30 + Urszulę Obitko</li>
+<li>18.00 + Mariannę w&nbsp;6&nbsp;r.&nbsp;śm., Tadeusza, Marka,
+Wiesława Stefaniaków</li>
 </ul>
 
-<p class="intentions_date">15&nbsp;lipca, Piątek –
-św.&nbsp;Bonawentury</p>
+<p class="intentions_date">22&nbsp;lipca, Piątek –
+Święto św. Marii Magdaleny</p>
 <ul>
-<li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
-<li>6.30 + Wiesławę</li>
-<li>18.00 + Adama Kwietniewskiego</li>
-<li>18.00 + Jana Ozdobę</li>
+<li>6.30 dziękczynno-błagalna z&nbsp;racji 5&nbsp;r.&nbsp;sakr.
+małżeństwa Joanny i&nbsp;Michała, o&nbsp;Boże błogosławieństwo,
+opiekę Matki Bożej, potrzebne łaski dla całej rodziny</li>
+<li>18.00 + Edmunda w&nbsp;1&nbsp;r.&nbsp;śm., Helenę, Jana
+Szafrańskich</li>
 </ul>
 
-<p class="intentions_date">16&nbsp;lipca, Sobota –
-Najświętszej Maryi Panny z&nbsp;Góry Karmel</p>
+<p class="intentions_date">23&nbsp;lipca, Sobota –
+Święto św.&nbsp;Brygidy, Patronki Europy</p>
 <ul>
-<li>6.30 w&nbsp;int. dzieci i&nbsp;chrześniaków oraz ich rodzin,
-o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej, potrzebne łaski</li>
-<li>18.00 + Helenę, Antoniego, Stanisława, Jana Kucharczaków;
-Grzegorza Snocha</li>
-<li>18.00 + Bronisława Sochę</li>
+<li>6.30 + Weronikę Szpatowicz</li>
+<li>18.00 + Genowefę Skrok</li>
+<li>18.00 + Adama Nagórnego</li>
 </ul>
 
-<p class="intentions_date">17&nbsp;lipca, Niedziela –
+<p class="intentions_date">24&nbsp;lipca, Niedziela –
     <span style="color: grey">
-        Szesnasta Niedziela zwykła
+        Siedemnasta Niedziela zwykła
     </span>
 </p>
 <ul>
-<li>7.30 + Stanisława, Janinę Kulów, zm.&nbsp;z&nbsp;rodz. Kulów
-i&nbsp;Czujów</li>
-<li>9.30 + Sylwestra, Kazimierza Wojnów; Mariannę, Leszka Krawczyków</li>
-<li>11.15 dziękczynno-błagalna z&nbsp;racji 40&nbsp;r.&nbsp;sakr.
-małżeństwa Anny i&nbsp;Stanisława, o&nbsp;Boże błogosławieństwo,
-opiekę Matki Bożej, potrzebne łaski dla całej rodziny</li>
-<li>11.15 w&nbsp;int. parafian</li>
-<li>12.30 w&nbsp;int. Kręgu Domowego Kościoła</li>
-<li>18.00 int. dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
-wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
-i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
+<li>7.30 + Jakuba Niewójta w&nbsp;12&nbsp;r.&nbsp;śm.</li>
+<li>9.30 + Bogusława Sarzyńskiego; Annę, Janusza, Stanisława
+Rożmiejów; Zofię, Mikołaja, Eugeniusza Kapustów</li>
+<li>11.15 + Mariannę, Jakuba, Mieczysława Pijewskich</li>
+<li>12.30 w&nbsp;int. parafian</li>
+<li>18.00 + Otylię, Juliusza Nagórnych, zm.&nbsp;z&nbsp;rodz.
+Grzesiaków, Nagórnych</li>
 </ul>
     </div>
 </div>

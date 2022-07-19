@@ -16,7 +16,169 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 11.&nbsp;lipca 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 17.&nbsp;lipca 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            11.07. – 17.07.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">11&nbsp;lipca, Poniedziałek –
+Święto św.&nbsp;Benedykta</p>
+<ul>
+<li>6.30 + Franciszka w&nbsp;34&nbsp;r.&nbsp;śm., Stefanię Kowalskich;
+Marię Woś, Wiesławę Wałcerz</li>
+<li>6.30 + Annę Olborską</li>
+<li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+i&nbsp;eutanazji</li>
+<li>18.00 + Wiesławę</li>
+</ul>
+
+<p class="intentions_date">12&nbsp;lipca, Wtorek –
+św.&nbsp;Brunona Bonifacego z&nbsp;Kwerfurtu</p>
+<ul>
+<li>6.30 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin,
+o&nbsp;Boże błogosławieństwo, łaskę przemiany, uzdrowienia
+i&nbsp;wyzwolenia</li>
+<li>6.30 + Mariannę w&nbsp;r.&nbsp;śm., Władysława, Jana Lipców; Jana
+Wnuka; Annę Tomaszewską</li>
+<li>18.00 + Krystynę w&nbsp;r.&nbsp;śm.</li>
+<li>18.00 + Jana Ozdobę w&nbsp;miesiąc po&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">13&nbsp;lipca, Środa –
+św.&nbsp;Andrzeja Świerada i&nbsp;Benedykta</p>
+<ul>
+<li>6.30 + Tadeusza Nowaka w&nbsp;r.&nbsp;śm., zm.&nbsp;z&nbsp;rodz.
+oraz dusze w&nbsp;czyśćcu cierpiące</li>
+<li>6.30 + Wiesławę</li>
+<li>18.00 dziękczynno-błagalna z&nbsp;racji 18&nbsp;r.&nbsp;ur.
+Katarzyny, o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
+Świętego, opiekę Matki Bożej na&nbsp;dalsze lata życia</li>
+<li>18.00 + Andrzeja Skoczylasa</li>
+</ul>
+
+<p class="intentions_date">14&nbsp;lipca, Czwartek</p>
+<ul>
+<li>6.30 + Henryka Świądra w&nbsp;r.&nbsp;śm. oraz dusze
+w&nbsp;czyśćcu cierpiące</li>
+<li>6.30 + Wiesławę</li>
+<li>18.00 + Marię, Władysława Budzińskich</li>
+<li>18.00 + Mieczysława, Genowefę Chałupczaków</li>
+</ul>
+
+<p class="intentions_date">15&nbsp;lipca, Piątek –
+św.&nbsp;Bonawentury</p>
+<ul>
+<li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
+<li>6.30 + Wiesławę</li>
+<li>18.00 + Adama Kwietniewskiego</li>
+<li>18.00 + Jana Ozdobę</li>
+</ul>
+
+<p class="intentions_date">16&nbsp;lipca, Sobota –
+Najświętszej Maryi Panny z&nbsp;Góry Karmel</p>
+<ul>
+<li>6.30 w&nbsp;int. dzieci i&nbsp;chrześniaków oraz ich rodzin,
+o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej, potrzebne łaski</li>
+<li>18.00 + Helenę, Antoniego, Stanisława, Jana Kucharczaków;
+Grzegorza Snocha</li>
+<li>18.00 + Bronisława Sochę</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;lipca, Niedziela –
+    <span style="color: grey">
+        Szesnasta Niedziela zwykła
+    </span>
+</p>
+<ul>
+<li>7.30 + Stanisława, Janinę Kulów, zm.&nbsp;z&nbsp;rodz. Kulów
+i&nbsp;Czujów</li>
+<li>9.30 + Sylwestra, Kazimierza Wojnów; Mariannę, Leszka Krawczyków</li>
+<li>11.15 dziękczynno-błagalna z&nbsp;racji 40&nbsp;r.&nbsp;sakr.
+małżeństwa Anny i&nbsp;Stanisława, o&nbsp;Boże błogosławieństwo,
+opiekę Matki Bożej, potrzebne łaski dla całej rodziny</li>
+<li>11.15 w&nbsp;int. parafian</li>
+<li>12.30 w&nbsp;int. Kręgu Domowego Kościoła</li>
+<li>18.00 int. dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
+wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
+i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>10.&nbsp;lipca 2022&nbsp;r.</h3>
+        <h3>XV Niedziela Zwykła, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;dniach od&nbsp;4 do&nbsp;12&nbsp;sierpnia&nbsp;br.
+        odbędzie się XXXIX Piesza Pielgrzymka Ziemi Sandomierskiej
+        na&nbsp;Jasną Górę pod hasłem „Maryja znakiem nadziei i&nbsp;pokoju”.
+        Pielgrzymka ma&nbsp;charakter wędrownych rekolekcji z&nbsp;programem
+        różnych modlitw, konferencji i&nbsp;śpiewu. Jest zarazem jedną
+        z&nbsp;dróg prowadzących do&nbsp;Pana Boga poprzez wstawiennictwo
+        Maryi. Na&nbsp;pątniczy szlak zapraszamy ludzi dobrej woli, starszych
+        i&nbsp;młodych. Zapisy w&nbsp;parafii. Wpisowe 150&nbsp;zł
+        od&nbsp;osoby, druga osoba z&nbsp;rodziny 100&nbsp;zł, trzecia
+        i&nbsp;następne 70&nbsp;zł. Z&nbsp;naszej parafii w&nbsp;pielgrzymce
+        pójdzie dwóch kapłanów, przewodnikiem grupy sandomierskiej jest
+        ks.&nbsp;Krystian Kałuża – wikariusz w&nbsp;naszej parafii. Dla osób,
+        które z&nbsp;różnych przyczyn nie będą mogły wziąć udział
+        w&nbsp;9-dniowej pielgrzymce będzie możliwość 1-dniowego sztafetowego
+        pielgrzymowania (koszt: 20&nbsp;zł, dojazd we&nbsp;własnym zakresie.
+        Więcej informacji u&nbsp;Księdza Krystiana. Zachęcamy również tych,
+        którzy nie mogą wziąć udziału w&nbsp;pieszej pielgrzymce
+        do&nbsp;udziału w&nbsp;duchowym pielgrzymowaniu i&nbsp;łączeniu się
+        każdego dnia z&nbsp;pielgrzymami przez modlitwę.</p>
+        <p>2. W&nbsp;dniach od&nbsp;20 do&nbsp;27&nbsp;lipca organizowana
+        jest autokarowa pielgrzymka do&nbsp;Medjugorie. Koszt
+        to&nbsp;900&nbsp;zł +&nbsp;170&nbsp;euro. Szczegółowe informacje
+        na&nbsp;plakacie w&nbsp;gablocie, zapisy do&nbsp;16&nbsp;lipca
+        u&nbsp;p.&nbsp;Haliny Kawiorskiej. Wyjazd uzależniony jest
+        od&nbsp;ilości chętnych osób.</p>
+        <p>3. Przed nami czas wakacji, przypominamy wszystkim katolikom
+        o&nbsp;trwaniu w&nbsp;wierności wobec Boga i&nbsp;Jego przykazań,
+        i&nbsp;zachowaniu szacunku do&nbsp;Kościoła&nbsp;św.
+        i&nbsp;przestrzegania Jego zasad, choćby systematyczne uczestnictwo
+        w&nbsp;niedzielnej Mszy&nbsp;św. codzienna modlitwa, korzystanie
+        za&nbsp;sakramentów&nbsp;św. godny strój i&nbsp;szlachetne zachowanie
+        w&nbsp;miejscach&nbsp;św.</p>
+        <p>4. Diecezjalne studium Życia Rodziny w&nbsp;Sandomierzu zaprasza
+        kandydatów na&nbsp;nowy rok akademicki 2022 / 2023. Słuchaczami
+        Studium mogą być: młodzież z&nbsp;ukończoną szkołą średnią, studenci,
+        małżonkowie i&nbsp;samotni, rodzice, wychowawcy, katecheci
+        i&nbsp;nauczyciele, pracownicy służby zdrowia oraz narzeczeni.
+        Studium trwa dwa lata: zajęcia są&nbsp;od&nbsp;października
+        do&nbsp;czerwca, odbywają się w&nbsp;soboty, dwa razy w&nbsp;miesiącu
+        i&nbsp;są&nbsp;bezpłatne. Wszystkie szczegóły na&nbsp;plakacie
+        w&nbsp;gablocie. Zgłoszenia do&nbsp;24&nbsp;września 2022&nbsp;r.</p>
+        <p>5. W&nbsp;sobotę 16&nbsp;lipca w&nbsp;Liturgii będziemy wspominać
+        NMP z&nbsp;Góry Karmel – Matkę Bożą Szkaplerzną. Na&nbsp;Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;18.00 będzie możliwość przyjęcia Szkaplerza
+        i&nbsp;włączenia się do&nbsp;Rodziny Szkaplerza. Więcej informacji
+        w&nbsp;gablocie przy wejściu do&nbsp;kościoła.</p>
+        <p>6. W&nbsp;przyszłą niedzielę ks.&nbsp;Damian Surowiec, który jako
+        diakon odbywał praktykę duszpasterską, o&nbsp;godz.&nbsp;12.30 będzie
+        celebrował Msze&nbsp;św. prymicyjną w&nbsp;naszej parafii
+        i&nbsp;udzieli prymicyjnego błogosławieństwa uczestnikom tej Liturgii,
+        przekazując pamiątkowe prymicyjne obrazki z&nbsp;osobistym duchowym
+        mottem. Zapraszamy.</p>
+        <p>7. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 10.&nbsp;lipca 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
