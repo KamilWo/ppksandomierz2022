@@ -16,7 +16,126 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia - 24.&nbsp;lipca 2022&nbsp;r.</h2>
+                <h2>Okres 1.&nbsp;stycznia - 31.&nbsp;lipca 2022&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            25.07. – 31.07.2022&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">25&nbsp;lipca, Poniedziałek –
+Święto św.&nbsp;Jakuba Apostoła</p>
+<ul>
+<li>6.30 w&nbsp;int. Anny z&nbsp;racji imienin, o&nbsp;Boże
+błogosławieństwo, dary Ducha Świętego, opiekę Matki Bożej</li>
+<li>6.30 + Kazimierę Musiał</li>
+<li>18.00 + Krzysztofa, Stefanię, Józefa Łukawskich</li>
+</ul>
+
+<p class="intentions_date">26&nbsp;lipca, Wtorek –
+św.&nbsp;Joachima i&nbsp;Anny, rodziców Najświętszej Maryi Panny</p>
+<ul>
+<li>6.30 + Izabelę Serebak</li>
+<li>6.30 + Andrzeja Skoczylasa</li>
+<li>18.00 + Józefa, Stanisława Wolaków; Mariannę, Adama Bąków
+i&nbsp;zm. z&nbsp;rodz.</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;lipca, Środa</p>
+<ul>
+<li>6.30 + Stefanię Seweryńską w&nbsp;r.&nbsp;śm., Annę Siejka</li>
+<li>18.00 dziękczynno-błagalna z&nbsp;racji 20&nbsp;r. sakr.
+małżeństwa Marioli i&nbsp;Piotra Brecławskich, o&nbsp;Boże
+błogosławieństwo, opiekę Matki Bożej, potrzebne łaski dla całej
+rodziny</li>
+<li>18.00 dziękczynno-błagalna z&nbsp;racji 26&nbsp;r. urodzin
+Mateusza, o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
+Świętego, opiekę Matki Bożej,</li>
+</ul>
+
+<p class="intentions_date">28&nbsp;lipca, Czwartek</p>
+<ul>
+<li>6.30 + Urszulę Obitko</li>
+<li>6.30 + Andrzeja Skoczylasa</li>
+<li>18.00 int. dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo
+dla Dawida</li>
+</ul>
+
+<p class="intentions_date">29&nbsp;lipca, Piątek –
+św.&nbsp;Marty, Marii i&nbsp;Łazarza</p>
+<ul>
+<li>6.30 + Edwarda Wąsa</li>
+<li>6.30 + Andrzeja Skoczylasa</li>
+<li>18.00 + Adama Kwietniewskiego</li>
+</ul>
+
+<p class="intentions_date">30&nbsp;lipca, Sobota</p>
+<ul>
+<li>6.30 + Piotra Stupczego</li>
+<li>18.00 + Marię, Antoniego Lasotów; Władysławę, Michalinę,
+Wojciecha Politów</li>
+</ul>
+
+<p class="intentions_date">31&nbsp;lipca, Niedziela –
+    <span style="color: grey">
+        Osiemnasta Niedziela Zwykła
+    </span>
+</p>
+<ul>
+<li>7.30 w&nbsp;int. parafian</li>
+<li>9.30 + Małgorzatę Walczyna w&nbsp;5&nbsp;r.&nbsp;śm.</li>
+<li>11.15 + Janinę, Mariana, Zbigniewa Błajszczaków; Józefę, Stefana,
+Artura Steców; Mieczysława Fijasa; Stanisława, Jana Bochniaków</li>
+<li>12.30 + Annę, Pawła Cichoniów</li>
+<li>18.00 + Stefana w&nbsp;r.&nbsp;śm., Genowefę, Jarosława Burków,
+Janinę, Stefana Plachów</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>24.&nbsp;lipca 2022&nbsp;r.</h3>
+        <h3>XVII Niedziela Zwykła, Rok C</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;poniedziałek wspominamy w&nbsp;kalendarzu liturgicznym
+        Świętych Krzysztofa i&nbsp;Jakuba Apostoła. Jest to&nbsp;dzień
+        imienin Pasterza diecezji. Zachęcamy do&nbsp;modlitwy w&nbsp;Jego
+        intencji. Święty Krzysztof to&nbsp;patron kierowców. Tego dnia
+        święcimy pojazdy mechaniczne. Zapraszamy kierowców
+        i&nbsp;korzystających z&nbsp;pojazdów mechanicznych do&nbsp;udziału
+        we&nbsp;Mszy Świętej o&nbsp;godzinie 18.00, a&nbsp;po&nbsp;Eucharystii
+        poświęcimy pojazdy.</p>
+        <p>2. W&nbsp;dniach od&nbsp;4 do&nbsp;12&nbsp;sierpnia br. odbędzie
+        się XXXIX Piesza Pielgrzymka Ziemi Sandomierskiej na&nbsp;Jasną Górę
+        pod hasłem „Maryja znakiem nadziei i&nbsp;pokoju”, Spotkanie
+        pielgrzymów Pierwszej Grupy Sandomierskiej odbędzie się w&nbsp;naszej
+        parafii, w&nbsp;niedzielę 31&nbsp;lipca o&nbsp;godz.&nbsp;11.15 –
+        najpierw Msza&nbsp;św., a&nbsp;po&nbsp;niej spotkanie. Zapisy
+        na&nbsp;pielgrzymkę odbędą się przy kościele&nbsp;św. Pawła
+        w&nbsp;Sandomierzu 3&nbsp;sierpnia w&nbsp;godzinach od&nbsp;10
+        do&nbsp;17.00. Bagaże składamy przy zapisach.</p>
+        <p>3. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Są&nbsp;czasopisma „Niedziela”, „Miłujcie się”, „Gość Niedzielny”
+        i&nbsp;„Mały Gość Niedzielny”.</p>
+        <p>4. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc, prace porządkowe przy kościele, złożone ofiary
+        na&nbsp;rzecz parafii. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą
+        swoje imieniny, urodziny, inne rocznice, składamy najlepsze życzenia.
+        Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 24.&nbsp;lipca 2022&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
